@@ -1,0 +1,21 @@
+@import url('//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic');
+body {
+  padding-top: 60px;
+  font-family: "Lora", Georgia, "Times New Roman", Times, serif;
+  text-rendering: optimizelegibility;
+  background-color: #f6f6f6;
+  font-size: 17px;
+  line-height: 26px;
+}
+h1 {
+  font-size: 46.75px;
+}
+h1, h2, h3 {
+  line-height: 52px;
+}
+.navbar {
+  line-height: 20px;
+}
+.navbar .brand {
+  margin-left: 0;
+}

@@ -1,0 +1,25 @@
+---
+layout: default
+navbar: true
+---
+
+{% sidebar %}
+
+{% if page.location %}
+Where
+: {{ page.location }}
+{% endif %}
+
+{% if page.date %}
+When
+: {{ page.date | date_to_long_string }}
+{% endif %}
+
+{% if page.participants %}
+Who
+: {{ page.participants }}
+{% endif %}
+
+{% endsidebar %}
+
+{{ content }}
