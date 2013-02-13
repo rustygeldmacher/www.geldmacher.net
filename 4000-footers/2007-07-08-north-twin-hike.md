@@ -1,9 +1,9 @@
 ---
 date: 2007-07-08 23:21:30
 layout: hike
-slug: north-twin-hike
+permalink: north-twin-hike.html
 title: North Twin Hike
-wordpress_id: 250
+location: White Mountains, NH
 ---
 
 ### Date

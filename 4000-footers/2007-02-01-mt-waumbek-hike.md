@@ -1,9 +1,9 @@
 ---
 date: 2007-02-01 23:30:18
 layout: hike
-slug: mt-waumbek-hike
+permalink: mt-waumbek-hike.html
 title: Mt. Waumbek Hike
-wordpress_id: 245
+location: White Mountains, NH
 ---
 
 ### Date

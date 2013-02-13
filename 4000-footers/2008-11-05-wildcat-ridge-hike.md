@@ -1,9 +1,9 @@
 ---
 date: 2008-11-05 22:33:28
 layout: hike
-slug: wildcat-ridge-hike
+permalink: wildcat-ridge-hike.html
 title: Wildcat Ridge Hike
-wordpress_id: 299
+location: White Mountains, NH
 ---
 
 ### Date

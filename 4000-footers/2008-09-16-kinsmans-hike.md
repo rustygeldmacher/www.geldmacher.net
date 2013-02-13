@@ -1,9 +1,9 @@
 ---
 date: 2008-09-16 22:29:53
 layout: hike
-slug: kinsmans-hike
+permalink: kinsmans-hike.html
 title: Kinsmans Hike
-wordpress_id: 281
+location: White Mountains, NH
 ---
 
 ### Date

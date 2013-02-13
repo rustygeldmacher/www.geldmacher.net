@@ -2,12 +2,8 @@
 comments: false
 date: 2005-10-21 22:14:20
 layout: page
-slug: 4000-footers
 title: 4000 Footers
-wordpress_id: 212
 ---
-
-
 
 **Completed: July 3, 2010**
 

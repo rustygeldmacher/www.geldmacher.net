@@ -1,9 +1,9 @@
 ---
 date: 2009-06-30 21:36:50
 layout: hike
-slug: owls-head-hike
+permalink: owls-head-hike.html
 title: Owl's Head Hike
-wordpress_id: 342
+location: White Mountains, NH
 ---
 
 ### Date

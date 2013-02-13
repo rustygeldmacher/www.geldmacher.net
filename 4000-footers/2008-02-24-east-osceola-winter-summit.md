@@ -1,9 +1,9 @@
 ---
 date: 2008-02-24 12:50:40
 layout: hike
-slug: east-osceola-winter-summit
+permalink: east-osceola-winter-summit.html
 title: East Osceola Winter Summit
-wordpress_id: 259
+location: White Mountains, NH
 ---
 
 ### Date

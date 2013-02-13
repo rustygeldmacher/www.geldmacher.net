@@ -1,9 +1,9 @@
 ---
 date: 2008-08-17 20:58:37
 layout: hike
-slug: mt-osceola-hike
+permalink: mt-osceola-hike.html
 title: Mt. Osceola Hike
-wordpress_id: 268
+location: White Mountains, NH
 ---
 
 ### Date

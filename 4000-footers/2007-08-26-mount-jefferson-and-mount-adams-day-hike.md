@@ -1,9 +1,9 @@
 ---
 date: 2007-08-26 23:53:56
 layout: hike
-slug: mount-jefferson-and-mount-adams-day-hike
+permalink: mount-jefferson-and-mount-adams-day-hike.html
 title: Mount Jefferson and Mount Adams Day Hike
-wordpress_id: 255
+location: White Mountains, NH
 ---
 
 ### Date

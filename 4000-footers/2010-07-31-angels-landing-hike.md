@@ -1,9 +1,9 @@
 ---
 date: 2012-03-03 16:01:56
 layout: hike
-slug: angels-landing-hike
+permalink: angels-landing-hike.html
 title: Angel's Landing Hike
-wordpress_id: 435
+location: White Mountains, NH
 ---
 
 ### Date

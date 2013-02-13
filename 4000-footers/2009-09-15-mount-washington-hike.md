@@ -1,9 +1,9 @@
 ---
 date: 2009-09-15 01:55:47
 layout: hike
-slug: mount-washington-hike
+permalink: mount-washington-hike.html
 title: Mount Washington Hike
-wordpress_id: 366
+location: White Mountains, NH
 ---
 
 ### Date

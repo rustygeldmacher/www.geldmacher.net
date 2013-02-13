@@ -1,9 +1,9 @@
 ---
 date: 2007-11-30 00:46:55
 layout: hike
-slug: mt-tecumseh-day-hike
+permalink: mt-tecumseh-day-hike.html
 title: Mt. Tecumseh Day Hike
-wordpress_id: 256
+location: White Mountains, NH
 ---
 
 ### Date

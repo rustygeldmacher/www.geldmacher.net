@@ -1,9 +1,9 @@
 ---
 date: 2012-03-03 15:48:03
 layout: hike
-slug: observation-point-hike
+permalink: observation-point-hike.html
 title: Observation Point Hike
-wordpress_id: 431
+location: White Mountains, NH
 ---
 
 ### Date

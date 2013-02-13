@@ -1,9 +1,9 @@
 ---
 date: 2008-08-17 20:58:50
 layout: hike
-slug: cannon-mountain-hike
+permalink: cannon-mountain-hike.html
 title: Cannon Mountain Hike
-wordpress_id: 270
+location: White Mountains, NH
 ---
 
 ### Date

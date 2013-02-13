@@ -1,9 +1,9 @@
 ---
 date: 2006-08-19 12:51:05
 layout: hike
-slug: mt-carrigain-hike
+permalink: mt-carrigain-hike.html
 title: Mt. Carrigain Hike
-wordpress_id: 238
+location: White Mountains, NH
 ---
 
 ### Date

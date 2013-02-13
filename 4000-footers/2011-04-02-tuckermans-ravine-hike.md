@@ -1,9 +1,9 @@
 ---
 date: 2012-03-03 16:18:23
 layout: hike
-slug: tuckermans-ravine-hike
+permalink: tuckermans-ravine-hike.html
 title: Tuckerman's Ravine Hike
-wordpress_id: 439
+location: White Mountains, NH
 ---
 
 ### Date

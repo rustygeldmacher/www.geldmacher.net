@@ -1,9 +1,9 @@
 ---
 date: 2012-03-03 16:41:52
 layout: hike
-slug: mount-mansfield-hike
+permalink: mount-mansfield-hike.html
 title: Mount Mansfield Hike
-wordpress_id: 449
+location: White Mountains, NH
 ---
 
 ### Date

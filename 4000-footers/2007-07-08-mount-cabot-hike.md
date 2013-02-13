@@ -1,9 +1,9 @@
 ---
 date: 2007-07-08 23:30:06
 layout: hike
-slug: mount-cabot-hike
+permalink: mount-cabot-hike.html
 title: Mount Cabot Hike
-wordpress_id: 251
+location: White Mountains, NH
 ---
 
 ### Date

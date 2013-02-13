@@ -1,9 +1,9 @@
 ---
 date: 2006-08-19 13:06:26
 layout: hike
-slug: southern-presidentials-hike
+permalink: southern-presidentials-hike.html
 title: Southern Presidentials Hike
-wordpress_id: 239
+location: White Mountains, NH
 ---
 
 ### Date
