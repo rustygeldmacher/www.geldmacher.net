@@ -10,7 +10,7 @@ location: White Mountains, NH
 
 
 July 29, 2010
- 
+
 
 
 ### Participants
