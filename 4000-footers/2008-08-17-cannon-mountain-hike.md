@@ -7,6 +7,10 @@ location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes, Mike Carlin
 ---
 
+### Report
+
+Cannon Mountain was the second peak we hit that afternoon. Going by the book time this is a short one (4 miles/3 hours) so the idea was to get that out of the way without having to one day go up north for only that hike. Though, I'm not sure what Olympian they had time that one out because it was more like 4:15 since it was insanely steep for almost half the journey to the summit.
+
 ### Route
 
   * Kinsman Ridge Trail from Cannon parking lot to summit of Cannon Mtn - 2.0 miles

@@ -2,5 +2,7 @@
 - find the videos from the hike pages and put them back
 - double check hike dates
 - .htaccess with redirects from old urls?
+- use 'recap' instead of 'report' in hike pages
+
 
 

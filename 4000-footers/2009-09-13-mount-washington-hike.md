@@ -7,6 +7,14 @@ location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes
 ---
 
+### Report
+
+After a few cancellations due to bad weather, we finally got a window of opportunity to hike up [Mt. Washington](http://en.wikipedia.org/wiki/Mount_Washington_%28New_Hampshire%29). The highest peak in the White Mountains, Washington soars to just about 6300 feet at the summit.
+
+By a "window of opportunity" I mean waiting for weather conditions that wouldn't kill us. Mount Washington is [home to the world's worst weather](http://www.mountwashington.org/), and we didn't want to take that lightly. The day started off very well, with fairly clear skies and a view straight up to the top. However, as the morning turned into afternoon, clouds came through and covered the summit. As a result, we hiked the final two miles to the summit in a thick fog with only a couple hundred feet of visibility. Combined with the wind and drizzle, it was quite an experience.
+
+Hiking Washington is bittersweet -- due to the [auto road](http://www.mountwashingtonautoroad.com/) and [the cog railway](http://www.thecog.com/), the summit is crowded with tourists. It's tough to feel like you've accomplished much when you get to the summit and you're able to use a flush toilet, eat pizza and clam chowder, and buy a t-shirt. On the other hand, knowing you've just climbed the highest peak in the Northeast is a great feeling.
+
 ### Route
 
   * Ammonoosuc Ravine Trail from Marshfield Station parking lot to Lakes of the Clouds Hut - 2.5 miles

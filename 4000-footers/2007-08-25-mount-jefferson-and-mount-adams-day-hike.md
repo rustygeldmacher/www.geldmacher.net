@@ -9,6 +9,12 @@ participants: Rusty Geldmacher, Dan Jacques, Rob Jacques
 
 ### Route
 
+We decided to take advantage of the late August weather and walk up two of the three highest peaks in the White Mountains. Starting at the highest trailhead in the Whites, Caps Ridge Trail, we made our way across the Ridge of the Caps and up to the summit of Mt. Jefferson. This route takes you up 2700 feet in about 2.5 miles, with the majority of the climbing done in the last three quarters of a mile or so.
+
+Summiting Jefferson via the Caps Ridge Trail is definitely a popular hike, but most of the time people loop around and come back after Jefferson. We thought it would be sweet to continue on to Mount Adams, which is just another two miles away from the summit. So continue we did and it really worked out because the the terrain and the views around Mount Adams are simply incredible.
+
+### Route
+
   * Caps Ridge Trail to Mount Jefferson summit - 2.5 miles
   * Gulfside Trail to Lowe's Path - 1.9 miles
   * Lowe's Path to Mount Adams summit - 0.3 miles

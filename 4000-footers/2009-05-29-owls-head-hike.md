@@ -7,6 +7,10 @@ location: White Mountains, NH
 participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques, Jimmy Cook, Chris Algiers
 ---
 
+### Report
+
+The majority of the hike in was flat, about 8 miles worth. Then it's straight up the mountain: 1500 feet in one mile or so. We were chasing the clock, so we went as fast as we could. It was brutal. Fun, though!
+
 ### Route
 
 #### Day One

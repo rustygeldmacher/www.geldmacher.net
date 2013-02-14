@@ -24,6 +24,10 @@ participants: Rusty Geldmacher, Dan Jacques, Mike Carlin, Jimmy Cook
 
 Full gallery [here](http://www.flickr.com/photos/geldmacher/sets/72157594559186727/).
 
+[![cha06-082](http://farm1.static.flickr.com/163/404166655_be605eac9d.jpg)](http://www.flickr.com/photos/geldmacher/404166655/)
+
+[![cha06-107](http://farm1.static.flickr.com/188/404173879_5883363f9b.jpg)](http://www.flickr.com/photos/geldmacher/404173879/)
+
 [![cha06-056](http://farm1.static.flickr.com/162/404161457_8f44280c01.jpg)](http://www.flickr.com/photos/geldmacher/404161457/)
 
 [![cha06-077](http://farm1.static.flickr.com/161/404165859_04fd5ff865.jpg)](http://www.flickr.com/photos/geldmacher/404165859/)

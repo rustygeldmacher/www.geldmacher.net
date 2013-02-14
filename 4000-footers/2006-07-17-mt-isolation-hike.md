@@ -33,6 +33,8 @@ participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques
 
 Full gallery [here](http://www.flickr.com/photos/geldmacher/sets/72157594560192694/).
 
+[![IsolationHike-012](http://farm1.static.flickr.com/151/404758095_163ebaecda.jpg)](http://www.flickr.com/photos/geldmacher/404758095/)
+
 [![IsolationHike-007](http://farm1.static.flickr.com/171/404756021_1af6b19c29.jpg)](http://www.flickr.com/photos/geldmacher/404756021/)
 
 [![IsolationHike-042](http://farm1.static.flickr.com/150/404762912_61370abc53.jpg)](http://www.flickr.com/photos/geldmacher/404762912/)

@@ -7,6 +7,10 @@ location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Matt Trachimowicz
 ---
 
+### Report
+
+Late fall is a great time for hiking -- the air is crisp and clear, there are no bugs, it's not oppressively cold, the views are fantastic and it's a great extra challenge. This time, we went to New Hampshire and hiked up Mt. Tecumseh, which at 4003 feet is the lowest mountain on the list. Don't let that fool you, though: Tecumseh is no joke. It's one of those mountains that starts off nice and steady but rises steeply for about a mile up to the summit. At just over 5 miles round trip, it was great hike to kick off the winter season.
+
 ### Route
 
   * Mount Tecumseh Trail from Waterville Valley to Mt. Tecumseh summit - 2.5 miles
