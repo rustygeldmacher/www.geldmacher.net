@@ -1,10 +1,8 @@
 ---
-comments: false
-date: 2006-06-08 06:56:05
+date: 2006-06-08
 layout: post
 slug: china-wrap-up
 title: China wrap up
-wordpress_id: 224
 ---
 
 Last night I added a [gallery of my pictures from China](http://www.geldmacher.net/galleries/thumbnails.php?album=21), 56 photos in all. Here is just a small sample.

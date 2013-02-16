@@ -4,7 +4,6 @@ date: 2005-07-11 19:03:20
 layout: page
 slug: cross-country-trip
 title: Cross Country Trip
-wordpress_id: 21
 ---
 
 In early June of 2005 two intrepid explorers, Jon Suchecki and myself, embarked on a journey of conquest and discovery. We were to attempt driving non-stop [from Hudson, Massachusetts to Denver, Colorado](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=hudson,+ma&daddr=41.372686,-73.580933+to:I-435+S+%4038.938900,+-94.544690+to:denver,+co&mrcr=0,1&mrsp=1&sz=8&mra=dpe&sll=42.147114,-73.586426&sspn=3.473861,6.899414&ie=UTF8&ll=38.959409,-87.802734&spn=29.026607,55.195313&z=5&om=1). We would rest there for a day or so and then complete the journey across the country with Los Angeles as our destination. They said it was a crazy idea. They said we would get tired and need to sleep. They said it couldn't be done. They were wrong.

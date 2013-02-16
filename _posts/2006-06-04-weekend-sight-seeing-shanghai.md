@@ -1,10 +1,9 @@
 ---
 comments: false
-date: 2006-06-04 22:27:36
+date: 2006-06-04
 layout: post
 slug: weekend-sight-seeing-shanghai
 title: 'Weekend sight seeing: Shanghai'
-wordpress_id: 223
 ---
 
 To my dismay, I woke up this morning to find it absolutely pouring outside. The forecast said that the rain wasn’t going to let up until around 6pm, which sort of bummed me out. My plan was to walk around Shanghai in the morning and see what kind of weird and wonderful stuff I could find. But then with rain entering the picture, I was holed up in my hotel room with nothing better to do than flip through channel after channel of Chinese TV.  In an interesting stroke of luck, I clicked over to ESPN international and lo and behold what is on TV but the Red Sox-Tigers game! So at least I had that small taste of home to keep me going for a while. By the time the game was over and I had surfed the web for a while, the rain had actually let up enough for me to get on my way (with my umbrella handy, of course).

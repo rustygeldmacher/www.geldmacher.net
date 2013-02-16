@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2006-11-09 01:52:37
 layout: post
 slug: teetering-on-the-edge-of-catastrophe

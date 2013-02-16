@@ -4,7 +4,6 @@ date: 2006-06-03 22:17:18
 layout: post
 slug: weekend-sight-seeing-hangzhou
 title: 'Weekend sight seeing: Hangzhou'
-wordpress_id: 222
 ---
 
 Breakfast at the hotel and then around 7:30 Stanley and his wife Cynthia picked me up out front. Our destination was Hangzhou (pronounced “Haan-joe”), a city just over 100 miles southwest of Shanghai. We got there in a little under two hours and the first place we visited was an area called West Lake, which as you might imagine is situated right next to a large lake. Just like Shanghai, there were a ton of people there. However as Stanley explained to me, people in Hangzhou a are little more relaxed and unhurried than the people in Shanghai. The cab drivers were still nuts, though.

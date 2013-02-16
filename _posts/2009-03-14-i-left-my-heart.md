@@ -1,10 +1,8 @@
 ---
-comments: false
 date: 2009-03-14 18:04:10
 layout: post
-slug: '324'
+slug: i-left-my-heart
 title: I left my heart...
-wordpress_id: 324
 ---
 
 Ever since we got together, Gemma and I have been throwing around the idea of spending some time out in San Francisco and the surrounding wine country area. Well, we recently did just that and all I can say is I wish we hadn't waited so long. The landscape is incredible, the people are wonderful, and the food is unbelievable.
@@ -21,12 +19,12 @@ Here are some highlights of our trip:
 
 
 
-  * 
+  *
 We got engaged! I proposed at a winery called [Terra Valentine](http://www.terravalentine.com/terravalentine/index.jsp), which I thought would be a fitting place to pop the question.
 
 
 
-  * 
+  *
 Our friends Kristy and Damon took us on a special tour of wine country. Visiting wineries with two industry insiders is the only way to do it. Not only are the tastings free, but you get to sample the reserve wines and sometimes even get the behind-the-scenes tours. Thanks Kristy and Damon!
 
 
@@ -38,12 +36,12 @@ Our friends Kristy and Damon took us on a special tour of wine country. Visiting
 
 
 
-  * 
+  *
 Fine San Francisco dining. Dinners at [Garry Danko](www.garydanko.com) and [Asia de Cuba](http://www.chinagrillmanagement.com/adecSF/main.cfm?pp=0) were two of the best meals I've ever eaten.
 
 
 
-  * 
+  *
 I got to satisfy my hiking urge by taking a 3-mile walk among the giant redwood trees at [Muir Woods](http://www.nps.gov/muwo/). I highly recommend this if you are at into hiking or the forest or any kind of nature.
 
 
@@ -55,7 +53,7 @@ I got to satisfy my hiking urge by taking a 3-mile walk among the giant redwood 
 
 
 
-  * 
+  *
 We took a boat to Alcatraz and spent the day wandering around and exploring the island. Some may wonder if this is worth it and the answer is a resounding yes! The tour is fascinating and there's much more than just an old prison out there.
 
 
