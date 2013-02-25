@@ -1,10 +1,8 @@
 ---
-comments: false
-date: 2006-06-01 10:21:12
+date: 2006-06-01
 layout: post
 slug: chinese-hosptitality
-title: Chinese hosptitality
-wordpress_id: 220
+title: Chinese Hosptitality
 ---
 
 I’ve got to say that I am continuously impressed by how friendly everyone is here. It’s almost embarrassing how people seem to go out of their way to help out. For example, I ate at a restaurant the other night and the hostess sat down with me and showed me all sorts of different things on the menu, told me what was good, what she recommended to try, and all that. She really didn’t have to do that, but it was probably obvious to her that I was clueless and didn't know where to begin (one thing she recommended was beef tongue, which turned out to be tender and succulent). It goes beyond restaurants, though. The people here at work are uncommonly kind, not only to me but to each other as well.

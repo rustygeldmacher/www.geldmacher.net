@@ -1,5 +1,5 @@
 ---
-date: 2008-01-26 16:06:54
+date: 2008-01-26
 layout: post
 slug: flume-gorge-snowshoeing
 title: Flume Gorge Snowshoeing

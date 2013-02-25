@@ -1,7 +1,6 @@
 ---
-comments: false
-date: 2005-07-11 19:03:20
-layout: page
+date: 2005-07-11
+layout: post
 slug: cross-country-trip
 title: Cross Country Trip
 ---

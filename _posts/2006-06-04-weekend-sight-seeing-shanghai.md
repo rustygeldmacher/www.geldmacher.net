@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2006-06-04
 layout: post
 slug: weekend-sight-seeing-shanghai

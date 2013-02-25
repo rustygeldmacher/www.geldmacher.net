@@ -1,6 +1,5 @@
 ---
-comments: false
-date: 2006-06-03 22:17:18
+date: 2006-06-03
 layout: post
 slug: weekend-sight-seeing-hangzhou
 title: 'Weekend sight seeing: Hangzhou'

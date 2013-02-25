@@ -22,30 +22,36 @@ In August of 2003, [Dan](http://www.littlebigmind.com) and I decided that we wan
 	</tbody>
 </table>
 
+Dan and I both agreed we would completely start over from anything we've previously done. Therefore, the list begins with the summit of Mt. Madison from August 2003.
+
+### Peaks per year:
+
+<table class="table table-striped" id="summary">
+	<thead>
+		<th>Year</th>
+		<th>Number of Peaks</th>
+	</thead>
+	<tbody>
+		<tr><td>2003</td><td>1</td></tr>
+		<tr><td>2004</td><td>5</td></tr>
+		<tr><td>2005</td><td>6</td></tr>
+		<tr><td>2006</td><td>16</td></tr>
+		<tr><td>2007</td><td>10</td></tr>
+		<tr><td>2008</td><td>7</td></tr>
+		<tr><td>2009</td><td>2</td></tr>
+		<tr><td>2010</td><td>1</td></tr>
+	</tbody>
+</table>
+
 <script type="text/javascript">
-	summitData = [
-		{ name: 'Washington',
-		  height: 6288,
-		  summited: '9/13/2009',
-	    page: 'mount-washington-hike',
-	    thumbnail: 'http://farm3.static.flickr.com/2473/3922404948_7203cd5f63_t.jpg',
-	    gallery: 'http://www.flickr.com/photos/geldmacher/3922404948/'
-	  },
-	  { name: 'Adams',
-		  height: 5774,
-		  summited: '8/25/2007',
-	    page: 'mount-jefferson-and-mount-adams-day-hike',
-	    thumbnail: 'http://farm2.static.flickr.com/1439/1244930693_6cd029ce0e_t.jpg',
-	    gallery: 'http://www.flickr.com/photos/geldmacher/1244930693/'
-	  },
-	  { name: 'Jefferson',
-		  height: 5712,
-		  summited: '8/25/2007',
-	    page: 'mount-jefferson-and-mount-adams-day-hike',
-	    thumbnail: 'http://farm2.static.flickr.com/1171/1244870723_a3b01039e5_t.jpg',
-	    gallery: 'http://www.flickr.com/photos/geldmacher/1244870723/'
-	  },
-	  { name: 'Monroe', height: 5384, summited: '8/13/2006', page: 'southern-presidentials-hike', thumbnail: 'http://farm1.static.flickr.com/134/404172832_05f09acb55_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/404172832/' },
+summitData = [
+{ name: 'Washington', height: 6288, summited: '9/13/2009', page: 'mount-washington-hike', thumbnail: 'http://farm3.static.flickr.com/2473/3922404948_7203cd5f63_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/3922404948/' },
+
+{ name: 'Adams', height: 5774, summited: '8/25/2007', page: 'mount-jefferson-and-mount-adams-day-hike', thumbnail: 'http://farm2.static.flickr.com/1439/1244930693_6cd029ce0e_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/1244930693/' },
+
+{ name: 'Jefferson', height: 5712, summited: '8/25/2007', page: 'mount-jefferson-and-mount-adams-day-hike', thumbnail: 'http://farm2.static.flickr.com/1171/1244870723_a3b01039e5_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/1244870723/' },
+
+{ name: 'Monroe', height: 5384, summited: '8/13/2006', page: 'southern-presidentials-hike', thumbnail: 'http://farm1.static.flickr.com/134/404172832_05f09acb55_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/404172832/' },
 
 { name: 'Madison', height: 5367, summited: '8/26/2003', page: 'mt-madison-day-hike', thumbnail: 'http://farm1.static.flickr.com/156/406454905_39f2938914_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/406454905/' },
 
@@ -134,11 +140,14 @@ In August of 2003, [Dan](http://www.littlebigmind.com) and I decided that we wan
 { name: 'Isolation', height: 4004, summited: '6/17/2006', page: 'mt-isolation-hike', thumbnail: 'http://farm1.static.flickr.com/157/404764594_380277aafb_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/404764594/' },
 
 { name: 'Tecumseh', height: 4003, summited: '11/24/2007', page: 'mt-tecumseh-day-hike', thumbnail: 'http://farm3.static.flickr.com/2097/2075281458_e0900adbc1_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/2075281458/' }
-
-	]
-	$(function() {
+]
+	function fillSummitsTable() {
+		peaksPerYear = {};
 		for (var i = 0; i < summitData.length; i++) {
 			var peak = summitData[i];
+			year = peak.summited.split('/')[2];
+			if (!peaksPerYear[year]) { peaksPerYear[year] = 0; }
+			peaksPerYear[year] += 1;
 			var html = ['<tr>'];
 			html.push('<td>', i + 1, '</td>');
 			html.push('<td><a href="/4000-footers/', peak.page, '.html">', peak.name, '</a></td>');
@@ -147,68 +156,8 @@ In August of 2003, [Dan](http://www.littlebigmind.com) and I decided that we wan
 			html.push('<td><a href="', peak.gallery, '"><img src="', peak.thumbnail, '"/></a></td>');
 			$('table#summits tbody').append(html.join(''));
 		}
+	}
+	$(function() {
+		fillSummitsTable();
 	});
 </script>
-
-
-
-
-
-Dan and I both agreed we would completely start over from anything we've previously done. Therefore, the list begins with the summit of Mt. Madison from August 2003.
-
-
-
-### Peaks per year:
-
-
-
-
-
-
-
-
-  Year
-  Number of Peaks
-
-
-
-2003
-1
-
-
-
-2004
-5
-
-
-
-2005
-6
-
-
-
-2006
-16
-
-
-
-2007
-10
-
-
-
-2008
-7
-
-
-
-2009
-2
-
-
-
-2010
-1
-
-
-

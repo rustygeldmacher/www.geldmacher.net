@@ -1,5 +1,5 @@
 ---
-date: 2009-03-14 18:04:10
+date: 2009-03-14
 layout: post
 slug: i-left-my-heart
 title: I left my heart...

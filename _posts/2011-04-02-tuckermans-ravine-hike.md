@@ -5,6 +5,7 @@ permalink: tuckermans-ravine-hike.html
 title: Tuckerman's Ravine Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques
+tags: life_and_travel
 ---
 
 ### Route

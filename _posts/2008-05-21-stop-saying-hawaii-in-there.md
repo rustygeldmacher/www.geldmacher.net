@@ -1,5 +1,5 @@
 ---
-date: 2008-05-21 19:19:22
+date: 2008-05-21
 layout: post
 slug: stop-saying-hawaii-in-there
 title: Stop saying Hawaii in there
