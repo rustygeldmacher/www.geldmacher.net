@@ -3,6 +3,3 @@
 - double check hike dates
 - .htaccess with redirects from old urls?
 - use 'recap' instead of 'report' in hike pages
-
-
-

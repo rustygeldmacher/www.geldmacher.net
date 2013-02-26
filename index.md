@@ -1,19 +1,33 @@
 ---
 title: rusty's home on the web
 layout: default
+body_class: home
 ---
 
-## life and travel
-* hello.
+## 4000 footers
 
-<ul>
-{% for post in site.tags.life_and_travel %}
-<li>!</li>
-{% endfor %}
-</ul>
+Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
+
+* [Hikes and summit info](/4000-footers/)
+
+## life and travel
+
+Dispatches and reports from my life and times
+
+* Read the latest
+* List of all posts
 
 ## projects & experiments
+
 * FOO!
 
-## 4000 footers
-* bar?
+{% sidebar %}
+
+* twitter
+* linkedin
+* github
+* flickr
+
+russell dot geldmacher at gmail dot com
+
+{% endsidebar %}

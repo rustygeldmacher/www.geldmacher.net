@@ -1,6 +1,6 @@
 ---
 date: 2005-10-21
-layout: post
+layout: page
 title: 4000 Footers
 ---
 
@@ -14,7 +14,7 @@ In August of 2003, [Dan](http://www.littlebigmind.com) and I decided that we wan
 			<th>Rank</th>
   		<th>Peak</th>
   		<th>Height</th>
-  		<th>Summited On</th>
+  		<th>Summited</th>
   		<th>Photos</th>
 		</tr>
 	</thead>

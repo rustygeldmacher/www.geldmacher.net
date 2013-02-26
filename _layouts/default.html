@@ -18,7 +18,11 @@
     <script src="/bootstrap/js/bootstrap.js"></script>
   </head>
 
-  <body>
+{% if page.body_class %}
+  <body class="{{ page.body_class }}">
+{% else %}
+  </body>
+{% endif %}
 
     <div class="container">
 
@@ -36,7 +40,7 @@
       {% endif %}
 
       <div class="row">
-        <div class="span4" style="position:fixed">
+        <div class="span4 sidebar">
           <h1>{{ page.title }}</h1>
           {% if page.sidebar %}
             {{ page.sidebar | markdownify }}
