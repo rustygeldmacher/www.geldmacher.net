@@ -3,6 +3,7 @@ date: 2008-05-21
 layout: post
 slug: stop-saying-hawaii-in-there
 title: Stop saying Hawaii in there
+tags: life_and_travel
 ---
 
 Ok so it's been almost a month since we got back, but I've _finally_ finished sorting and uploading the pictures from our recent trip to Hawaii.

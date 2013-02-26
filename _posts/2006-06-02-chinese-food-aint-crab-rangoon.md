@@ -3,6 +3,7 @@ date: 2006-06-02
 layout: post
 slug: chinese-food-aint-crab-rangoon
 title: That ain't crab rangoon
+tags: life_and_travel
 ---
 
 I’ve been learning a few Chinese words and phrases here and there, but by far the phrase I use the most is “xie xie” which means “thank you”. You pronounce it “shee-ay shee-ay” with the emphasis on the “ay”. Or so I think. I’m pretty sure. Anyway, I find myself using that one a lot (see previous post) and so far no one has hit me for accidentally insulting them, so that’s good.

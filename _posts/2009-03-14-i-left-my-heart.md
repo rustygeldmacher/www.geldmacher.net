@@ -3,6 +3,7 @@ date: 2009-03-14
 layout: post
 slug: i-left-my-heart
 title: I left my heart...
+tags: life_and_travel
 ---
 
 Ever since we got together, Gemma and I have been throwing around the idea of spending some time out in San Francisco and the surrounding wine country area. Well, we recently did just that and all I can say is I wish we hadn't waited so long. The landscape is incredible, the people are wonderful, and the food is unbelievable.

@@ -3,6 +3,7 @@ date: 2006-06-08
 layout: post
 slug: china-wrap-up
 title: China wrap up
+tags: life_and_travel
 ---
 
 Last night I added a [gallery of my pictures from China](http://www.geldmacher.net/galleries/thumbnails.php?album=21), 56 photos in all. Here is just a small sample.

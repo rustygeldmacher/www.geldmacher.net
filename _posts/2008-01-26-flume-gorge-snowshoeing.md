@@ -3,6 +3,7 @@ date: 2008-01-26
 layout: post
 slug: flume-gorge-snowshoeing
 title: Flume Gorge Snowshoeing
+tags: life_and_travel
 ---
 
 One of my best Christmas presents this year was an awesome pair of snowshoes that I got from my wonderful girlfriend. Eager to get out and use them, last weekend a few of us went up to New Hampshire's [Franconia Notch State Park](http://www.franconianotchstatepark.com/) for a day of trekking through the snow. Earlier this summer, Gemma and I had explored [The Flume Gorge](http://www.visitnh.gov/flume/index.html), an 800-foot miniature canyon at the base of Mount Liberty. The place was absolutely amazing, and we vowed to head back there in the winter.

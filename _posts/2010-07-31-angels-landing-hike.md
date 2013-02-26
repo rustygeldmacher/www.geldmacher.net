@@ -5,6 +5,7 @@ permalink: angels-landing-hike.html
 title: Angel's Landing Hike
 location: Zion National Park, UT
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes, Jon Suchecki, James Suchecki, Matt Suchecki, Marco Fontecchio, Kevin Flanagan
+tags: life_and_travel
 ---
 
 ### Route

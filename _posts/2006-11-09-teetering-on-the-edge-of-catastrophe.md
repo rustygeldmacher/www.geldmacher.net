@@ -3,6 +3,7 @@ date: 2006-11-09
 layout: post
 slug: teetering-on-the-edge-of-catastrophe
 title: Teetering on the edge of catastrophe
+tags: life_and_travel
 ---
 
 It seemed to us that [Mahoosuc Notch](http://en.wikipedia.org/wiki/Mahoosuc_Notch) -- said to be the toughest mile on the Appalachian Trail -- would be a lot more fun if there were six inches of snow on the ground. So with fingers crossed, we headed up to Maine last weekend to attempt it. The Notch, since you've probably never heard of it, is a one-mile stretch of trail that must be slowly traversed by climbing over, under and around giant boulders. The snow on the ground in early November made that even trickier by providing lots of places to slip and lots of places which looked solid but weren't. It took us nearly three hours to get through the entire thing, but man was it worth the experience.

@@ -5,6 +5,7 @@ permalink: observation-point-hike.html
 title: Observation Point Hike
 location: Zion National Park, UT
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes, Jon Suchecki
+tags: life_and_travel
 ---
 
 ### Route

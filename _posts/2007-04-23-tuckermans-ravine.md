@@ -3,6 +3,7 @@ date: 2007-04-23
 layout: post
 slug: tuckermans-ravine
 title: Tuckerman's Ravine
+tags: life_and_travel
 ---
 
 Last weekend we had originally intended to hike up Mt. Cabot, but since time was going to run out (leaving our car locked behind the gate of the Berlin Fish Hatchery) we decided instead to hike up to Tuckerman's Ravine. A popular place for adventurous skiers, the ravine is about three miles up the side of Mount Washington. Even though it was in the high sixties and sunny, there was a ton of fresh snow on the mountain and that brought out gaggles of skiers, boarders and spectators like us.

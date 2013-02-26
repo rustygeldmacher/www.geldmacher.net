@@ -3,6 +3,7 @@ date: 2006-05-30
 layout: post
 slug: shanghai-day-one
 title: Shanghai, Day One
+tags: life_and_travel
 ---
 
 Today’s my first full day in [Shanghai ](http://en.wikipedia.org/wiki/Shanghai) and so far, so good. After a fourteen hour flight, I landed here yesterday at about 4:00pm, prepared to be immediately immersed in a completely different culture and language. Turns out that things aren’t so different after all. Shanghai is just like any other huge city in the world. Sure, the language is different but most of the important signs are duplicated in English, and lots of people speak at least a bit of English as well. I hear that English language courses are mandatory starting in about third grade around here.
