@@ -8,14 +8,14 @@ body_class: home
 
 Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
 
-* [Hikes and summit info](/4000-footers/)
+* [Full list and summit info](/4000-footers/)
 
-## life and travel
+## life & travel
 
 Dispatches and reports from my life and times
 
-* Read the latest
-* List of all posts
+* [Travels and other updates](/life-and-travel.html)
+* [Hike reports](/hikes.html)
 
 ## projects & experiments
 

@@ -1,6 +1,7 @@
 ---
 date: 2008-02-16
 layout: hike
+tags:hike
 permalink: east-osceola-winter-summit.html
 title: East Osceola Winter Summit
 location: White Mountains, NH

@@ -1,6 +1,7 @@
 ---
 date: 2007-07-06
 layout: hike
+tags:hike
 permalink: mount-cabot-hike.html
 title: Mount Cabot Hike
 location: White Mountains, NH

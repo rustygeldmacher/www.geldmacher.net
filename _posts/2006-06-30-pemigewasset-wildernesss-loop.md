@@ -1,6 +1,7 @@
 ---
 date: 2006-06-30
 layout: hike
+tags: hike
 permalink: pemigewasset-wildernesss-loop.html
 title: Pemigewasset Wildernesss Loop
 location: White Mountains, NH

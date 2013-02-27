@@ -5,6 +5,7 @@ permalink: hancock-loop-hike.html
 title: Hancock Loop Hike
 location: White Mountains, NH
 participants: Gabe Boys, Rusty Geldmacher, Dan Jacques
+tags: hike
 ---
 
 ### Route

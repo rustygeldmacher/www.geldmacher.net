@@ -1,6 +1,7 @@
 ---
 date: 2006-05-20
 layout: hike
+tags: hike
 permalink: mt-hale-and-mt-tom-hike.html
 title: Mt. Hale and Mt. Tom Hike
 location: White Mountains, NH

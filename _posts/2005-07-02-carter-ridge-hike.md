@@ -5,6 +5,7 @@ permalink: carter-ridge-hike.html
 title: Carter Ridge Hike
 location: White Mountains, NH
 participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques
+tags: hike
 ---
 
 ### Visualization

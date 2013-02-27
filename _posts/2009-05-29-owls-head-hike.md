@@ -1,6 +1,7 @@
 ---
 date: 2009-05-29
 layout: hike
+tags:hike
 permalink: owls-head-hike.html
 title: Owl's Head Hike
 location: White Mountains, NH

@@ -3,24 +3,17 @@ date: 2008-01-26
 layout: post
 slug: flume-gorge-snowshoeing
 title: Flume Gorge Snowshoeing
-tags: life_and_travel
+location: The Gorge, White Mountains, NH
+tags: hike
 ---
 
 One of my best Christmas presents this year was an awesome pair of snowshoes that I got from my wonderful girlfriend. Eager to get out and use them, last weekend a few of us went up to New Hampshire's [Franconia Notch State Park](http://www.franconianotchstatepark.com/) for a day of trekking through the snow. Earlier this summer, Gemma and I had explored [The Flume Gorge](http://www.visitnh.gov/flume/index.html), an 800-foot miniature canyon at the base of Mount Liberty. The place was absolutely amazing, and we vowed to head back there in the winter.
 
-
-
 [![FlumeSnowshoeing-008](http://farm3.static.flickr.com/2290/2210322329_6d2b2bd948.jpg)](http://www.flickr.com/photos/geldmacher/2210322329/)
-
-
 
 During the summer, the Flume has a fully staffed and very crowded visitors' center which acts as a (for-pay) gateway to the park. But with the advent of winter, the center closes down and the land is free to use. Though the parking lots are plowed, the paths up to the visitors' center are not, and once up to the front, you'll need to hop over a stone wall and walk around the building to get to the trailhead. This sounds sketchy but trust me it's 100% within the rules, I know because I emailed the park staff before we went up there :)
 
-
-
 [![FlumeSnowshoeing-059](http://farm3.static.flickr.com/2012/2211156046_1551d42ea5.jpg)](http://www.flickr.com/photos/geldmacher/2211156046/)
-
-
 
 After putting our 'shoes on at the trailhead behind the building, we headed down the trail and across a covered bridge which leads to the beginning of the gorge. In the summer, a series of boardwalks takes you through the gorge, but these are pulled away when the Flume closes for winter. There are some permanent boardwalks on either end of the gorge, though, and we were able to walk down these a little ways so we could take in the incredible sight of the ice-covered gorge walls and the pristine beauty of Avalanche Falls.
 

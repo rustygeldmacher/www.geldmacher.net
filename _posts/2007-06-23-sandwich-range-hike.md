@@ -1,6 +1,7 @@
 ---
 date: 2007-06-23
 layout: hike
+tags:hike
 permalink: sandwich-range-hike.html
 title: Sandwich Range Hike
 location: White Mountains, NH

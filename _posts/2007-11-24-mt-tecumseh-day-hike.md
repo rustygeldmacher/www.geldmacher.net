@@ -1,6 +1,7 @@
 ---
 date: 2007-11-24
 layout: hike
+tags:hike
 permalink: mt-tecumseh-day-hike.html
 title: Mt. Tecumseh Day Hike
 location: White Mountains, NH

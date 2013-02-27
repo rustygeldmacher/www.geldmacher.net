@@ -5,6 +5,7 @@ permalink: mt-willey-and-mt-field-hike.html
 title: Mt. Willey and Mt. Field Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Rob Jacques
+tags: hike
 ---
 
 ### Report

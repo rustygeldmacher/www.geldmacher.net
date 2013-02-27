@@ -1,6 +1,7 @@
 ---
 date: 2006-07-17
 layout: hike
+tags: hike
 permalink: mt-isolation-hike.html
 title: Mt. Isolation Hike
 location: White Mountains, NH

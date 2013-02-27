@@ -1,0 +1,9 @@
+GEM
+  specs:
+    jekyll-pagination (0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-pagination (= 0.0.4)

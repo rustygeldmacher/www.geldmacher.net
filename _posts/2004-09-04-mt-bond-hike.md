@@ -5,6 +5,7 @@ permalink: mt-bond-hike.html
 title: Mt. Bond Hike
 location: White Mountains, NH
 participants: Mike Carlin, Jamie Gagnon, Rusty Geldmacher, Jeff Holt, Dan Jacques, Keith Stone
+tags: hike
 ---
 
 ### Route
