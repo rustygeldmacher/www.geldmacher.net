@@ -1,7 +1,7 @@
 ---
 date: 2008-08-17 20:58:37
 layout: hike
-tags:hike
+tags: hike
 permalink: mt-osceola-hike.html
 title: Mt. Osceola Hike
 location: White Mountains, NH

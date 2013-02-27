@@ -1,7 +1,7 @@
 ---
 date: 2009-09-13
 layout: hike
-tags:hike
+tags: hike
 permalink: mount-washington-hike.html
 title: Mount Washington Hike
 location: White Mountains, NH

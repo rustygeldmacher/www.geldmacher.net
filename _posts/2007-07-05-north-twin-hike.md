@@ -1,7 +1,7 @@
 ---
 date: 2007-07-05
 layout: hike
-tags:hike
+tags: hike
 permalink: north-twin-hike.html
 title: North Twin Hike
 location: White Mountains, NH

@@ -1,7 +1,7 @@
 ---
 date: 2008-11-02
 layout: hike
-tags:hike
+tags: hike
 permalink: wildcat-ridge-hike.html
 title: Wildcat Ridge Hike
 location: White Mountains, NH

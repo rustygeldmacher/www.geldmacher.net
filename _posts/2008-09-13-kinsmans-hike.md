@@ -1,7 +1,7 @@
 ---
 date: 2008-09-13
 layout: hike
-tags:hike
+tags: hike
 permalink: kinsmans-hike.html
 title: Kinsmans Hike
 location: White Mountains, NH

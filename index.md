@@ -4,6 +4,14 @@ layout: default
 body_class: home
 ---
 
+## latest
+
+<ul>
+	{% for post in site.posts limit: 3 %}
+	<li>{{ post.date | date: "%B %e, %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+
 ## 4000 footers
 
 Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
@@ -19,7 +27,8 @@ Dispatches and reports from my life and times
 
 ## projects & experiments
 
-* FOO!
+* marmalade
+* canvas life
 
 {% sidebar %}
 

@@ -1,7 +1,7 @@
 ---
 date: 2008-08-17
 layout: hike
-tags:hike
+tags: hike
 permalink: cannon-mountain-hike.html
 title: Cannon Mountain Hike
 location: White Mountains, NH
