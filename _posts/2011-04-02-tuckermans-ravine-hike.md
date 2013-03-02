@@ -18,17 +18,11 @@ tags: hike
 
 Full gallery [here](http://www.flickr.com/photos/geldmacher/sets/72157629504637935/with/6803841018/)
 
-<a href="http://www.flickr.com/photos/geldmacher/6803841018/" title="IMG_3680 by rusty_2099, on Flickr"><img src="http://farm8.staticflickr.com/7208/6803841018_69ec7a70f1.jpg" width="500" height="375" alt="IMG_3680"></a>
+[![IMG3680](http://farm8.staticflickr.com/7208/6803841018_69ec7a70f1.jpg)](http://www.flickr.com/photos/geldmacher/6803841018/)
 
-![IMG_3682](http://farm8.staticflickr.com/7203/6803841802_e4d6c1f5ce.jpg)
+[![IMG3682](http://farm8.staticflickr.com/7203/6803841802_e4d6c1f5ce.jpg)](http://www.flickr.com/photos/geldmacher/6803841802/)
 
-![IMG_3680](http://farm8.staticflickr.com/7203/6803841018_69ec7a70f1.jpg)
-
-[![IMG_3680](http://farm8.staticflickr.com/7208/6803841018_69ec7a70f1.jpg)](http://www.flickr.com/photos/geldmacher/6803841018/)
-
-[![IMG_3682](http://farm8.staticflickr.com/7203/6803841802_e4d6c1f5ce.jpg)](http://www.flickr.com/photos/geldmacher/6803841802/)
-
-[![IMG_3686](http://farm8.staticflickr.com/7204/6803846288_b2877b9dcd.jpg)](http://www.flickr.com/photos/geldmacher/6803846288/)
+[![IMG3686](http://farm8.staticflickr.com/7204/6803846288_b2877b9dcd.jpg)](http://www.flickr.com/photos/geldmacher/6803846288/)
 
 ### Notes
 
