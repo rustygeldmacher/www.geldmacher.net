@@ -11,11 +11,11 @@ In August of 2003, [Dan](http://www.littlebigmind.com) and I decided that we wan
 <table class="table table-striped" id="summits">
 	<thead>
 		<tr>
-			<th>Rank</th>
-  		<th>Peak</th>
-  		<th>Height</th>
-  		<th>Summited</th>
-  		<th>Photos</th>
+			<th class="header">Rank</th>
+  		<th class="header">Peak</th>
+  		<th class="header">Height</th>
+  		<th class="header">Summited</th>
+  		<th class="header">Photos</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -28,8 +28,8 @@ Dan and I both agreed we would completely start over from anything we've previou
 
 <table class="table table-striped" id="summary">
 	<thead>
-		<th>Year</th>
-		<th>Number of Peaks</th>
+		<th class="header">Year</th>
+		<th class="header">Number of Peaks</th>
 	</thead>
 	<tbody>
 		<tr><td>2003</td><td>1</td></tr>
@@ -165,5 +165,7 @@ summitData = [
 	}
 	$(function() {
 		fillSummitsTable();
+		$('table#summits').tablesorter();
+		$('table#summary').tablesorter();
 	});
 </script>
