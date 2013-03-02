@@ -1,0 +1,207 @@
+body {
+	font-size: 13px;
+	font-family: Georgia;
+	color: #444;
+	padding-bottom: 50px;	
+}
+.rc-5 {
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+.rc-2 {
+	-moz-border-radius: 2px 2px 2px 2px;
+	-webkit-border-radius: 2px 2px 2px 2px;
+	border-radius: 2px 2px 2px 2px;
+}
+#resume {
+	min-height: 400px;			
+	margin: 20px auto 50px auto;
+	background: #f5f5f5;
+	border: solid #666;
+	border-width: 5px 0 2px 0;
+	padding-bottom: 25px;	
+	-moz-box-shadow: 5px 5px 5px #ccc;
+	-webkit-box-shadow: 5px 5px 5px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
+}
+a {
+	color: #990003
+}
+h1, h2, h3, h4 {
+	color: #333;
+	font-weight: normal;
+}
+.print-only {
+	display: none;
+}
+/*** Header ***/
+header {			
+	margin-top: 20px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #CCC;
+}
+header h1 {
+	font-size: 42px;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: 3px;	
+	text-shadow: #777 1px 1px 1px;	
+}
+header h2 {
+	font-size: 20px;
+	font-style: italic;
+	text-transform: uppercase;
+	letter-spacing: 2px;					
+}
+header h3 {
+	line-height: 18px;
+}
+a#pdf { 
+	display: block;
+	width: 150px;
+	background: #666 url(icons/pdf.png) no-repeat 4px center;
+	color: white;
+	padding: 6px 28px 6px 30px;
+	margin-bottom: 6px;
+	text-decoration: none;
+}
+a#pdf:hover { 
+	background-color: #222;
+}
+
+/*** Sections ***/
+section {
+	margin-top: 25px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #CCC;
+	font-size: 14px;
+}
+section hgroup.alpha h1 {
+	font-size: 21px;
+	font-style: italic;			
+}
+section hgroup.alpha h2 {
+	font-size: 16px;
+}
+section li {
+	-webkit-transition: all 0.75s ease-in-out;
+	-moz-transition: all 0.75s ease-in-out;
+	-o-transition: all 0.75s ease-in-out;
+	-ms-transition: all 0.75s ease-in-out;	
+}
+section li.closed {
+	margin-bottom: 10px;
+}
+section li.closed ul {
+	display: none;	
+}
+section li.hovered {
+	background: #aaa;
+	padding-left: 10px;
+	margin-left: -10px;			
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;	
+	cursor: pointer;	
+}
+section h2 {
+	font-size: 20px;
+	margin-bottom: 4px;
+}
+section h3 {
+	font-size: 16px;
+}
+section h4 {
+	position: absolute;
+	top: 5px;
+	right: 10px;
+}
+section  p {
+	font-size: 14px;
+	margin-top: 5px;
+	line-height: 18px;	
+}
+section ul  li {
+	list-style-type: none;
+}
+section ul li hgroup {
+	position: relative;
+}
+section ul li ul {
+	margin-bottom: 20px;
+}
+section ul li.last {
+	margin-bottom: 0;
+}
+section ul li ul {
+	list-style-position: outside;
+	padding-left: 20px;
+	margin-top: 10px;
+}
+section ul li ul li {
+	list-style-type: disc;	
+	line-height: 20px;
+}
+section ul li ul li ul {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+/*** Projects ***/
+#projects-container {
+	position:relative;
+	overflow:hidden;
+	height: 124px;
+}
+#projects-container .scroller {
+	width:20000em;
+	position:absolute;
+}
+#projects .project {
+	float:left;
+}
+#projects .image-container {	
+	height: 104px;
+	border: 1px solid #AAA;		
+}
+#projects .image-container img {
+	display: block;
+	margin-left: 2px;
+	margin-top: 2px;	
+}
+#projects .projects-nav {
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#projects .projects-nav a {
+	display: block;
+	float: left;
+	width: 16px;
+	height: 16px;
+	padding-left: 2px;
+	color: #888;
+	text-decoration: none;
+	background: transparent url(icons/bullet_black.png) no-repeat left 0px;	
+}
+#projects .projects-nav a.active {
+	background: transparent url(icons/bullet_green.png) no-repeat left 0px;	
+}
+
+/*** Skills ***/
+#skills-current ul,
+#skills-experience ul {
+	line-height: 24px;
+	list-style-position: inside;
+}
+#skills-current li,
+#skills-experience li {
+	list-style-type: disc;
+}
+
+/*** Footer ***/
+footer {
+	margin-top: 25px;
+	font-size: 12px;
+	text-align: center;
+}

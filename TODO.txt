@@ -1,6 +1,5 @@
 - .htaccess with redirects from old urls
 - Google Analytics
-- Cross country trip table
 - Icons and links for services
 - Sorting on 4000 footer table
-- resume
+

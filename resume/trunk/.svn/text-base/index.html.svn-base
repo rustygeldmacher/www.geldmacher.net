@@ -1,0 +1,416 @@
+<!doctype html>
+
+<!--
+	Hi there! I'm glad you took the time to peek at the source for my resume page!
+	Here are a few things you might notice:
+	* I'm still learning, but I've tried to make use various HTML5 elements and structure when possible
+	* The page is laid out using the excellent 960.gs CSS framework
+	* All HTML and CSS validates (CSS valid with vendor extensions)
+	
+	The visual design was based on a resume template by Things That are Brown
+	http://sampleresumetemplate.net/srt-resume.html
+-->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />	
+	<title>Rusty Geldmacher | Software Engineer | rusty@geldmacher.net</title>		
+	<link rel="stylesheet" href="css/reset.css" media="all" /> 
+	<link rel="stylesheet" href="css/960.css" media="all" /> 	
+	<link rel="stylesheet" href="css/tipsy.css" media="all" /> 	
+	<link rel="stylesheet" href="css/resume.css" media="all" />
+	<link rel="stylesheet" href="css/print.css" media="print" />
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>	
+	<![endif]-->
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>	
+	<script src="http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js"></script>
+	<script src="js/jquery.tipsy.js"></script>
+
+	<script>
+		$(function() {
+		
+			// Add the print stylesheet if necessary 
+			var isPrint = false;
+			if (window.location.search.indexOf('p=1') > 0) {
+				isPrint = true;
+				$('head').append('<link rel="stylesheet" href="css/print.css" />');
+			}
+		
+			// Setup scroller for projects section
+			if (!isPrint) {
+				$("#projects-container").scrollable({circular: true})
+					.autoscroll({interval: 10000})
+					.navigator({navi: '#projects .projects-nav'});
+			}
+			
+			// Setup expansion animation for career sections			
+			$('li.open-close.closed')
+				.mouseenter(function() { $(this).toggleClass('hovered'); })
+				.mouseleave(function() { $(this).toggleClass('hovered'); })
+				.click(function() {
+					var section = $(this);			
+					section.unbind('mouseenter').unbind('mouseleave').unbind('click');
+					section.find('ul:first').slideDown('slow', function() {
+						// Remove the hover class after .5 seconds						
+						setTimeout(function() {
+							section.toggleClass('hovered');
+						}, 500);
+					});					
+				});
+		});
+				
+	</script>
+		
+</head>
+
+<body>
+
+<div id="resume" class="container_16 clearfix rc-5">
+
+	<header class="grid_14 prefix_1 suffix_1 clearfix">		
+		<hgroup class="grid_9 alpha">
+			<h1>Russell &ldquo;Rusty&rdquo; Geldmacher</h1>
+			<h2>Software Engineer</h2>
+		</hgroup>
+		<div class="grid_5 omega">
+			<a id="pdf" class="rc-2" href="RustyGeldmacher.pdf">Download PDF</a>
+			<h3><a href="mailto:rusty@geldmacher.net">rusty@geldmacher.net</a></h3>
+			<h3><a href="http://www.geldmacher.net/resume">www.geldmacher.net/resume</a></h3>
+			<h3>(508) 353-3962</h3>
+		</div>
+	</header>	
+			
+	<!-- Skills: Current -->
+	<section id="skills-current" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Skills</h1>
+			<h2>Current</h2>
+		</hgroup>
+		<ul class="grid_4">
+			<li>Web architecture</li>
+			<li>Software design</li>								
+			<li>Automated testing</li>
+			<li>Continuous integration</li>								
+			<li>Agile / Scrum</li>
+		</ul>
+		<ul class="grid_4">
+			<li>C#</li>
+			<li>ASP.NET</li>
+			<li>SQL</li>
+			<li>JavaScript / jQuery</li>
+			<li>CSS / HTML5 / XHTML</li>
+		</ul>
+		<ul class="grid_4 omega">
+			<li>Subversion</li>
+			<li>IIS</li>
+			<li>MS SQL Server</li>
+			<li>Visual Studio</li>
+		</ul>
+	</section>
+	
+	<!-- Skills: Experience -->
+	<section id="skills-experience" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Skills</h1>
+			<h2>Experience</h2>
+		</hgroup>
+		<ul class="grid_4">
+			<li>C</li>								
+			<li>Assembly (ARM)</li>								
+			<li>Python</li>
+			<li>Java</li>
+			<li>Ruby</li>
+		</ul>
+		<ul class="grid_4">
+			<li>MongoDB</li>
+			<li>Linux kernel</li>
+			<li>Embedded development</li>								
+			<li>*nix adminstration</li>
+		</ul>
+		<ul class="grid_4 omega">
+			<li>Git</li>
+			<li>Ruby on Rails</li>								
+			<li>Eclipse</li>			
+			<li>Apache</li>
+		</ul>
+	</section>
+	
+	<!-- Projects -->
+	<section id="projects" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Projects</h1>
+			<h3 class="projects-nav"></h3>
+		</hgroup>
+		<div id="projects-container" class="grid_12 omega">
+		<ul class="scroller">
+			<li class="project clearfix">
+				<div class="grid_3 alpha image-container">
+					<a href="http://www.stickyhabits.com"><img src="images/stickyhabits.png" alt="StickyHabits" /></a>
+				</div>
+				<div class="grid_9 omega">
+					<h2><a href="http://www.stickyhabits.com">StickyHabits</a><span class="print-only"> &mdash; http://www.stickyhabits.com</span></h2>
+					<p>
+						My main side project, StickyHabits allows you to track your progress towards creating strong
+						positive habits. Built in Ruby on Rails 3, hosted on an Amazon EC2 Ubuntu 10.10 instance with
+						Ruby 1.9.2 via RVM running on Passenger + Nginx. Data is stored using MongoDB v1.8.
+					</p>					
+					<p>
+						Far from complete, but what exists today is a stable and useful application.
+					</p>
+				</div>
+			</li>			
+			<li class="project clearfix no-print">
+				<div class="grid_3 alpha image-container">
+					<a href="http://www.velir.com/expertise/datacenter.shtm"><img src="images/datacenter-map.png" alt="Datacenter" /></a>
+				</div>
+				<div class="grid_9 omega">
+					<h2><a href="http://www.velir.com/expertise/datacenter.shtm">Velir Datacenter</a></h2>
+					<p>
+						Datacenter is a CMS engine for powering data-driven web sites. Once datasets are loaded
+						into Datacenter, the system provides everything from administration capbabilies to dynamic mapping
+						applications.
+					</p>
+					<p>
+						Datacenter currently powers over 15 data-driven web sites. Such as the
+						<a href="http://www.dartmouthatlas.org">Dartmouth Atlas of Healthcare</a>,
+						<a href="http://www.kidsdata.org">KidsData</a>, and 
+						<a href="http://diversitydata.org">Harvard Diversity Data</a>.
+					</p>
+				</div>
+			</li>
+			<li class="project clearfix">
+				<div class="grid_3 alpha image-container">
+					<a href="http://www.geldmacher.net/life"><img src="images/life.png" alt="Game of Life" /></a>
+				</div>
+				<div class="grid_9 omega">
+					<h2><a href="http://www.geldmacher.net/life">Life in &lt;canvas&gt;</a><span class="print-only"> &mdash; http://www.geldmacher.net/life</span></h2>
+					<p>
+						As an exercise to teach myself a little about how to program using the HTML5
+						&lt;canvas&gt; element, I created an implementation of Conway's Game of Life.
+					</p>
+					<p class="no-print">
+						Source available <a href="http://www.github.com/rustygeldmacher/canvas_life">on GitHub</a>.
+					</p>
+				</div>
+			</li>			
+		</ul>
+		</div>
+	</section>
+	
+	<!-- Career -->
+	<section id="career" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Career</h1>			
+		</hgroup>
+		<ul class="grid_12 omega">
+			<li>
+				<hgroup>
+					<h2><a href="http://www.velir.com">Velir Studios</a> &mdash; Somerville, MA</h2>
+					<h3>Principal Developer, October 2009 to Present</h3>					
+					<h3>Senior Developer, November 2006 - October 2009</h3>
+				</hgroup>
+				<ul>
+					<li>
+						As employee #7, helped grow the company to a 50-person, multi-million dollar consultancy firm with dozens
+						of household-name clients. Gained experience in all aspects of the project lifecycle from the pitch right 
+						up through the maintenance contract.
+					</li>
+					<li>
+						Lead architect and developer of <a href="http://www.velir.com/expertise/datacenter.shtm">Velir Datacenter</a><span class="print-only"> (http://www.velir.com/expertise/datacenter.shtm)</span>, 
+						a data publishing framework and tool suite that currently powers over 15 high-volume websites.
+						<ul>
+							<li>
+							Built in ASP.NET and C#, Datacenter allows non-technical users to upload and manage large data
+							sets while allowing programmers to quickly go from blank slate to working site in minimal time
+							</li>
+							<li>
+							A unified database schema and domain model allows Datacenter to represent almost any type of tabular
+							data set without modifying the database. By using this one schema, optimizations could be focused so
+							that all sites built on the platform could be as high-performing as possible.
+							</li>
+							<li>
+							Built from the ground up with performance in mind, Datacenter can handle data sets upwards of 50 million 
+							data points without any noticeable degradation in performance. Optimizations from the database layer through
+							the API layer allow for fast data import, retrieval, and visualization.
+							</li>
+							<li>
+							Backed by nearly 2500 NUnit-based tests, the Datacenter code base has stood up for almost four
+							years and though several major refactorings, with regressions being extremely rare.
+							</li>
+							<li>
+							Uses NHibernate as the ORM, along with Spring.NET and a custom service locator to configure 
+							dependencies. Administrative system is built mainly on jQuery and various jQuery plugins.
+							</li>
+							<li>
+							Allows administrators to publish data sets and other system objects from a preview database into
+							a public one. The publishing system automatically handles dependency management and maintains 
+							relational consistency between the two databases.
+							</li>
+						</ul>
+					</li>
+					<li>
+						Lead teams on projects from planning and concept, through development and into production. Lead the development effort 
+						on dozens on web sites with teams from anywhere between 2 to 6 people. Some of these include:						
+						<ul>														
+							<li>Population Reference Bureau's <a href="http://www.prb.org/datafinder.aspx">DataFinder</a><span class="print-only"> - http://www.prb.org/datafinder.aspx</span></li>							
+							<li>Harvard School of Public Health's <a href="http://www.diversitydata.org">Diveristy Data</a><span class="print-only"> - http://www.diversitydata.org</span></li>
+							<li><a href="http://www.merid.org">The Meridian Institute</a><span class="print-only"> - http://www.merid.org</span></li>
+							<li>Kaiser Family Foundation's <a href="http://www.globalhealthfacts.org">Global Health Facts</a><span class="print-only"> - http://www.globalhealthfacts.org</span></li>							
+						</ul>
+					</li>
+					<li>
+						Identified as one of three leading developers in the company to receive the title of
+						Principal. Primary responsibilities include architecting and overseeing the builds on
+						new projects, starting from initial estimation through requirements gathering and on
+						into development. Some of the project I've architected include:
+						<ul>
+							<li><a href="http://www.dartmouthatlas.org">The Dartmouth Atlas of Healthcare</a><span class="print-only"> - http://www.dartmouthatlas.org</span></li>
+							<li>Lucile Packard Foundation's <a href="http://www.kidsdata.org">KidsData</a><span class="print-only"> - http://www.kidsdata.org</span></li>
+							<li>The Commonwealth Fund's <a href="http://www.commonwealthfund.org/Maps-and-Data/State-Data-Center/State-Scorecard.aspx">State Scorecard</a><span class="print-only"> - http://www.commonwealthfund.org/Maps-and-Data/State-Data-Center/State-Scorecard.aspx</span></li>
+						</ul>
+					</li>					
+					<li>
+						Mentored junior developers in C# and general programming best practices. Helped to 
+						make integration into the company go as smoothly as possible.
+					</li>
+					<li>
+						Helped build a best practices culture in the engineering group.
+						Instituted company-wide adoption of source control, automated testing, a common reusable 
+						code library, standardized build system, standard project directory structures, and more.
+					</li>	
+					<li>
+						Defined the Velir developer interview process and helped refine the peer review process.  Using this process we were able to
+						grow the developer base of the company while maintaining a consistently high level of talent.
+					</li>									
+				</ul>
+			</li>
+			<li class="open-close closed open-print">
+				<hgroup>
+					<h2><a href="http://www.intel.com">Intel Corporation</a> &mdash; Hudson, MA</h2>
+					<h3>Embedded Linux Software Engineer, June 2003 to November 2006</h3>					
+				</hgroup>
+				<ul>
+					<li>
+						One of the top embedded Linux and PXA processor experts in areas including boot-up, drivers, optimization
+						and system architecture.
+					</li>
+					<li>
+						Development work included doing Linux ports to brand new processors and processor steppings. First to enable new
+						architecture features such as DDR SDRAM and L2 cache.
+					</li>
+					<li>
+						Created the original implementation of suspend/resume power management facilities in the Linux kernel for the PXA 
+						architecture. That work was <a href="http://osdir.com/ml/ports.arm.announce/2002-06/msg00001.html">accepted</a> into
+						<a href="http://osdir.com/ml/ports.arm.announce/2002-06/msg00002.html">the PXA architecture tree</a>
+						of the mainline Linux kernel.
+					</li>
+					<li>
+						Lead role in the team producing and optimizing the operating system for the
+						<a href="http://en.wikipedia.org/wiki/Motorola_A780">Motorola A780</a>,
+						one of the first Linux-based smart-phones to ever hit the market.
+					</li>	
+				</ul>
+			</li>
+			<li class="open-close closed">
+				<hgroup>
+					<h2><a href="http://www.wpi.edu">Worcester Polytechnic Institute</a> &mdash; Worcester, MA</h2>
+					<h3>Teaching Assistant, August 2001 to May 2002</h3>					
+				</hgroup>
+				<ul>
+					<li>
+						Assisted instruction in Introduction to Embedded Systems, Introduction to Digital Circuitry, and VHDL.
+					</li>
+					<li>
+						Ran lab sessions, ran help sessions, corrected homework and tests, occasionally delivered lectures.
+					</li>
+				</ul>
+			</li>
+			<li class="open-close closed">
+				<hgroup>
+					<h2><a href="http://www.intel.com">Intel Corporation</a> &mdash; Hudson, MA</h2>
+					<h3>Summer Intern, Summers 2000 & 2001</h3>					
+				</hgroup>
+				<ul>
+					<li>
+						Worked in the Network Processor Operation on the IXP2800 network processor.
+					</li>									
+					<li>
+						Designed and implemented a test bench environment for processor peripherals on an APB bus.
+					</li>
+					<li>
+						Designed and modeled a general purpose I/O peripheral device and tested it with the APB test bench mentioned above.
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</section>
+	
+	<!-- Education -->
+	<section id="education" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Education</h1>			
+		</hgroup>
+		<ul class="grid_12 omega">
+			<li>
+				<hgroup>
+					<h2><a href="http://www.wpi.edu">Worcester Polytechnic Institute</a> &mdash; Worcester, MA</h2>
+					<h3>Master of Science - Computer Science</h3>
+				</hgroup>
+				<ul>
+					<li>Graduated May 2003</li>
+					<li>Cumulative GPA: 3.7</li>
+				</ul>
+			</li>
+			<li>
+				<hgroup>
+					<h2><a href="http://www.wpi.edu">Worcester Polytechnic Institute</a> &mdash; Worcester, MA</h2>
+					<h3>Bachelor of Science - Electrical Engineering (Concentration in Computer Engineering)</h3>
+				</hgroup>
+				<ul>
+					<li>Graduated May 2001</li>
+					<li>In-major GPA: 4.0, Cumulative GPA: 3.7</li>
+					<li>Tau Beta Pi National Engineering Honor Society</li>
+					<li>Eta Kappa Nu National Electrical Engineering Honor Society</li>
+				</ul>
+			</li>
+		</ul>
+	</section>
+	
+	<!-- Other -->
+	<section id="other" class="grid_14 prefix_1 suffix_1 clearfix">
+		<hgroup class="grid_2 alpha">
+			<h1>Other</h1>			
+		</hgroup>
+		<ul class="grid_12 omega">
+			<li>
+				<hgroup>
+					<h3>Avid hiker and backpacker</h3>					
+				</hgroup>
+				<ul>
+					<li>Completed the <a href="http://www.geldmacher.net/4000-footers">AMC New Hampshire 4,000 footers</a> list in July 2010</li>
+				</ul>
+			</li>
+			<li class="find-me">
+				Find me on:
+				<ul>
+					<li><a href="http://stackoverflow.com/users/214112/rusty">Stack Overflow</a><span class="print-only"> - http://stackoverflow.com/users/214112/rusty</span></li>
+					<li><a href="http://www.github.com/rustygeldmacher">GitHub</a><span class="print-only"> - http://www.github.com/rustygeldmacher</span></li>
+					<li><a href="http://blog.velir.com/index.php/author/rustyg/">Velir Blog</a><span class="print-only"> - http://blog.velir.com/index.php/author/rustyg/</span></li>
+					<li><a href="http://www.linkedin.com/pub/rusty-geldmacher/2/8a6/647">LinkedIn</a><span class="print-only"> - http://www.linkedin.com/pub/rusty-geldmacher/2/8a6/647</span></li>
+				</ul>
+			</li>
+		</ul>
+	</section>
+	
+	<footer class="grid_14 prefix_1 suffix_1 clearfix">
+		<p>Rusty Geldmacher &mdash; <a href="mailto:rusty@geldmacher.net">rusty@geldmacher.net</a> &mdash; (508) 353-3962</p>
+	</footer>
+	
+</div>
+
+&nbsp;
+
+</body>
