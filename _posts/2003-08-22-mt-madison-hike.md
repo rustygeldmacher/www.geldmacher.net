@@ -1,7 +1,6 @@
 ---
 date: 2003-08-22
 layout: hike
-permalink: mt-madison-hike.html
 title: Mt. Madison Hike
 location: White Mountains, NH
 participants: Chris Barnes, Rusty Geldmacher, Dan Jacques, Mike Los, Jon Suchecki

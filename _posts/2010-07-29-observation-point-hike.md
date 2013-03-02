@@ -1,7 +1,6 @@
 ---
 date: 2010-07-29
 layout: hike
-permalink: observation-point-hike.html
 title: Observation Point Hike
 location: Zion National Park, UT
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes, Jon Suchecki

@@ -2,7 +2,6 @@
 date: 2011-07-30
 layout: hike
 tags: hike
-permalink: mount-mansfield-hike.html
 title: Mount Mansfield Hike
 location: Green Mountains, VT
 participants: Rusty Geldmacher, Dan Jacques

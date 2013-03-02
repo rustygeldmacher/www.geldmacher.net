@@ -10,47 +10,32 @@ In early June of 2005 two intrepid explorers, Jon Suchecki and myself, embarked 
 
 I've got some photo galleries associated with our trip. The thumbnails in the trip log below will go into the corresponding picture gallery, but if you want to just jump right to the albums, use these links below:
 
-
-
-
-
   * [Various driving pictures and pictures from Utah](http://www.flickr.com/photos/geldmacher/sets/72157594570222498/)
-
-
   * [Pictures from Coors Field and around Denver](http://www.flickr.com/photos/geldmacher/sets/72157594570255521/)
-
-
   * [Gallery of pictures from Rocky Mountain National Park](http://www.flickr.com/photos/geldmacher/sets/72157594570372588/)
 
-
-
-
-
-**Part One: Hudson, MA to Denver, CO**
-
-
+## Part One: Hudson, MA to Denver, CO
 
 Leaving on the morning of June 7th, Jon and I drove his 1998 Subaru Legacy GT straight into Denver, CO. This was the longest part of our journey and it took us a grand total of thirty-two hours and forty-five minutes from the time we first got on the road to the time we parked outside Kevin's apartment in Denver. Along the way we kept a semi-detailed log of the major events, faithfully reproduced for you below. All of the times are according to the clock on Jon's stereo, which was set to Eastern Standard Time for the whole first part of the drive.
 
-
-
-
-
-
-Time
-Event
-
-
-
-5:45 AM
-Leave from Hudson, Massachusetts [![HPIM0206](http://farm1.static.flickr.com/124/410699866_f956cd2579_t.jpg)](http://www.flickr.com/photos/geldmacher/410699866/)
-
-
-
-6:35 AM
-Enter Connecticut
-
-
+<table class="table">
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Event</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>5:45 AM</td>
+			<td>Leave from Hudson, Massachusetts [![HPIM0206](http://farm1.static.flickr.com/124/410699866_f956cd2579_t.jpg)](http://www.flickr.com/photos/geldmacher/410699866/)</td>
+		</tr>
+		<tr>
+			<td>6:35 AM</td>
+			<td>Enter Connecticut</td>
+		</tr>
+	</tbody>
+</table>
 
 7:30 AM
 Stop for gas in Connecticut
@@ -88,7 +73,7 @@ Back on the road
 
 
 3:10 PM
-[![HPIM0209](http://farm1.static.flickr.com/131/410700793_fda68c6117_t.jpg)](http://www.flickr.com/photos/geldmacher/410700793/)Enter Ohio
+[![HPIM0209](http://farm1.static.flickr.com/131/410700793_fda68c6117_t.jpg)](http://www.flickr.com/photos/geldmacher/410700793/) Enter Ohio
 
 
 

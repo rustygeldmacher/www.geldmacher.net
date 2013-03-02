@@ -2,13 +2,12 @@
 date: 2006-06-30
 layout: hike
 tags: hike
-permalink: pemigewasset-wildernesss-loop.html
 title: Pemigewasset Wildernesss Loop
 location: White Mountains, NH
 participants: Chris Barnes, Rusty Geldmacher, Dan Jacques
 ---
 
-### Report
+### Recap
 
 This was one of the longest, most fun, most physically intense hikes I've done so far. For four days we trekked a thirty mile loop up and down ten mountain peaks in the western half of the Pemigewasset Wilderness. The weather reports mentioned chances of thunderstorms, but since our rule is to hike rain or shine, we went anyway. Well the reports were mostly right, as we got rain on three of the four days we were there. On the first day, as we were descending Mt. Flume, we actually got some hail! But somehow luck was with us -- we only had bad weather on one peak, most of the thunderstorms passed in under and hour, and we got great views for the most important parts of the hike.
 

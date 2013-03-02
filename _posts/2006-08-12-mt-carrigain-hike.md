@@ -2,7 +2,6 @@
 date: 2006-08-12
 layout: hike
 tags: hike
-permalink: mt-carrigain-hike.html
 title: Mt. Carrigain Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Jimmy Cook

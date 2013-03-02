@@ -2,13 +2,12 @@
 date: 2007-06-23
 layout: hike
 tags: hike
-permalink: sandwich-range-hike.html
 title: Sandwich Range Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes
 ---
 
-### Report
+### Recap
 
 We started relatively early on Saturday morning and made our way down Oliverian Brook Trail, following the blue blazes. About a mile into the trail, it split off at a fork so we decided to turn right and keep following the blazes. Three quarters of a mile down that side trail we happened upon a large group of people standing at a fire road, scratching their heads. As we later figured out, we all had gone the wrong way by following the blue blazes! So, backtrack we did and that's why on the GPS plot you'll see a slight detour near the beginning of the trail.
 

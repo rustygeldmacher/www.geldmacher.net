@@ -2,7 +2,6 @@
 date: 2006-08-13
 layout: hike
 tags: hike
-permalink: southern-presidentials-hike.html
 title: Southern Presidentials Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Mike Carlin, Jimmy Cook

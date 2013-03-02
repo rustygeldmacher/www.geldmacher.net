@@ -2,7 +2,6 @@
 date: 2010-07-03
 layout: hike
 tags: hike
-permalink: mount-moosilauke-hike.html
 title: Mount Moosilauke Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Gemma Geldmacher, Dan Jacques, Chris Barnes, Mike Carlin

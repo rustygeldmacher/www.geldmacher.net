@@ -2,13 +2,12 @@
 date: 2007-01-27
 layout: hike
 tags: hike
-permalink: mt-waumbek-hike.html
 title: Mt. Waumbek Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Mike Carlin, Chris Barnes
 ---
 
-### Report
+### Recap
 
 Well we loved hiking Mahoosuc Notch in the snow so much that we decided we were due for another trip up north. This time we went to hike Mount Waumbek, one of the lowest 4000 footers and also one of the most northern of the group. The conditions were great: high temperatures in the mid teens, slightly overcast, excellent visibility, and only a very light snow at times.
 

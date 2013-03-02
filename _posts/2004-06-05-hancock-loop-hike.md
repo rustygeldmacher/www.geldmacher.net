@@ -1,7 +1,6 @@
 ---
 date: 2004-06-05
 layout: hike
-permalink: hancock-loop-hike.html
 title: Hancock Loop Hike
 location: White Mountains, NH
 participants: Gabe Boys, Rusty Geldmacher, Dan Jacques

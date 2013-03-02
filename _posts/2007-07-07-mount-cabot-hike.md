@@ -1,8 +1,7 @@
 ---
-date: 2007-07-06
+date: 2007-07-07
 layout: hike
 tags: hike
-permalink: mount-cabot-hike.html
 title: Mount Cabot Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Mike Carlin

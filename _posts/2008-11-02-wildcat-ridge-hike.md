@@ -2,13 +2,12 @@
 date: 2008-11-02
 layout: hike
 tags: hike
-permalink: wildcat-ridge-hike.html
 title: Wildcat Ridge Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes, Mike Carlin
 ---
 
-### Report
+### Recap
 
 An awesome fall hike, this time hitting the peaks of Wildcat Mountain (there are 5 of them, though only 2 count towards the list). This one was almost over before it began, since the very first thing we needed to do was cross Glen Ellis Brook which had fast, high, freezing cold water. Jumping from icy rock to icy rock is a recipe for disaster, but thankfully we all stayed dry.
 

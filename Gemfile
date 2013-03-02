@@ -1,1 +1,3 @@
-gem 'jekyll-pagination', '0.0.4'
+source 'http://rubygems.org'
+
+gem 'ruby-oembed'

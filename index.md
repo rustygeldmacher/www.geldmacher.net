@@ -8,22 +8,22 @@ body_class: home
 
 <ul>
 	{% for post in site.posts limit: 3 %}
-	<li>{{ post.date | date: "%B %e, %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+	<li>{{ post.date | date: "%B %e, %Y" }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
 
-## 4000 footers
+## hiking
 
 Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
 
-* [Full list and summit info](/4000-footers/)
+* [4000 footer list and summit info](/4000-footers/)
+* [Hike reports](/hikes.html)
 
 ## life & travel
 
 Dispatches and reports from my life and times
 
 * [Travels and other updates](/life-and-travel.html)
-* [Hike reports](/hikes.html)
 
 ## projects & experiments
 
@@ -37,6 +37,6 @@ Dispatches and reports from my life and times
 * github
 * flickr
 
-russell dot geldmacher at gmail dot com
+<small><em>russell dot geldmacher at gmail dot com</em></small>
 
 {% endsidebar %}

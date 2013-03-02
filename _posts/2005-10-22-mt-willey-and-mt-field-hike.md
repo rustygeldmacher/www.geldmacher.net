@@ -1,7 +1,6 @@
 ---
 date: 2005-10-22
 layout: hike
-permalink: mt-willey-and-mt-field-hike.html
 title: Mt. Willey and Mt. Field Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Rob Jacques
@@ -30,7 +29,7 @@ Dan, his brother Rob, and I once again headed up to the White Mountains of New H
 
 Full gallery [here](http://www.flickr.com/photos/geldmacher/sets/72157594560578071/).
 
-[![pano3_cropped](http://farm1.static.flickr.com/126/404987460_8525ce7b22.jpg)](http://www.flickr.com/photos/geldmacher/404987460/)
+[![pano3cropped](http://farm1.static.flickr.com/126/404987460_8525ce7b22.jpg)](http://www.flickr.com/photos/geldmacher/404987460/)
 
 [![CIMG0503](http://farm1.static.flickr.com/186/404978378_90a7f51d46.jpg)](http://www.flickr.com/photos/geldmacher/404978378/)
 

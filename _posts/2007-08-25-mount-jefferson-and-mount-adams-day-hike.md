@@ -2,13 +2,12 @@
 date: 2007-08-25
 layout: hike
 tags: hike
-permalink: mount-jefferson-and-mount-adams-day-hike.html
 title: Mount Jefferson and Mount Adams Day Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Rob Jacques
 ---
 
-### Route
+### Recap
 
 We decided to take advantage of the late August weather and walk up two of the three highest peaks in the White Mountains. Starting at the highest trailhead in the Whites, Caps Ridge Trail, we made our way across the Ridge of the Caps and up to the summit of Mt. Jefferson. This route takes you up 2700 feet in about 2.5 miles, with the majority of the climbing done in the last three quarters of a mile or so.
 

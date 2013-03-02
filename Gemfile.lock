@@ -1,9 +1,10 @@
 GEM
+  remote: http://rubygems.org/
   specs:
-    jekyll-pagination (0.0.4)
+    ruby-oembed (0.8.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-pagination (= 0.0.4)
+  ruby-oembed

@@ -2,13 +2,12 @@
 date: 2009-05-29
 layout: hike
 tags: hike
-permalink: owls-head-hike.html
 title: Owl's Head Hike
 location: White Mountains, NH
 participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques, Jimmy Cook, Chris Algiers
 ---
 
-### Report
+### Recap
 
 The majority of the hike in was flat, about 8 miles worth. Then it's straight up the mountain: 1500 feet in one mile or so. We were chasing the clock, so we went as fast as we could. It was brutal. Fun, though!
 
@@ -46,6 +45,10 @@ The whole time we had our GPS running so we got tracks of the entire thing. I've
 
   * [OwlsHead.gdb](/downloads/OwlsHead.gdb)
   * [OwlsHead.gpx](/downloads/OwlsHead.gpx)
+
+### Video
+
+{% oembed http://www.youtube.com/watch?v=K-v4oD6PXZU %}
 
 ### Pictures
 

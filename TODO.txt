@@ -1,7 +1,8 @@
 - put the Owl's Head bushwhack files somewhere and link to them from the hike page
 - find the videos from the hike pages and put them back
 - double check hike dates
-- .htaccess with redirects from old urls?
+- .htaccess with redirects from old urls
 - use 'recap' instead of 'report' in hike pages
-- URL rewrites for old popular URLs
 - Google Analytics
+- Cross country trip table
+- Icons and links for services

@@ -2,7 +2,6 @@
 date: 2006-07-17
 layout: hike
 tags: hike
-permalink: mt-isolation-hike.html
 title: Mt. Isolation Hike
 location: White Mountains, NH
 participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques
@@ -29,6 +28,12 @@ participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques
 **Total: 19.4 miles**
 
 ### Video
+
+{% oembed http://www.youtube.com/watch?v=T7Ja0r09xUc %}
+
+{% oembed http://www.youtube.com/watch?v=8gSRmCHv10k %}
+
+{% oembed http://www.youtube.com/watch?v=JjREooFI4e4 %}
 
 ### Pictures
 

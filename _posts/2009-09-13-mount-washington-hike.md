@@ -2,13 +2,12 @@
 date: 2009-09-13
 layout: hike
 tags: hike
-permalink: mount-washington-hike.html
 title: Mount Washington Hike
 location: White Mountains, NH
 participants: Rusty Geldmacher, Dan Jacques, Chris Barnes
 ---
 
-### Report
+### Recap
 
 After a few cancellations due to bad weather, we finally got a window of opportunity to hike up [Mt. Washington](http://en.wikipedia.org/wiki/Mount_Washington_%28New_Hampshire%29). The highest peak in the White Mountains, Washington soars to just about 6300 feet at the summit.
 
@@ -26,6 +25,8 @@ Hiking Washington is bittersweet -- due to the [auto road](http://www.mountwashi
 **Total distance: 8.0 miles**
 
 ### Video
+
+{% oembed http://www.youtube.com/watch?v=Kt3Ui_ognmo %}
 
 ### Pictures
 
