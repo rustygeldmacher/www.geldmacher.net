@@ -31,12 +31,16 @@ Dispatches and reports from my life and times
 
 {% sidebar %}
 
-* twitter
-* linkedin
-* github
-* flickr
-* rss
+<ul class="service-links">
+	<li><a href="https://twitter.com/geldmacher"><img src="/images/twitter.png" /></a></li>
+	<li><a href="https://github.com/rustygeldmacher"><img src="/images/github.png" /></a></li>
+	<li><a href="http://www.linkedin.com/pub/rusty-geldmacher/2/8a6/647"><img src="/images/linkedin.png" /></a></li>
+	<li><a href="http://www.flickr.com/photos/geldmacher"><img src="/images/flickr.png" /></a></li>
+	<li><a href="/rss.xml"><img src="/images/rss.png" /></a></li>
+</ul>
 
-<small><em>russell dot geldmacher at gmail dot com</em></small>
+<p class="hidden-phone">
+	<small><em>russell dot geldmacher at gmail dot com</em></small>
+</p>
 
 {% endsidebar %}
