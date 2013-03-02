@@ -25,8 +25,8 @@ Dispatches and reports from my life and times
 
 ## projects & experiments
 
-* marmalade
-* canvas life
+* [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
+* [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
 
 {% sidebar %}
 
@@ -34,6 +34,7 @@ Dispatches and reports from my life and times
 * linkedin
 * github
 * flickr
+* rss
 
 <small><em>russell dot geldmacher at gmail dot com</em></small>
 

@@ -1,6 +1,7 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+  RewriteRule feed/+ /rss.xml [R=301,L]
   RewriteRule superlinks/+ https://github.com/rustygeldmacher/superlinks [R=301,L]
   RewriteRule ireland-trip-2003/+ /2005/10/01/ireland-trip-2003.html [R=301,L]
   RewriteRule angels-landing-hike/+ /2010/07/31/angels-landing-hike.html [R=301,L]
