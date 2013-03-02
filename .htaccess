@@ -2,7 +2,10 @@
   RewriteEngine On
   RewriteBase /
   RewriteRule superlinks/+ https://github.com/rustygeldmacher/superlinks [R=301,L]
+  RewriteRule ireland-trip-2003/+ /2005/10/01/ireland-trip-2003.html [R=301,L]
+  RewriteRule angels-landing-hike/+ /2010/07/31/angels-landing-hike.html [R=301,L]
   RewriteRule 2008/01/26/flume-gorge-snowshoeing/+ /2008/01/26/flume-gorge-snowshoeing.html
+  RewriteRule 2009/09/15/mount-washington/+ /2009/09/13/mount-washington-hike.html [R=301,L]
   RewriteRule mount-washington-hike/+ /2009/09/13/mount-washington-hike.html [R=301,L]
 	RewriteRule mount-jefferson-and-mount-adams-day-hike/+ /2007/08/22/mount-jefferson-and-mount-adams-day-hike.html [R=301,L]
 	RewriteRule southern-presidentials-hike/+ /2006/08/13/southern-presidentials-hike.html [R=301,L]
