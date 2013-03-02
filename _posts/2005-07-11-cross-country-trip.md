@@ -1,7 +1,6 @@
 ---
 date: 2005-07-11
 layout: post
-slug: cross-country-trip
 title: Cross Country Trip
 tags: life_and_travel
 ---
@@ -14,7 +13,7 @@ I've got some photo galleries associated with our trip. The thumbnails in the tr
   * [Pictures from Coors Field and around Denver](http://www.flickr.com/photos/geldmacher/sets/72157594570255521/)
   * [Gallery of pictures from Rocky Mountain National Park](http://www.flickr.com/photos/geldmacher/sets/72157594570372588/)
 
-## Part One: Hudson, MA to Denver, CO
+### Part One: Hudson, MA to Denver, CO
 
 Leaving on the morning of June 7th, Jon and I drove his 1998 Subaru Legacy GT straight into Denver, CO. This was the longest part of our journey and it took us a grand total of thirty-two hours and forty-five minutes from the time we first got on the road to the time we parked outside Kevin's apartment in Denver. Along the way we kept a semi-detailed log of the major events, faithfully reproduced for you below. All of the times are according to the clock on Jon's stereo, which was set to Eastern Standard Time for the whole first part of the drive.
 
@@ -28,296 +27,234 @@ Leaving on the morning of June 7th, Jon and I drove his 1998 Subaru Legacy GT st
 	<tbody>
 		<tr>
 			<td>5:45 AM</td>
-			<td>Leave from Hudson, Massachusetts [![HPIM0206](http://farm1.static.flickr.com/124/410699866_f956cd2579_t.jpg)](http://www.flickr.com/photos/geldmacher/410699866/)</td>
+			<td>Leave from Hudson, Massachusetts <a href="http://www.flickr.com/photos/geldmacher/410699866/"><img src="http://farm1.static.flickr.com/124/410699866_f956cd2579_t.jpg" /></a></td>
 		</tr>
 		<tr>
 			<td>6:35 AM</td>
 			<td>Enter Connecticut</td>
 		</tr>
+		<tr>
+		  <td>7:30 AM</td>
+		  <td>Stop for gas in Connecticut</td>
+		</tr>
+		<tr>
+		  <td>7:50 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>8:35 AM</td>
+		  <td>Enter New York</td>
+		</tr>
+		<tr>
+		  <td>9:35 AM</td>
+		  <td>Enter Pennsylvania</td>
+		</tr>
+		<tr>
+		  <td>10:50 AM</td>
+		  <td>Get on I-80 W</td>
+		</tr>
+		<tr>
+		  <td>11:20 AM</td>
+		  <td>Stop for lunch and gas in Pennsylvania</td>
+		</tr>
+		<tr>
+		  <td>11:50 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>3:10 PM</td>
+		  <td><a href="http://www.flickr.com/photos/geldmacher/410700793/"><img src="http://farm1.static.flickr.com/131/410700793_fda68c6117_t.jpg" /></a> Enter Ohio</td>
+		</tr>
+		<tr>
+		  <td>4:15 PM</td>
+		  <td>Stop for gas in Ohio</td>
+		</tr>
+		<tr>
+		  <td>4:30 PM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>6:15 PM</td>
+		  <td>Get on I-70 W</td>
+		</tr>
+		<tr>
+		  <td>7:20 PM</td>
+		  <td>Stop for dinner in Ohio</td>
+		</tr>
+		<tr>
+		  <td>8:05 PM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>8:20 PM</td>
+		  <td>Enter Indiana <a href="http://www.flickr.com/photos/geldmacher/410701798/"><img src="http://farm1.static.flickr.com/149/410701798_eeb38fa506_t.jpg" /></a></td>
+		</tr>
+		<tr>
+		  <td>10:35 PM</td>
+		  <td>Enter Illinois</td>
+		</tr>
+		<tr>
+		  <td>11:25 PM</td>
+		  <td>Stop for gas in Illinois</td>
+		</tr>
+		<tr>
+		  <td>11:45 PM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>1:15 AM</td>
+		  <td>Enter Missouri</td>
+		</tr>
+		<tr>
+		  <td>1:45 AM</td>
+		  <td>Stop for coffee in Missouri</td>
+		</tr>
+		<tr>
+		  <td>2:00 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>4:10 AM</td>
+		  <td>Stop for gas in Missouri</td>
+		</tr>
+		<tr>
+		  <td>4:20 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>5:25 AM</td>
+		  <td>Enter Kansas</td>
+		</tr>
+		<tr>
+		  <td>7:10 AM</td>
+		  <td>Stop for breakfast and gas in Kansas</td>
+		</tr>
+		<tr>
+		  <td>7:55 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>11:10 AM</td>
+		  <td>Stop for gas in Kansas</td>
+		</tr>
+		<tr>
+		  <td>11:30 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>12:10 PM</td>
+		  <td>Enter Colorado</td>
+		</tr>
+		<tr>
+		  <td>2:30 PM</td>
+		  <td>Park in Denver, Colorado</td>
+		</tr>
 	</tbody>
 </table>
 
-7:30 AM
-Stop for gas in Connecticut
-
-
-
-7:50 AM
-Back on the road
-
-
-
-8:35 AM
-Enter New York
-
-
-
-9:35 AM
-Enter Pennsylvania
-
-
-
-10:50 AM
-Get on I-80 W
-
-
-
-11:20 AM
-Stop for lunch and gas in Pennsylvania
-
-
-
-11:50 AM
-Back on the road
-
-
-
-3:10 PM
-[![HPIM0209](http://farm1.static.flickr.com/131/410700793_fda68c6117_t.jpg)](http://www.flickr.com/photos/geldmacher/410700793/) Enter Ohio
-
-
-
-4:15 PM
-Stop for gas in Ohio
-
-
-
-4:30 PM
-Back on the road
-
-
-
-6:15 PM
-Get on I-70 W
-
-
-
-7:20 PM
-Stop for dinner in Ohio
-
-
-
-8:05 PM
-Back on the road
-
-
-
-8:20 PM
-Enter Indiana [![HPIM0212](http://farm1.static.flickr.com/149/410701798_eeb38fa506_t.jpg)](http://www.flickr.com/photos/geldmacher/410701798/)
-
-
-
-10:35 PM
-Enter Illinois
-
-
-
-11:25 PM
-Stop for gas in Illinois
-
-
-
-11:45 PM
-Back on the road
-
-
-
-1:15 AM
-Enter Missouri
-
-
-
-1:45 AM
-Stop for coffee in Missouri
-
-
-
-2:00 AM
-Back on the road
-
-
-
-4:10 AM
-Stop for gas in Missouri
-
-
-
-4:20 AM
-Back on the road
-
-
-
-5:25 AM
-Enter Kansas
-
-
-
-7:10 AM
-Stop for breakfast and gas in Kansas
-
-
-
-7:55 AM
-Back on the road
-
-
-
-11:10 AM
-Stop for gas in Kansas
-
-
-
-11:30 AM
-Back on the road
-
-
-
-12:10 PM
-Enter Colorado
-
-
-
-2:30 PM
-Park in Denver, Colorado
-
-
-
-
-
-
-
-**Part Two: Denver, CO to Los Angeles, CA**
-
-
+### Part Two: Denver, CO to Los Angeles, CA
 
 After an eventful two days in Denver (seeing the White Sox romp the Colorado Rockies, checking out the many bars and restaurants, going to Rocky Mountain National Park) Jon and I hit the road again in the early morning of Friday, June 10th.  This time, final our destination was in sight: Los Angeles. Compared to the first leg of the trip, this fifteen-hour and fifty-minute part of the journey was a piece of cake. Again, here is the trip log we wrote, this time with Jon's clock set to Mountain Time for Denver.
 
-
-
-
-
-
-Time
-Event
-
-
-
-4:55 AM
-On the road in Denver, Colorado
-
-
-
-5:30 AM
-Stop for gas in Colorado
-
-
-
-5:40 AM
-Back on the road
-
-
-
-6:30 AM
-Stop for breakfast in Colorado
-
-
-
-6:50 AM
-Back on the road
-
-
-
-9:10 AM
-Enter Utah
-
-
-
-9:40 AM
-[![HPIM0221](http://farm1.static.flickr.com/163/410702580_adad90ed74_t.jpg)](http://www.flickr.com/photos/geldmacher/410702580/)Stop for gas in Utah
-
-
-
-10:00 AM
-Back on the road
-
-
-
-10:40 AM
-Get on I-15 S
-
-
-
-12:55 PM
-Stop for lunch in Utah
-
-
-
-1:30 PM
-Back on the road
-
-
-
-2:50 PM
-Enter Arizona
-
-
-
-3:15 PM
-Enter Nevada
-
-
-
-4:50 PM
-Stop for gas in Nevada
-
-
-
-5:00 PM
-Back on the road
-
-
-
-5:10 PM
-Enter California
-
-
-
-8:45 PM
-Park in Los Angeles, California
-
-
-
-
-
-
-
-**Trip Summary**
-
-
+<table class="table">
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Event</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+		  <td>4:55 AM</td>
+		  <td>On the road in Denver, Colorado</td>
+		</tr>
+		<tr>
+		  <td>5:30 AM</td>
+		  <td>Stop for gas in Colorado</td>
+		</tr>
+		<tr>
+		  <td>5:40 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>6:30 AM</td>
+		  <td>Stop for breakfast in Colorado</td>
+		</tr>
+		<tr>
+		  <td>6:50 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>9:10 AM</td>
+		  <td>Enter Utah</td>
+		</tr>
+		<tr>
+		  <td>9:40 AM</td>
+		  <td><a href="http://www.flickr.com/photos/geldmacher/410702580/"><img src="http://farm1.static.flickr.com/163/410702580_adad90ed74_t.jpg" /></a> Stop for gas in Utah</td>
+		</tr>
+		<tr>
+		  <td>10:00 AM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>10:40 AM</td>
+		  <td>Get on I-15 S</td>
+		</tr>
+		<tr>
+		  <td>12:55 PM</td>
+		  <td>Stop for lunch in Utah</td>
+		</tr>
+		<tr>
+		  <td>1:30 PM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>2:50 PM</td>
+		  <td>Enter Arizona</td>
+		</tr>
+		<tr>
+		  <td>3:15 PM</td>
+		  <td>Enter Nevada</td>
+		</tr>
+		<tr>
+		  <td>4:50 PM</td>
+		  <td>Stop for gas in Nevada</td>
+		</tr>
+		<tr>
+		  <td>5:00 PM</td>
+		  <td>Back on the road</td>
+		</tr>
+		<tr>
+		  <td>5:10 PM</td>
+		  <td>Enter California</td>
+		</tr>
+		<tr>
+		  <td>8:45 PM</td>
+		  <td>Park in Los Angeles, California</td>
+		</tr>
+	</tbody>
+</table>
+
+### Trip Summary
 
 So there yout have it: our cross country jaunt. Unfortunately, we didn't record the mileage for our waypoints, but I suspect that could easily be recontructed via Google Maps. We'll leave that as an exercise for the reader. In the mean time, here's a brief summary of our entire trip.
 
-
-
-
-
-
-Total time moving
-42 hours and 55 minutes
-
-
-
-Total time stopped
-5 hours and 40 minutes
-
-
-
-Total trip time
-48 hours and 35 minutes
-
-
-
-Total states visited
-14
-
+<table class="table">
+	<tr>
+	  <td>Total time moving</td>
+	  <td>42 hours and 55 minutes</td>
+	</tr>
+	<tr>
+	  <td>Total time stopped</td>
+	  <td>5 hours and 40 minutes</td>
+	</tr>
+	<tr>
+	  <td>Total trip time</td>
+	  <td>48 hours and 35 minutes</td>
+	</tr>
+	<tr>
+	  <td>Total states visited</td>
+	  <td>14</td>
+	</tr>
+</table>
 

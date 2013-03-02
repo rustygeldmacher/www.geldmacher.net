@@ -14,9 +14,7 @@ body_class: home
 
 ## hiking
 
-Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
-
-* [4000 footer list and summit info](/4000-footers/)
+* [4000 footer list and summit info](/4000-footers/) - Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
 * [All hike reports](/hikes.html) - 4000 footers and otherwise
 
 ## life & travel
