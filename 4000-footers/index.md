@@ -51,7 +51,7 @@ summitData = [
 
 { name: 'Jefferson', height: 5712, summited: '8/25/2007', page: '2007-08-25-mount-jefferson-and-mount-adams-day-hike', thumbnail: 'http://farm2.static.flickr.com/1171/1244870723_a3b01039e5_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/1244870723/' },
 
-{ name: 'Monroe', height: 5384, summited: '8/13/2006', page: '2006-08-13-2006-08-13-southern-presidentials-hike', thumbnail: 'http://farm1.static.flickr.com/134/404172832_05f09acb55_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/404172832/' },
+{ name: 'Monroe', height: 5384, summited: '8/13/2006', page: '2006-08-13-southern-presidentials-hike', thumbnail: 'http://farm1.static.flickr.com/134/404172832_05f09acb55_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/404172832/' },
 
 { name: 'Madison', height: 5367, summited: '8/22/2003', page: '2003-08-22-mt-madison-hike', thumbnail: 'http://farm1.static.flickr.com/156/406454905_39f2938914_t.jpg', gallery: 'http://www.flickr.com/photos/geldmacher/406454905/' },
 

@@ -2,4 +2,3 @@
 - Google Analytics
 - Icons and links for services
 - Sorting on 4000 footer table
-
