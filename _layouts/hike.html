@@ -3,7 +3,7 @@ layout: default
 navbar: true
 ---
 
-{% sidebar %}
+{% contentfor sidebar %}
 
 {% if page.location %}
 Where
@@ -20,6 +20,6 @@ Who
 : {{ page.participants }}
 {% endif %}
 
-{% endsidebar %}
+{% endcontentfor %}
 
 {{ content }}

@@ -27,9 +27,9 @@ Dispatches and reports from my life and times
 
 * [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
 * [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
- * [superlinks](https://github.com/rustygeldmacher/marmalade) - Small WordPress plugin to add links to the sidebar
+* [superlinks](https://github.com/rustygeldmacher/marmalade) - Small WordPress plugin to add links to the sidebar
 
-{% sidebar %}
+{% contentfor sidebar %}
 
 <ul class="service-links">
 	<li><a href="https://twitter.com/geldmacher"><img src="/images/twitter.png" /></a></li>
@@ -43,4 +43,4 @@ Dispatches and reports from my life and times
 	<small><em>russell dot geldmacher at gmail dot com</em></small>
 </p>
 
-{% endsidebar %}
+{% endcontentfor %}

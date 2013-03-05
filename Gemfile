@@ -1,3 +1,4 @@
 source 'http://rubygems.org'
 
-gem 'ruby-oembed'
+gem 'jekyll-contentblocks', '0.0.1'
+gem 'jekyll-oembed', '0.0.1', :require => 'jekyll_oembed'

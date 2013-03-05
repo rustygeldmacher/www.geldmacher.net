@@ -3,9 +3,9 @@ layout: default
 navbar: true
 ---
 
-{% sidebar %}
+{% contentfor sidebar %}
 <h3>{{ page.date | date_to_long_string }}</h3>
-{% endsidebar %}
+{% endcontentfor %}
 
 {{ content }}
 
