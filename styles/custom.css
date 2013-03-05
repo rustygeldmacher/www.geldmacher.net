@@ -19,6 +19,12 @@ h1, h2, h3 {
 .navbar .brand {
   margin-left: 0;
 }
+code {
+  color: #444;
+}
+li {
+  margin-bottom: 5px;
+}
 
 /** Service links **/
 ul.service-links {
