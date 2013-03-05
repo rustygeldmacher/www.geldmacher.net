@@ -19,14 +19,6 @@ h1, h2, h3 {
 .navbar .brand {
   margin-left: 0;
 }
-body.home {
-  padding-top: 30px;
-}
-@media (min-width: 768px) {
-  .sidebar {
-    position: fixed;
-  }
-}
 
 /** Service links **/
 ul.service-links {
@@ -61,4 +53,24 @@ th.headerSortUp {
 th.headerSortDown {
     background-image: url(/images/table-desc.gif);
     background-color: #ADD6FF;
+}
+
+/* Non-mobile specific styles */
+@media (min-width: 768px) {
+  body.home {
+    padding-top: 10px;
+  }
+  .sidebar {
+    position: fixed;
+  }
+}
+
+/* Mobile specific styles */
+@media (max-width: 767px) {
+  body {
+    padding-top: 0px;
+  }
+  ul.service-links {
+    margin: 10px auto 10px auto;
+  }
 }
