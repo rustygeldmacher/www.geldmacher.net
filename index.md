@@ -26,8 +26,9 @@ Dispatches and reports from my life and times
 ## projects & experiments
 
 * [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
+* [jekyll-contentblocks](https://github.com/rustygeldmacher/jekyll-contentblocks) - Jekyll plugin giving you something similar to content_for in Rails
 * [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
-* [superlinks](https://github.com/rustygeldmacher/marmalade) - Small WordPress plugin to add links to the sidebar
+* [superlinks](https://github.com/rustygeldmacher/superlinks) - Small WordPress plugin to add links to the sidebar
 
 {% contentfor sidebar %}
 
