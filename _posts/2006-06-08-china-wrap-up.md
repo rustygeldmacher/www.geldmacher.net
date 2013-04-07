@@ -6,42 +6,24 @@ title: China wrap up
 tags: life_and_travel
 ---
 
-Last night I added a [gallery of my pictures from China](http://www.geldmacher.net/galleries/thumbnails.php?album=21), 56 photos in all. Here is just a small sample.
+Last night I added a [gallery of my pictures from China](http://www.flickr.com/photos/geldmacher/sets/72157594570569256/), 56 photos in all. Here is just a small sample.
 
-![](http://www.geldmacher.net/galleries/albums/travel/shanghai-2006-05/normal_IMG_0984.JPG)
+![http://www.flickr.com/photos/geldmacher/410905531/](http://farm1.staticflickr.com/183/410905531_9b5c4d32f6.jpg)
 Jack and I right before sitting down for dinner. That is only about half of the food we ended up with at this feast!
 
-![](http://www.geldmacher.net/galleries/albums/travel/shanghai-2006-05/normal_IMG_1124.JPG)
+![http://www.flickr.com/photos/geldmacher/410931492/](http://farm1.staticflickr.com/183/410931492_d055b88d88.jpg)
 This is the market we went to in Hangzhou.
 
-![](http://www.geldmacher.net/galleries/albums/travel/shanghai-2006-05/normal_IMG_1121.JPG)
+![http://www.flickr.com/photos/geldmacher/410930345/](http://farm1.staticflickr.com/169/410930345_d9f095b5c4.jpg)
 Here I am standing in a doorway at the Hangzhou Botanical Gardens.
 
-![](http://www.geldmacher.net/galleries/albums/travel/shanghai-2006-05/normal_IMG_1172.JPG)
+![http://www.flickr.com/photos/geldmacher/410938582/](http://farm1.staticflickr.com/124/410938582_f356abaeb2.jpg)
 A view across the Haungpu River at night. Here you can see the [Oriental Pearl Tower](http://en.wikipedia.org/wiki/Oriental_Pearl_Tower) all lit up.
 
-The complete gallery is [here](http://www.geldmacher.net/galleries/thumbnails.php?album=21). I guess that will wrap up the reporting on my trip. I've had fun telling the stories of my travels on this site. In case you missed anything, here is a re-cap of the story:
+The complete gallery is [here](http://www.flickr.com/photos/geldmacher/sets/72157594570569256/). I guess that will wrap up the reporting on my trip. I've had fun telling the stories of my travels on this site. In case you missed anything, here is a re-cap of the story:
 
-
-
-
-
-  * [I first found out I was going](http://www.geldmacher.net/index.php/2006/05/27/news-from-the-world-travel-department/)
-
-
-  * [My impressions from my first day](http://http://www.geldmacher.net/index.php/2006/05/30/219/)
-
-
-  * [Dinner at Jack's, first authentic Chinese food](http://www.geldmacher.net/index.php/2006/06/01/chinese-hosptitality/)
-
-
-  * [More about the food](http://www.geldmacher.net/index.php/2006/06/02/chinese-food-aint-crab-rangoon/)
-
-
-  * [A day exploring Hangzhou](http://www.geldmacher.net/index.php/2006/06/03/weekend-sight-seeing-hangzhou/)
-
-
-  * [A day haggling and sight-seeing in Shanghai](http://www.geldmacher.net/index.php/2006/06/04/weekend-sight-seeing-shanghai/)
-
-
-
+* [My impressions from my first day]({% post_url 2006-05-30-checking-in-on-day-one %})
+* [Dinner at Jack's, first authentic Chinese food]({% post_url 2006-06-01-chinese-hospitality %})
+* [More about the food]({% post_url 2006-06-02-chinese-food-aint-crab-rangoon %})
+* [A day exploring Hangzhou]({% post_url 2006-06-03-weekend-sight-seeing-hangzhou %})
+* [A day haggling and sight-seeing in Shanghai]({% post_url 2006-06-04-weekend-sight-seeing-shanghai %})
