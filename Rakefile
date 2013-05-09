@@ -7,7 +7,7 @@ end
 
 desc "Package and deploy the site"
 task :deploy do
-  build_and_stage = ['jekyll', 'cd _site', 'tar pczf ../release.tar.gz .',
+  build_and_stage = ['jekyll build', 'cd _site', 'tar pczf ../release.tar.gz .',
     'scp ../release.tar.gz www.geldmacher.net:'].join(' && ')
   system build_and_stage
 
