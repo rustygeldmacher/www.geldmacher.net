@@ -110,6 +110,7 @@ section h2 {
 }
 section h3 {
 	font-size: 16px;
+  text-decoration: underline;
 }
 section h4 {
 	position: absolute;
@@ -126,9 +127,10 @@ section ul  li {
 }
 section ul li hgroup {
 	position: relative;
+  margin-bottom: 8px;
 }
 section ul li ul {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 section ul li.last {
 	margin-bottom: 0;
