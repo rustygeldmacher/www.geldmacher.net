@@ -1,0 +1,240 @@
+---
+name: Rusty Geldmacher
+full_name: Russell "Rusty" Geldmacher
+title: Engineering Leader
+email: rusty@geldmacher.net
+phone: (508) 353-3962
+pdf: RustyGeldmacher.pdf
+links:
+- title: www.geldmacher.net/resume
+  url: http://www.geldmacher.net/resume
+- title: www.github.com/rustygeldmacher
+  url: http://www.github.com/rustygeldmacher
+- title: linkedin.com/in/rusty-geldmacher
+  url: https://www.linkedin.com/in/rusty-geldmacher/
+skills:
+  current:
+  - DevOps & adminstration
+  - AWS & Cloud architecture
+  - Web architecture
+  - Automated testing
+  - Continuous integration
+  - Agile, Scrum, Kanban
+  - Ansible, Packer
+  - Ruby, Ruby on Rails
+  - PostgreSQL
+  - Redis, ElasticSearch, RabbitMQ
+  - HAProxy, Nginx, Unicorn
+  - Sensu, Fluentd, Grafana
+  - Docker
+  - Git
+  - SQL
+  - JavaScript, EmberJS, jQuery
+  - CSS, HTML
+  experience:
+  - C#
+  - C
+  - Assembly (ARM)
+  - Java
+  - Tcl/Tk
+  - MongoDB
+  - MySQL
+  - Linux kernel
+  - Embedded systems
+  - JavaScript / jQuery
+  - ASP.NET
+  - Subversion
+  - IIS
+  - MS SQL Server
+  - Apache / Passenger
+career:
+- company: Iora Health
+  location: Boston, MA
+  url: http://www.iorahealth.com
+  details:
+  - key: Stack
+    value: Ruby, Rails, EmberJS, Postgresql, Elasticsearch, Redis, RabbitMQ
+  - key: Operations
+    value: AWS, Ansible, Docker, Packer, HAProxy, Sensu, Fluentd, Kibana, Grafana, InfluxDB
+  - key: AWS
+    value: RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
+  roles:
+  - role: Director of Engineering
+    start: 2018-06
+    highlights:
+    - All engineering managers report up to me, so this role is basically the lead of the engineering
+      management team. As such I'm responsible for the growth and development of all our engineers,
+      as well as hiring, on-boarding and performance evaluation.
+    - In order to increase fairness and consistency in evaluation, I designed and launched Iora Engineering's
+      official title ladder, role descriptions, and associated expectations.
+    - Overhauled engineering's interviewing process to increase objectivity, standardize on focus areas,
+      and reduce bias. Additionally, documented and standardized the engineering on-boarding process to
+      get people up to speed as quickly as possible.
+    - Initiated a process of lightweight, quarterly feedback for all engineers and managers. Created a
+      formal goal-setting process between managers and their reports. Formalized the management team and
+      helped orient new managers.
+  - role: Senior Staff Engineer
+    start: 2015-06
+    end: 2018-06
+    highlights:
+    - Helped create, then lead Iora's platform team responsible for all aspects of cloud operations,
+      monitoring, reliability, scalability, and compliance.
+    - Revamped and updated the platform automation suite (Ansible, Packer) to emphasize completeness,
+      consistency, reproducibility and parity across environments. Introduced immutable machine
+      images as best practice, plus the ability to rebuild any part of the system during work hours
+      without interruption to the user.
+    - Introduced comprehensive monitoring, alerting, and metrics collection throughout all environments
+      by implementing Sensu, InfluxDB, and Grafana.
+    - Helped to organize the development group into cohesive teams using an agile process to reduce
+      WIP, make work visible, and perform regular retrospectives. This served as a starting point
+      for evolving the way work is done at the company.
+- company: Sermo WorldOne
+  location: Boston, MA
+  url: http://www.sermo.com
+  details:
+  - key: Stack
+    value: Ruby, Rails, PostgreSQL, RSpec, Redis, Resque, AWS, Puppet, Git, Nagios
+  roles:
+  - role: Principal Engineer
+    start: 2013-06
+    end: 2015-06
+    highlights:
+    - In charge of a five member scrum team responsible for all user-facing
+      features of Sermo. Work with product owner to organize backlog and
+      lead story grooming sessions. Keep team unblocked and on track for
+      sprint commitments, which we consistently meet.
+    - Lead various organizational and process improvements such as
+      improving team velocity and predictability by adopting a better
+      story writing and grooming process. Also lead the implementation
+      and adoption of team-wide [style guides](http://github.com/sermo/guides).
+    - Code base cleanup, maintenance, and general architectural improvements.
+  - role: Senior Engineer
+    start: 2011-11
+    end: 2013-06
+    highlights:
+    - Together with another developer, moved entire infrastructure for
+      Sermo from physical co-located datacenter to AWS cloud. Built
+      extensive automation for fleet and server provisioning using Fog,
+      Puppet, Nagios, Monit and related technologies.
+    - Modernized the multi-application code base with improvements such
+      as replacing the home grown asset sever with the Rails asset pipeline,
+      updating from Rails 2.3.x to Rails 3.2.x, and replacing the legacy
+      JBoss-based ESB with a Resque-based broadcast queue.
+    - Implementing other site features such as survey provisioning and
+      invitation engine, third party news feed integration, integrating
+      with the WorldOne balance and payments service, and more.
+- company: Velir Studios
+  location: Somerville, MA
+  url: http://www.velir.com
+  details:
+  - key: Stack
+    value: .NET, C#, ASP.NET, JavaScript, CSS, HTML, NUnit, NHibernate, Spring.NET,  MS SQL Server, IIS, Subversion
+  summary: >
+    As employee #7, helped grow the company to a 50-person,
+    multi-million dollar consultancy firm with dozens of household-name
+    clients. Gained experience in all aspects of the project lifecycle
+    from the initial pitch right up through the maintenance contract.
+  roles:
+  - role: Principal Developer
+    start: 2009-10
+    end: 2011-11
+    highlights :
+    - In addition to general senior-level
+      responsibilities, the responsibilities of principal include
+      architecting and overseeing the builds on new projects, starting
+      from initial estimation through requirements gathering and on
+      into development.
+    - Helped build a best practices culture in the engineering group.
+      Instituted company-wide adoption of source control, automated
+      testing, a common reusable code library, standardized build system,
+      standard project directory structures, and more.
+    - Mentored junior developers in C# and general programming best
+      practices. Helped to make integration into the company go as
+      smoothly as possible.
+    - Defined the Velir developer interview process and helped refine the
+      peer review process.  Using this process we were able to grow the
+      developer base of the company while maintaining a consistently high
+      level of talent.
+  - role: Senior Developer
+    start: 2006-11
+    end: 2009-10
+    highlights:
+    - Lead architect and developer of
+      [Velir Datacenter](http://www.velir.com/data-visualization),
+      a data publishing framework and tool suite that by the time I left
+      powered over 15 high-volume data visualization websites.
+    - Lead teams on projects from planning and concept, through
+      development and into production. Lead the development effort on
+      dozens on web sites with teams from anywhere between 2 to 6 people.
+- company: Intel Corporation
+  url: http://www.intel.com
+  location: Hudson, MA
+  roles:
+  - role: Embedded Linux Software Engineer
+    start: 2003-06
+    end: 2006-11
+    highlights:
+    - One of the top embedded Linux and PXA processor experts in areas
+      including boot-up, drivers, optimization and system architecture.
+    - Development work included doing Linux ports to brand new processors
+      and processor steppings. First to enable new architecture features
+      such as DDR SDRAM and L2 cache.
+    - Created the original implementation of suspend/resume power
+      management facilities in the Linux kernel for the PXA architecture.
+      That work was
+      <a href="http://osdir.com/ml/ports.arm.announce/2002-06/msg00001.html">accepted</a>
+      into
+      <a href="http://osdir.com/ml/ports.arm.announce/2002-06/msg00002.html">the PXA architecture tree</a>
+      of the mainline Linux kernel.
+    - Lead role in the team producing and optimizing the operating system
+      for the <a href="http://en.wikipedia.org/wiki/Motorola_A780">Motorola A780</a>,
+      one of the first Linux-based smart-phones to ever hit the market.
+- company: Worcester Polytechnic Institute
+  url: http://www.wpi.edu
+  location: Worcester, MA
+  roles:
+  - role: Teaching Assistant
+    start: 2001-08
+    end: 2002-05
+    highlights:
+    - Assisted instruction in Introduction to Embedded Systems,
+      Introduction to Digital Circuitry, and VHDL.
+    - Ran lab sessions, ran help sessions, corrected homework and tests,
+      occasionally delivered lectures.
+- company: Intel Corporation
+  url: http://www.intel.com
+  location: Hudson, MA
+  roles:
+  - role: Summer Intern
+    when: Summers 2000 & 2001
+    highlights:
+    - Worked in the Network Processor Operation on the IXP2800 network
+      processor.
+    - Designed and implemented a test bench environment for processor
+      peripherals on an APB bus.
+    - Designed and modeled a general purpose I/O peripheral device and
+      tested it with the APB test bench mentioned above.
+education:
+- school: Worcester Polytechnic Institute
+  url: http://www.wpi.edu
+  location: Worcester, MA
+  degree: Master of Science - Computer Science
+  graduated: May 2003
+  highlights:
+  - "Cumulative GPA: 3.7"
+- school: Worcester Polytechnic Institute
+  url: http://www.wpi.edu
+  location: Worcester, MA
+  degree: Bachelor of Science - Electrical Engineering (Concentration in Computer Engineering)
+  graduated: May 2001
+  highlights:
+  - "In-major GPA: 4.0, Cumulative GPA: 3.7"
+  - Tau Beta Pi National Engineering Honor Society
+  - Eta Kappa Nu National Electrical Engineering Honor Society
+online:
+- title: Stack Overflow
+  url: http://stackoverflow.com/users/214112/rusty
+- title: GitHub
+  url: http://www.github.com/rustygeldmacher
+- title: LinkedIn
+  url: https://www.linkedin.com/in/rusty-geldmacher

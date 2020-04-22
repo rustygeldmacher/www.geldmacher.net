@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
-gem 'jekyll', '2.3.0'
-gem 'jekyll-contentblocks', '1.0.0'
-gem 'jekyll-oembed', '0.0.1', :require => 'jekyll_oembed'
+gem 'rake'
+gem 'jekyll', '3.0.5'
+gem 'jekyll-contentblocks', '1.2.0'
+gem 'jekyll_oembed', :require => 'jekyll_oembed'
+gem 'pygments.rb'
+gem 'kramdown'
