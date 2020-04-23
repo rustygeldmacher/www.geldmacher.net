@@ -30,10 +30,10 @@
         .click(function() {
           var section = $(this);
           section.unbind('mouseenter').unbind('mouseleave').unbind('click');
-          section.find('ul:first').slideDown('slow', function() {
+          section.find('ul').slideDown('slow', function() {
             // Remove the hover class after .5 seconds
             setTimeout(function() {
-              section.toggleClass('hovered');
+              section.removeClass('hovered');
             }, 500);
           });
         });
@@ -79,9 +79,13 @@
     <hgroup class="grid_2 alpha">
       <h1>Career</h1>
     </hgroup>
-    <ul class="grid_12 omega">
-      <%- resume.career.each do |job| -%>
+    <ul class="career grid_12 omega">
+      <%- resume.career.each_with_index do |job, job_i| -%>
+        <% if job_i < resume.show_role_highlights -%>
         <li>
+        <% else -%>
+        <li class="open-close closed">
+        <%- end -%>
           <hgroup>
             <h2><a href="<%= job.url %>"><%= job.company %></a> &mdash; <%= job.location %></h2>
             <%- Array(job.details).each do |detail| -%>
@@ -89,11 +93,9 @@
             <%- end -%>
           </hgroup>
           <% if job.summary -%>
-          <ul class="open">
-            <li>
-              <%= m job.summary %>
-            </li>
-          </ul>
+          <p class="summary">
+            <%= m job.summary %>
+          </p>
           <% end -%>
           <% job.roles.each do |role| -%>
             <h3><%= role.role %>, <%= role_range(role) %></h3>
@@ -138,14 +140,10 @@
     <hgroup class="grid_2 alpha">
       <h1>Find me</h1>
     </hgroup>
-    <ul class="grid_12 omega">
-      <li class="find-me">
-        <ul>
+    <ul class="grid_12 omega find-me">
         <% resume.online.each do |link| -%>
           <li><a href="<%= link.url %>"><%= link.title %></a><span class="print-only"> - <%= link.url %></span></li>
         <% end -%>
-        </ul>
-      </li>
     </ul>
   </section>
 

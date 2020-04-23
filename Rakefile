@@ -42,13 +42,13 @@ desc "Build the site"
 task :build do
   build = [
     'rm -rf _site',
-    'bundle exec jekyll build',
+    'bundle exec jekyll build'
   ]
   system build.join(' && ')
 end
 
 desc "Upload the built site to the server"
-task :stage => [:build, :build_resume] do
+task :stage => [:build_resume, :build] do
   stage = [
     'cd _site',
     'tar pczf ../release.tar.gz .',

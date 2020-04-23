@@ -1,10 +1,11 @@
 ---
 name: Rusty Geldmacher
 full_name: Russell "Rusty" Geldmacher
-title: Engineering Leader
+title: Engineer, Leader
 email: rusty@geldmacher.net
 phone: (508) 353-3962
 pdf: RustyGeldmacher.pdf
+show_role_highlights: 2
 links:
 - title: www.geldmacher.net/resume
   url: http://www.geldmacher.net/resume
@@ -57,27 +58,43 @@ career:
   - key: Operations
     value: AWS, Ansible, Docker, Packer, HAProxy, Sensu, Fluentd, Kibana, Grafana, InfluxDB
   - key: AWS
-    value: RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
+    value: ECS, RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
   roles:
   - role: Director of Engineering
     start: 2018-06
     highlights:
-    - All engineering managers report up to me, so this role is basically the lead of the engineering
-      management team. As such I'm responsible for the growth and development of all our engineers,
-      as well as hiring, on-boarding and performance evaluation.
+    - As the lead of the engineering management team, all engineering managers report up to me.
+      In this role I'm responsible for putting process in place to support the growth and development
+      of all our engineers, as well as hiring, on-boarding, performance evaluation, and ensuring
+      consistent mangement practices.
     - In order to increase fairness and consistency in evaluation, I designed and launched Iora Engineering's
-      official title ladder, role descriptions, and associated expectations.
+      official title ladder, role descriptions, competency matrix, and associated expectations.
     - Overhauled engineering's interviewing process to increase objectivity, standardize on focus areas,
-      and reduce bias. Additionally, documented and standardized the engineering on-boarding process to
+      and reduce bias. Documented and standardized the engineering on-boarding process to
       get people up to speed as quickly as possible.
     - Initiated a process of lightweight, quarterly feedback for all engineers and managers. Created a
       formal goal-setting process between managers and their reports. Formalized the management team and
       helped orient new managers.
+  - role: Platform Architect
+    start: 2019-06
+    highlights:
+    - In addition to my role as engineering director, I also serve as the architect and owner of
+      Iora's cloud platform technology and associated roadmap.
+    - As the platform "product owner" I guide the platform team by setting architectural goals and
+      priorities, breaking down work into valuable deliverables, and keeping the team on track to
+      complete projects.
+    - Some of the efforts I've guided the platform team through include moving to more third-party
+      managed services, moving workloads into containers, creating a dedicated platform on-call
+      rotation, and increasing visibility into system performance.
   - role: Senior Staff Engineer
     start: 2015-06
     end: 2018-06
     highlights:
-    - Helped create, then lead Iora's platform team responsible for all aspects of cloud operations,
+    - Began in 2015 as an application developer building features in Iora's Electronic Health
+      Records system called Chirp (Ruby on Rails SOA backed, Backbone frontend). Helped move
+      the frontend from Backbone to EmberJS. Implemented many user-facing features, Rails-based
+      APIs, and backend business processes.
+    - In 2016 I helped create, then joined Iora's platform team responsible for all aspects of cloud operations,
       monitoring, reliability, scalability, and compliance.
     - Revamped and updated the platform automation suite (Ansible, Packer) to emphasize completeness,
       consistency, reproducibility and parity across environments. Introduced immutable machine
@@ -102,7 +119,7 @@ career:
     - In charge of a five member scrum team responsible for all user-facing
       features of Sermo. Work with product owner to organize backlog and
       lead story grooming sessions. Keep team unblocked and on track for
-      sprint commitments, which we consistently meet.
+      sprint commitments, which we consistently met.
     - Lead various organizational and process improvements such as
       improving team velocity and predictability by adopting a better
       story writing and grooming process. Also lead the implementation
@@ -133,7 +150,10 @@ career:
     As employee #7, helped grow the company to a 50-person,
     multi-million dollar consultancy firm with dozens of household-name
     clients. Gained experience in all aspects of the project lifecycle
-    from the initial pitch right up through the maintenance contract.
+    from the initial pitch right up through the maintenance contract. Built
+    web sites in small and large teams, eventually leading implementation of
+    the projects I was involved with. Designed, built, and deployed Velir's
+    data management and visualization platform.
   roles:
   - role: Principal Developer
     start: 2009-10
@@ -221,14 +241,13 @@ education:
   degree: Master of Science - Computer Science
   graduated: May 2003
   highlights:
-  - "Cumulative GPA: 3.7"
+  - Teaching Assistant
 - school: Worcester Polytechnic Institute
   url: http://www.wpi.edu
   location: Worcester, MA
   degree: Bachelor of Science - Electrical Engineering (Concentration in Computer Engineering)
   graduated: May 2001
   highlights:
-  - "In-major GPA: 4.0, Cumulative GPA: 3.7"
   - Tau Beta Pi National Engineering Honor Society
   - Eta Kappa Nu National Electrical Engineering Honor Society
 online:
