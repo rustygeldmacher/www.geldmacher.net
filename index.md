@@ -17,12 +17,6 @@ body_class: home
 * [4000 footer list and summit info](/4000-footers/) - Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
 * [All hike reports](/hikes.html) - 4000 footers and otherwise
 
-## life & travel
-
-Dispatches and reports from my life and times
-
-* [Travels and other updates](/life-and-travel.html)
-
 ## projects & experiments
 
 * [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
@@ -33,9 +27,8 @@ Dispatches and reports from my life and times
 {% contentfor sidebar %}
 
 <ul class="service-links">
-	<li><a href="https://twitter.com/geldmacher"><img src="/images/twitter.png" /></a></li>
 	<li><a href="https://github.com/rustygeldmacher"><img src="/images/github.png" /></a></li>
-	<li><a href="http://www.linkedin.com/pub/rusty-geldmacher/2/8a6/647"><img src="/images/linkedin.png" /></a></li>
+	<li><a href=" https://www.linkedin.com/in/rusty-geldmacher/"><img src="/images/linkedin.png" /></a></li>
 	<li><a href="http://www.flickr.com/photos/geldmacher"><img src="/images/flickr.png" /></a></li>
 	<li><a href="/rss.xml"><img src="/images/rss.png" /></a></li>
 </ul>
