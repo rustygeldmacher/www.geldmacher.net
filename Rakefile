@@ -1,3 +1,5 @@
+DEPLOY_TARGET="geldmacher@www.geldmacher.net"
+
 desc "Show the tags that the posts have"
 task :tags do
   system "grep 'tags:' _posts/* | awk '{ print $2 }' | sort | uniq -c"
@@ -20,7 +22,7 @@ task :build_resume do
   root = File.expand_path('resume')
   null_logger = Logger.new('/dev/null')
 
-  server_thread = Thread.new do
+  Thread.new do
     server = WEBrick::HTTPServer.new(
       :Port => 2929,
       :DocumentRoot => root,
@@ -46,11 +48,11 @@ task :build do
 end
 
 desc "Upload the built site to the server"
-task :stage => :build do
+task :stage => [:build, :build_resume] do
   stage = [
     'cd _site',
     'tar pczf ../release.tar.gz .',
-    'scp ../release.tar.gz www.geldmacher.net:'
+    "scp ../release.tar.gz #{DEPLOY_TARGET}:"
   ]
   system stage.join(' && ')
 end
@@ -65,5 +67,5 @@ task :deploy => :stage do
     "ln -s #{release_dir} ~/geldmacher.net/current",
     "rm ~/release.tar.gz"
   ]
-  system "ssh www.geldmacher.net '#{go_live.join(' && ')}'"
+  system "ssh #{DEPLOY_TARGET} '#{go_live.join(' && ')}'"
 end
