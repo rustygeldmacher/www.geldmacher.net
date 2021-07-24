@@ -5,6 +5,20 @@ task :tags do
   system "grep 'tags:' _posts/* | awk '{ print $2 }' | sort | uniq -c"
 end
 
+desc "Format Markdown"
+task :format do
+  Dir.chdir("good-eats") do
+    Dir['*.md'].each do |markdown_file|
+      next if ['updates.md'].include?(markdown_file)
+
+      puts markdown_file
+      format_cmd = "pandoc \"#{markdown_file}\" --standalone " \
+        "-t gfm+yaml_metadata_block -o \"#{markdown_file}\""
+      system(format_cmd)
+    end
+  end
+end
+
 desc "Build resume"
 task :build_resume do
   puts "Building resume..."

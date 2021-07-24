@@ -53,6 +53,3 @@ DEPENDENCIES
   kramdown
   pygments.rb
   rake
-
-BUNDLED WITH
-   1.17.3

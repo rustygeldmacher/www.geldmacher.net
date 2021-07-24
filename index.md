@@ -8,7 +8,7 @@ body_class: home
 
 <ul>
 	{% for post in site.posts limit: 3 %}
-	<li>{{ post.date | date: "%B %e, %Y" }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	<li>{{ post.date | date: "%B %e, %Y" }} &mdash; <a href="{{ post.url }}">{% if post.tags contains 'goodeats' %}Good Eats: {% endif %}{{ post.title }}{{ post.tags.inpsect }}</a></li>
 	{% endfor %}
 </ul>
 
@@ -19,6 +19,7 @@ body_class: home
 
 ## projects & experiments
 
+* [good eats](good-eats/) - Attempting to cook my way through Good Eats
 * [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
 * [jekyll-contentblocks](https://github.com/rustygeldmacher/jekyll-contentblocks) - Jekyll plugin giving you something similar to content_for in Rails
 * [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
