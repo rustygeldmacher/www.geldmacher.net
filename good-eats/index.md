@@ -15,9 +15,9 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% progress_bar 5 27 %} Current Season Recipes {% endprogress_bar %}
+{% progress_bar 6 27 %} Current Season Recipes {% endprogress_bar %}
 
-{% progress_bar 5 643 %} Total Recipes {% endprogress_bar %}
+{% progress_bar 6 643 %} Total Recipes {% endprogress_bar %}
 
 {% progress_bar 0 16 %} Seasons {% endprogress_bar %}
 
@@ -29,7 +29,7 @@ about what I’m doing here.
 | [7/24/2021](%7B%%20post_url%202021-07-24-starting-season-1%20%%7D) | [The Baked Potato](https://www.foodnetwork.com/recipes/alton-brown/the-baked-potato-recipe1-1908821)                       | {{ 4      | stars }} |
 |                                                                    | [Eggs Over Easy](https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248)                           |           |          |
 |                                                                    | [Lemon Curd](https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621)                                    |           |          |
-|                                                                    | [Scrambled Eggs Unscrambled](https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318)    |           |          |
+| [7/24/2021]({% post_url 2021-08-02-unscrambled %})                 | [Scrambled Eggs Unscrambled](https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318)    | {{ 3 | stars }} | {{ 4 | stars }} |
 | [7/24/2021](%7B%%20post_url%202021-07-24-starting-season-1%20%%7D) | [Veni Vedi Vinaigrette](https://www.foodnetwork.com/recipes/veni-vedi-vinaigrette-recipe-1938425)                          | {{ 3      | stars }} |
 |                                                                    | [Hail Caesar Salad](https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267)                                  |           |          |
 |                                                                    | [Broiled, Butterflied Chicken](https://www.foodnetwork.com/recipes/alton-brown/broiled-butterflied-chicken-recipe-1951266) |           |          |
