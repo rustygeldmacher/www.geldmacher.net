@@ -15,9 +15,9 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% progress_bar 6 27 %} Current Season Recipes {% endprogress_bar %}
+{% progress_bar 8 27 %} Current Season Recipes {% endprogress_bar %}
 
-{% progress_bar 6 643 %} Total Recipes {% endprogress_bar %}
+{% progress_bar 8 643 %} Total Recipes {% endprogress_bar %}
 
 {% progress_bar 0 16 %} Seasons {% endprogress_bar %}
 
@@ -25,13 +25,13 @@ about what I’m doing here.
 
 | **Date**                                                           | **Recipe**                                                                                                                 | **Crowd**       | **Ease**        |
 |--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|
-|                                                                    | [Pan Seared Rib Eye](https://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe-2131274)                    |                 |                 |
+| [8/02/2021]({% post_url 2021-08-02-02-rib-eye-and-caesar %})       | [Pan Seared Rib Eye](https://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe-2131274)                    | {{ 4 | stars }} | {{ 4 | stars }} |
 | [7/24/2021]({% post_url 2021-07-24-starting-season-1 %})           | [The Baked Potato](https://www.foodnetwork.com/recipes/alton-brown/the-baked-potato-recipe1-1908821)                       | {{ 4 | stars }} | {{ 5 | stars }} |
 |                                                                    | [Eggs Over Easy](https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248)                           |                 |                 |
 |                                                                    | [Lemon Curd](https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621)                                    |                 |                 |
-| [7/24/2021]({% post_url 2021-08-02-unscrambled %})                 | [Scrambled Eggs Unscrambled](https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318)    | {{ 3 | stars }} | {{ 4 | stars }} |
+| [8/02/2021]({% post_url 2021-08-02-01-unscrambled %})              | [Scrambled Eggs Unscrambled](https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318)    | {{ 3 | stars }} | {{ 4 | stars }} |
 | [7/24/2021]({% post_url 2021-07-24-starting-season-1 %})           | [Veni Vedi Vinaigrette](https://www.foodnetwork.com/recipes/veni-vedi-vinaigrette-recipe-1938425)                          | {{ 3 | stars }} | {{ 5 | stars }} |
-|                                                                    | [Hail Caesar Salad](https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267)                                  |                 |                 |
+| [8/02/2021]({% post_url 2021-08-02-02-rib-eye-and-caesar %})       | [Hail Caesar Salad](https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267)                                  | {{ 3 | stars }} | {{ 4 | stars }} |
 |                                                                    | [Broiled, Butterflied Chicken](https://www.foodnetwork.com/recipes/alton-brown/broiled-butterflied-chicken-recipe-1951266) |                 |                 |
 |                                                                    | [Serious Vanilla Ice Cream](https://www.foodnetwork.com/recipes/alton-brown/serious-vanilla-ice-cream-recipe-1909819)      |                 |                 |
 |                                                                    | [Coffee Granita](https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493)                            |                 |                 |
