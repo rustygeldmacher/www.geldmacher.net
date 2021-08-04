@@ -15,7 +15,7 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% progress_bar 10 27 %} Current Season Recipes {% endprogress_bar %}
+{% progress_bar 10 25 %} Current Season Recipes {% endprogress_bar %}
 
 {% progress_bar 10 643 %} Total Recipes {% endprogress_bar %}
 
