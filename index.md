@@ -30,7 +30,6 @@ body_class: home
 <ul class="service-links">
 	<li><a href="https://github.com/rustygeldmacher"><img src="/images/github.png" /></a></li>
 	<li><a href=" https://www.linkedin.com/in/rusty-geldmacher/"><img src="/images/linkedin.png" /></a></li>
-	<li><a href="http://www.flickr.com/photos/geldmacher"><img src="/images/flickr.png" /></a></li>
 	<li><a href="/rss.xml"><img src="/images/rss.png" /></a></li>
 </ul>
 
