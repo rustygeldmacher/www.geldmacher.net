@@ -5,6 +5,10 @@
   recipes:
   - name: Pan Seared Rib Eye
     url: https://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe-2131274
+    cooked_on: 2021-08-02
+    post: 2021-08-02-02-rib-eye-and-caesar
+    crowd: 4
+    ease: 4
 
 - title: This Spud's For You
   season: 1
@@ -12,10 +16,18 @@
   recipes:
   - name: The Baked Potato
     url: https://www.foodnetwork.com/recipes/alton-brown/the-baked-potato-recipe1-1908821
+    cooked_on: 2021-07-24
+    post: 2021-07-24-starting-season-1
+    crowd: 4
+    ease: 5
   - name: Potato/Portobello Gratin
     url: https://www.foodnetwork.com/recipes/potatoportobello-gratin-recipe-2131294
   - name: Mashers
     url: https://www.foodnetwork.com/recipes/alton-brown/mashers-recipe-2013124
+    cooked_on: 2021-08-09
+    post: 2021-08-09-broiled-chicken-and-mashers
+    crowd: 4
+    ease: 4
 
 - title: The Egg-Files
   season: 1
@@ -23,10 +35,18 @@
   recipes:
   - name: Eggs Over Easy
     url: https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248
+    cooked_on: 2021-08-03
+    post: 2021-08-03-eggs-and-ice-cream
+    crowd: 5
+    ease: 5
   - name: Lemon Curd
     url: https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621
   - name: Scrambled Eggs Unscrambled
     url: https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318
+    cooked_on: 2021-08-02
+    post: 2021-08-02-01-unscrambled
+    crowd: 3
+    ease: 4
 
 - title: Salad Daze
   season: 1
@@ -34,8 +54,16 @@
   recipes:
   - name: Veni Vedi Vinaigrette
     url: https://www.foodnetwork.com/recipes/veni-vedi-vinaigrette-recipe-1938425
+    cooked_on: 2021-07-24
+    post: 2021-07-24-starting-season-1
+    crowd: 3
+    ease: 5
   - name: Hail Caesar Salad
     url: https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267
+    cooked_on: 2021-08-02
+    post: 2021-08-02-02-rib-eye-and-caesar
+    crowd: 3
+    ease: 4
 
 - title: A Bird In The Pan
   season: 1
@@ -43,6 +71,10 @@
   recipes:
   - name: Broiled, Butterflied Chicken
     url: https://www.foodnetwork.com/recipes/alton-brown/broiled-butterflied-chicken-recipe-1951266
+    cooked_on: 2021-08-09
+    post: 2021-08-09-broiled-chicken-and-mashers
+    crowd: 3
+    ease: 3
 
 - title: Churn Baby Churn
   season: 1
@@ -50,6 +82,10 @@
   recipes:
   - name: Serious Vanilla Ice Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/serious-vanilla-ice-cream-recipe-1909819
+    cooked_on: 2021-08-03
+    post: 2021-08-03-eggs-and-ice-cream
+    crowd: 5
+    ease: 3
   - name: Coffee Granita
     url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
   - name: Key Lime Sorbet
@@ -90,8 +126,16 @@
   recipes:
   - name: Grilled Salmon Steaks
     url: https://www.foodnetwork.com/recipes/grilled-salmon-steaks-recipe-1910488
+    cooked_on: 2021-07-24
+    post: 2021-07-24-starting-season-1
+    crowd: 4
+    ease: 2
   - name: Pan Fried Fish
     url: https://www.foodnetwork.com/recipes/pan-fried-fish-recipe-1910675
+    cooked_on: 2021-07-29
+    post: 2021-07-29-fish-and-pasta
+    crowd: 4
+    ease: 4
   - name: Striped Bass in Salt Dome
     url: https://www.foodnetwork.com/recipes/striped-bass-in-salt-dome-recipe-1939160
 
@@ -101,6 +145,10 @@
   recipes:
   - name: Pasta
     url: https://www.foodnetwork.com/recipes/alton-brown/pasta-recipe1-1939124
+    cooked_on: 2021-07-29
+    post: 2021-07-29-fish-and-pasta
+    crowd: 4
+    ease: 4
 
 - title: Power to the Pilaf
   season: 1
