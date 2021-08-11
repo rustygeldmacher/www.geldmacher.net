@@ -1,0 +1,205 @@
+---
+- title: Give Peas a Chance
+  season: 9
+  number: 1
+  recipes:
+  - name: Green Peas with Cheese and Herbs
+    url: https://www.foodnetwork.com/recipes/alton-brown/green-peas-with-cheese-and-herbs-recipe-1944650
+  - name: Split Pea Burgers
+    url: https://www.foodnetwork.com/recipes/alton-brown/split-pea-burgers-recipe-1944223
+  - name: Curried Split Pea Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/curried-split-pea-soup-recipe-1916354
+
+- title: Dis-Kabob-Ulated
+  season: 9
+  number: 2
+  recipes:
+  - name: Spicy Beef Kebabs
+    url: https://www.foodnetwork.com/recipes/alton-brown/spicy-beef-kebabs-recipe-2013948
+  - name: Vanilla Lime Pineapple Skewers
+    url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-lime-pineapple-skewers-recipe-2013764
+
+- title: Urban Preservation II
+  season: 9
+  number: 3
+  recipes:
+  - name: Beef Jerky
+    url: https://www.foodnetwork.com/recipes/alton-brown/beef-jerky-recipe-2103581
+
+- title: Churn Baby Churn 2
+  season: 9
+  number: 4
+  recipes:
+  - name: Chocolate Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-ice-cream-recipe-1916504
+  - name: Vanilla Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-ice-cream-recipe-1916246
+  - name: Mint Chip Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/mint-chip-ice-cream-recipe-1916322
+
+- title: Power Trip
+  season: 9
+  number: 5
+  recipes:
+  - name: Brown Rice Crispy Bar
+    url: https://www.foodnetwork.com/recipes/alton-brown/brown-rice-crispy-bar-recipe-1916254
+  - name: Granola Bars
+    url: https://www.foodnetwork.com/recipes/alton-brown/granola-bars-recipe-1944513
+  - name: Protein Bars
+    url: https://www.foodnetwork.com/recipes/alton-brown/protein-bars-recipe-1916420
+
+- title: Wake Up Little Sushi
+  season: 9
+  number: 6
+  recipes:
+  - name: Sushi Rice
+    url: https://www.foodnetwork.com/recipes/alton-brown/sushi-rice-recipe-1944633
+  - name: California Roll
+    url: https://www.foodnetwork.com/recipes/alton-brown/california-roll-recipe-1916375
+
+- title: Cobbled Together
+  season: 9
+  number: 7
+  recipes:
+  - name: Rhubarb Peach Cobbler
+    url: https://www.foodnetwork.com/recipes/alton-brown/rhubarb-peach-cobbler-recipe-1916682
+  - name: Blackberry Grunt
+    url: https://www.foodnetwork.com/recipes/alton-brown/blackberry-grunt-recipe-1944590
+  - name: Individual Berry Crisps
+    url: https://www.foodnetwork.com/recipes/alton-brown/individual-berry-crisps-recipe-1953558
+
+- title: Good Wine Gone Bad
+  season: 9
+  number: 8
+  recipes:
+  - name: Grilled Romaine
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-romaine-recipe-1944496
+  - name: Sauerbraten
+    url: https://www.foodnetwork.com/recipes/alton-brown/sauerbraten-recipe-1944490
+
+- title: The Waffle Truth
+  season: 9
+  number: 9
+  recipes:
+  - name: Basic Waffle
+    url: https://www.foodnetwork.com/recipes/alton-brown/basic-waffle-recipe2-1948969
+  - name: Chocolate Waffle
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-waffle-recipe2-1918052
+
+- title: Great Balls of Meat
+  season: 9
+  number: 10
+  recipes:
+  - name: Baked Meatballs
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-meatballs-recipe-1916542
+  - name: Swedish Meatballs
+    url: https://www.foodnetwork.com/recipes/alton-brown/swedish-meatballs-recipe-1916539
+
+- title: Curious Yet Tasty Avocado Experiment
+  season: 9
+  number: 11
+  recipes:
+  - name: Avocado Compound Butter
+    url: https://www.foodnetwork.com/recipes/alton-brown/avocado-compound-butter-recipe-1944963
+  - name: Avocado Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/avocado-ice-cream-recipe-1945087
+  - name: Avocado Buttercream Frosting
+    url: https://www.foodnetwork.com/recipes/alton-brown/avocado-buttercream-frosting-recipe-1945000
+
+- title: A Pie in Every Pocket
+  season: 9
+  number: 12
+  recipes:
+  - name: Pocket Pies
+    url: https://www.foodnetwork.com/recipes/alton-brown/pocket-pies-recipe-1952024
+
+- title: School of Hard Nogs
+  season: 9
+  number: 13
+  recipes:
+  - name: Eggnog
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggnog-recipe2-2013745
+  - name: Eggnog Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggnog-ice-cream-recipe2-1944897
+
+- title: My Pod
+  season: 9
+  number: 14
+  recipes:
+  - name: Creme Brulee
+    url: https://www.foodnetwork.com/recipes/alton-brown/creme-brulee-recipe-1916827
+  - name: Fruit Salad with Vanilla Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/fruit-salad-with-vanilla-dressing-recipe-1945594
+  - name: Vanilla Poached Pears
+    url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-poached-pears-recipe-1945171
+
+- title: Tender is the Loin I
+  season: 9
+  number: 15
+  recipes:
+  - name: Steak au Poivre
+    url: https://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe-1916730
+
+- title: Raising The Bar
+  season: 9
+  number: 16
+  recipes:
+  - name: Daiquiri
+    url: https://www.foodnetwork.com/recipes/alton-brown/daiquiri-recipe-2040253
+  - name: AB's Martini
+    url: https://www.foodnetwork.com/recipes/alton-brown/abs-martini-recipe-1945331
+  - name: Mint Julep
+    url: https://www.foodnetwork.com/recipes/alton-brown/mint-julep-recipe-1945324
+
+- title: Tender is the Loin II
+  season: 9
+  number: 17
+  recipes:
+  - name: Center Cut Tenderloin Roast
+    url: https://www.foodnetwork.com/recipes/alton-brown/center-cut-tenderloin-roast-recipe-1916748
+  - name: Chain of Bull Cheese Steaks
+    url: https://www.foodnetwork.com/recipes/alton-brown/chain-of-bull-cheese-steaks-recipe-1945264
+  - name: Beef Carpaccio
+    url: https://www.foodnetwork.com/recipes/alton-brown/beef-carpaccio-recipe-1916796
+  - name: Stuffed Tenderloin
+    url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-tenderloin-recipe-1916871
+
+- title: Flat is Beautiful III - Flounder
+  season: 9
+  number: 18
+  recipes:
+  - name: Baked Stuffed Flounder
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-stuffed-flounder-recipe-1916718
+  - name: Oil Poached Flounder
+    url: https://www.foodnetwork.com/recipes/alton-brown/oil-poached-flounder-recipe-1945167
+  - name: Flounder Fish Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/flounder-fish-salad-recipe-2103945
+
+- title: Your Pad Thai or Mine
+  season: 9
+  number: 19
+  recipes:
+  - name: Pad Thai
+    url: https://www.foodnetwork.com/recipes/alton-brown/pad-thai-2103803
+
+- title: Shell Game IV
+  season: 9
+  number: 20
+  recipes:
+  - name: Seared Scallops
+    url: https://www.foodnetwork.com/recipes/alton-brown/seared-scallops-recipe-1916984
+  - name: Scallops on the Half Shell
+    url: https://www.foodnetwork.com/recipes/alton-brown/scallops-on-the-half-shell-recipe-1945252
+  - name: Scallop Mousse
+    url: https://www.foodnetwork.com/recipes/alton-brown/scallop-mousse-recipe-1945475
+
+- title: Olive Me
+  season: 9
+  number: 21
+  recipes:
+  - name: Citrus Marinated Olives
+    url: https://www.foodnetwork.com/recipes/alton-brown/citrus-marinated-olives-recipe-1945447
+  - name: Tapenade
+    url: https://www.foodnetwork.com/recipes/alton-brown/tapenade-recipe-1916924
+  - name: Olive Loaf
+    url: https://www.foodnetwork.com/recipes/alton-brown/olive-loaf-recipe-2040399

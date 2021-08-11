@@ -1,0 +1,224 @@
+---
+- title: Porterhouse Rules
+  season: 14
+  number: 1
+  recipes:
+  - name: Dry Aged Chimney Porterhouse
+    url: https://www.foodnetwork.com/recipes/alton-brown/dry-aged-chimney-porterhouse-recipe-2014714
+
+- title: Grillvs Domesticvs
+  season: 14
+  number: 2
+  recipes:
+  - name: Ring of Fire Grilled Chicken
+    url: https://www.foodnetwork.com/recipes/alton-brown/ring-of-fire-grilled-chicken-recipe-2014542
+
+- title: Spear of Influence
+  season: 14
+  number: 3
+  recipes:
+  - name: Roasted Asparagus
+    url: https://www.foodnetwork.com/recipes/alton-brown/roasted-asparagus-recipe-1920831
+  - name: Asparagus Terrine
+    url: https://www.foodnetwork.com/recipes/alton-brown/asparagus-terrine-recipe-2014759
+  - name: Steamed Asparagus
+    url: https://www.foodnetwork.com/recipes/alton-brown/steamed-asparagus-recipe-1920978
+
+- title: 'Little Big Lunch: Eggs Benedict'
+  season: 14
+  number: 4
+  recipes:
+  - name: Eggs Benedict
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggs-benedict-recipe-2118606
+
+- title: Flat is Beautiful V
+  season: 14
+  number: 5
+  recipes:
+  - name: Grilled Pizza - Three Ways
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-pizza-three-ways-recipe-2118405
+
+- title: Yes We Have No Banana Pudding
+  season: 14
+  number: 6
+  recipes:
+  - name: Vanilla Wafers
+    url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-wafers-recipe-1920909
+  - name: Baked Banana Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-banana-pudding-recipe-1921037
+  - name: Refrigerated Banana Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/refrigerated-banana-pudding-recipe-1920910
+
+- title: 'American Classics VIII: Tacos'
+  season: 14
+  number: 7
+  recipes:
+  - name: All American Beef Taco
+    url: https://www.foodnetwork.com/recipes/alton-brown/all-american-beef-taco-recipe-2014469
+  - name: 'Taco Potion #19'
+    url: https://www.foodnetwork.com/recipes/alton-brown/taco-potion-19-recipe-2115513
+  - name: Fish Taco
+    url: https://www.foodnetwork.com/recipes/alton-brown/fish-taco-recipe-1921022
+  - name: Flour Tortillas
+    url: https://www.foodnetwork.com/recipes/alton-brown/flour-tortillas-recipe-1920850
+  - name: Crema
+    url: https://www.foodnetwork.com/recipes/alton-brown/crema-recipe-1921080
+
+- title: 'Fry Hard III: Fry, Tempura, Fry'
+  season: 14
+  number: 8
+  recipes: []
+
+- title: Oat Cuisine II
+  season: 14
+  number: 9
+  recipes:
+  - name: Oat Waffle
+    url: https://www.foodnetwork.com/recipes/alton-brown/oat-waffle-recipe-1922047
+  - name: Refresco de Avena
+    url: https://www.foodnetwork.com/recipes/alton-brown/refresco-de-avena-recipe-1921927
+  - name: Leftover Oatmeal Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/leftover-oatmeal-bread-recipe-1922094
+  - name: The Oatiest Oatmeal Cookies Ever
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-oatiest-oatmeal-cookies-ever-2043576
+
+- title: All Hallows Eats
+  season: 14
+  number: 10
+  recipes:
+  - name: Atomic Apples
+    url: https://www.foodnetwork.com/recipes/alton-brown/atomic-apples-recipe-1922083
+  - name: Candy Corn
+    url: https://www.foodnetwork.com/recipes/alton-brown/candy-corn-recipe-1922150
+  - name: Popcorn Balls
+    url: https://www.foodnetwork.com/recipes/alton-brown/popcorn-balls-recipe-1922121
+
+- title: Squash Court II
+  season: 14
+  number: 11
+  recipes:
+  - name: Crookneck Squash Frittata
+    url: https://www.foodnetwork.com/recipes/alton-brown/crookneck-squash-frittata-recipe-1922590
+  - name: Frozen Summer Squash
+    url: https://www.foodnetwork.com/recipes/alton-brown/frozen-summer-squash-recipe-1922657
+  - name: Zucchini Ribbon Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/zucchini-ribbon-salad-recipe-1922455
+  - name: Overstuffed Pattypan Squash
+    url: https://www.foodnetwork.com/recipes/alton-brown/overstuffed-pattypan-squash-recipe-1922326
+
+- title: American Classics 9
+  season: 14
+  number: 12
+  recipes:
+  - name: Pumpkin Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/pumpkin-pie-recipe-1922634
+  - name: Pumpkin Puree
+    url: https://www.foodnetwork.com/recipes/alton-brown/pumpkin-puree-recipe-1922629
+  - name: Whole Pumpkin Pie Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/whole-pumpkin-pie-soup-recipe-1922442
+
+- title: Egg Files 7
+  season: 14
+  number: 13
+  recipes:
+  - name: Baked Alaska
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-alaska-recipe-2012642
+  - name: Oeufs a la Neige
+    url: https://www.foodnetwork.com/recipes/alton-brown/oeufs-a-la-neige-recipe-1922697
+  - name: Pavlova
+    url: https://www.foodnetwork.com/recipes/alton-brown/pavlova-recipe-2012640
+
+- title: 'Pantry Raid XIII: Destination Chickpea'
+  season: 14
+  number: 14
+  recipes:
+  - name: Falafel
+    url: https://www.foodnetwork.com/recipes/alton-brown/falafel-recipe-1923733
+  - name: Hummus For Real
+    url: https://www.foodnetwork.com/recipes/alton-brown/hummus-for-real-recipe-2014722
+  - name: Pressure Cooker Chickpeas
+    url: https://www.foodnetwork.com/recipes/alton-brown/pressure-cooker-chickpeas-recipe-2014717
+  - name: Roasted Chickpeas
+    url: https://www.foodnetwork.com/recipes/alton-brown/roasted-chickpeas-recipe-1923768
+  - name: Slow Cooker Chickpeas
+    url: https://www.foodnetwork.com/recipes/alton-brown/slow-cooker-chickpeas-recipe-2014738
+
+- title: Devil of a Cake
+  season: 14
+  number: 15
+  recipes:
+  - name: Chocolate Frosting for Devil's Food Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-frosting-for-devils-food-cake-recipe-1923539
+  - name: Cream Cheese Frosting for Red Velvet Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/cream-cheese-frosting-for-red-velvet-cake-recipe-1923738
+  - name: Devil's Food Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/devils-food-cake-recipe-1923693
+  - name: Red Velvet Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/red-velvet-cake-recipe-1923666
+
+- title: A Bird in the Pie is Worth Two in the Bush
+  season: 14
+  number: 16
+  recipes:
+  - name: Medieval Game Hen Pot Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/medieval-game-hen-pot-pie-recipe-1923611
+  - name: Individual Chicken Pot Pie with Puff Pastry
+    url: https://www.foodnetwork.com/recipes/alton-brown/individual-chicken-pot-pie-with-puff-pastry-recipe-1923718
+  - name: Chicken Biscuit Pot Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-biscuit-pot-pie-recipe-1923802
+
+- title: Use Your Noodle 4
+  season: 14
+  number: 17
+  recipes:
+  - name: Slow Cooker Lasagna
+    url: https://www.foodnetwork.com/recipes/alton-brown/slow-cooker-lasagna-recipe-2105581
+  - name: Lasagna Noodle Kugel
+    url: https://www.foodnetwork.com/recipes/alton-brown/lasagna-noodle-kugel-recipe-1924124
+
+- title: Waiter, There Is A Fish In My Soup
+  season: 14
+  number: 18
+  recipes:
+  - name: Positively, Absolutely, Not Real Bouillabaisse
+    url: https://www.foodnetwork.com/recipes/alton-brown/positively-absolutely-not-real-bouillabaisse-recipe-2047688
+
+- title: The Proof Is In the Bread Pudding
+  season: 14
+  number: 19
+  recipes:
+  - name: Chocolate Bread Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-bread-pudding-recipe-1923954
+  - name: Spiced Bread Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/spiced-bread-pudding-recipe-1924215
+
+- title: Roll Call
+  season: 14
+  number: 20
+  recipes:
+  - name: Parker House Rolls
+    url: https://www.foodnetwork.com/recipes/alton-brown/parker-house-rolls-recipe-1923884
+  - name: Butter Flake Rolls
+    url: https://www.foodnetwork.com/recipes/alton-brown/butter-flake-rolls-recipe-1924032
+
+- title: Caul of the Flower
+  season: 14
+  number: 21
+  recipes:
+  - name: Broiled Curried-flower
+    url: https://www.foodnetwork.com/recipes/alton-brown/broiled-curried-flower-recipe-1923825
+  - name: Cauliflower Say Cheese
+    url: https://www.foodnetwork.com/recipes/alton-brown/cauliflower-say-cheese-recipe-1923976
+  - name: Cauliflower Slaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/cauliflower-slaw-recipe-1924138
+
+- title: Use Your Noodle 5
+  season: 14
+  number: 22
+  recipes:
+  - name: Dan Dan Noodles
+    url: https://www.foodnetwork.com/recipes/alton-brown/dan-dan-noodles-recipe-1924053
+  - name: Ants in Trees
+    url: https://www.foodnetwork.com/recipes/alton-brown/ants-in-trees-recipe-1923962
+  - name: Thai Shrimp Spring Rolls
+    url: https://www.foodnetwork.com/recipes/alton-brown/thai-shrimp-spring-rolls-recipe-1952754

@@ -1,0 +1,118 @@
+---
+- title: 'American Classics X: Chicken Parm'
+  season: 15
+  number: 2
+  recipes:
+  - name: Chicken Parm
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-parm-7282184
+
+- title: Every Grain Old Is New Again
+  season: 15
+  number: 7
+  recipes:
+  - name: Quinoa and Broccoli Casserole
+    url: https://www.foodnetwork.com/recipes/alton-brown/quinoa-and-broccoli-casserole-7288418
+  - name: Chocolate Chia Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-chia-pudding-7288417
+
+- title: Hittin' the Sauce II
+  season: 15
+  number: 8
+  recipes:
+  - name: Silky Salsa Verde
+    url: https://www.foodnetwork.com/recipes/alton-brown/silky-salsa-verde-7415725
+  - name: Smoky Romesco
+    url: https://www.foodnetwork.com/recipes/alton-brown/smoky-romesco-7415704
+  - name: Umami Mayo
+    url: https://www.foodnetwork.com/recipes/alton-brown/umami-mayo-7415661
+
+- title: Immersion Therapy
+  season: 15
+  number: 3
+  recipes:
+  - name: I.C. Rump Roast
+    url: https://www.foodnetwork.com/recipes/alton-brown/ic-rump-roast-7297750
+  - name: I.C. Mini Cheesecakes
+    url: https://www.foodnetwork.com/recipes/alton-brown/ic-mini-cheesecakes-7297817
+  - name: I.C. Fennel Cordial
+    url: https://www.foodnetwork.com/recipes/alton-brown/ic-fennel-cordial-7297873
+
+- title: My Shakshuka
+  season: 15
+  number: 5
+  recipes:
+  - name: Quick Preserved Lemons
+    url: https://www.foodnetwork.com/recipes/alton-brown/quick-preserved-lemons-7423982
+  - name: Shakshuka
+    url: https://www.foodnetwork.com/recipes/alton-brown/shakshuka-7424000
+  - name: Urfa Biber Harissa
+    url: https://www.foodnetwork.com/recipes/alton-brown/urfa-biber-harissa-7423929
+
+- title: Let Them Eat (Icebox) Cake
+  season: 15
+  number: 11
+  recipes:
+  - name: Chocolate Mocha Refrigerator Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-mocha-refrigerator-cake-7423862
+  - name: Strawberry Pepper Icebox Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/strawberry-pepper-icebox-cake-7423852
+
+- title: Rich Little Poor Boy
+  season: 15
+  number: 4
+  recipes:
+  - name: Oyster Poor Boy
+    url: https://www.foodnetwork.com/recipes/alton-brown/oyster-poor-boy-7447851
+
+- title: Raw Ambition
+  season: 15
+  number: 6
+  recipes:
+  - name: Steak Tartare
+    url: https://www.foodnetwork.com/recipes/alton-brown/steak-tartare-7449035
+  - name: Ahi Tuna Poke
+    url: https://www.foodnetwork.com/recipes/alton-brown/ahi-tuna-poke-7448112
+
+- title: Date Tripper
+  season: 15
+  number: 10
+  recipes:
+  - name: Sticky Toffee Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/sticky-toffee-pudding-7480845
+  - name: Blue Cheese Bacon Devils on Horseback
+    url: https://www.foodnetwork.com/recipes/alton-brown/blue-cheese-bacon-devils-on-horseback-7481000
+  - name: Water Chestnut Soy Devils on Horseback
+    url: https://www.foodnetwork.com/recipes/alton-brown/water-chestnut-soy-devils-on-horseback-7480950
+  - name: Spicy Cream Cheese Pepperoni Devils On Horseback
+    url: https://www.foodnetwork.com/recipes/alton-brown/spicy-cream-cheese-pepperoni-devils-on-horseback-7480987
+
+- title: Wild Yeast Risin'
+  season: 15
+  number: 12
+  recipes:
+  - name: Wild Sourdough Starter
+    url: https://www.foodnetwork.com/recipes/alton-brown/wild-sourdough-starter-7480403
+  - name: Sourdough Waffles
+    url: https://www.foodnetwork.com/recipes/alton-brown/sourdough-waffles-7480719
+  - name: Sourdough Cheese Crackers
+    url: https://www.foodnetwork.com/recipes/alton-brown/sourdough-cheese-crackers-7480783
+
+- title: Holiday Spirit(s)
+  season: 15
+  number: 9
+  recipes:
+  - name: Clarified Milk Punch
+    url: https://www.foodnetwork.com/recipes/alton-brown/clarified-milk-punch-7994227
+  - name: Allspice Dram
+    url: https://www.foodnetwork.com/recipes/alton-brown/allspice-dram-7994228
+  - name: Cranberry Apple Shrub
+    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-apple-shrub-7993800
+
+- title: Whole Latke Love
+  season: 15
+  number: 1
+  recipes:
+  - name: Potato Latkes
+    url: https://www.foodnetwork.com/recipes/alton-brown/potato-latkes-7993757
+  - name: Ricotta Latkes
+    url: https://www.foodnetwork.com/recipes/alton-brown/ricotta-latkes-7993756

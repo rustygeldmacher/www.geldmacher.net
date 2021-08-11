@@ -1,0 +1,201 @@
+---
+- title: Behind the Eats
+  season: 10
+  number: 22
+  recipes: []
+
+- title: Tort(illa) Reform
+  season: 10
+  number: 1
+  recipes:
+  - name: Corn Tortillas
+    url: https://www.foodnetwork.com/recipes/alton-brown/corn-tortillas-recipe-2040369
+  - name: Lime Tortilla Chips
+    url: https://www.foodnetwork.com/recipes/alton-brown/lime-tortilla-chips-recipe-1945685
+
+- title: Just Barley
+  season: 10
+  number: 2
+  recipes:
+  - name: Baked Barley
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-barley-recipe-1945702
+  - name: Barley Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/barley-bread-recipe-1946016
+  - name: Barley and Lamb Stew
+    url: https://www.foodnetwork.com/recipes/alton-brown/barley-and-lamb-stew-recipe-1945927
+  - name: Barley Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/barley-salad-recipe-1916916
+  - name: Barley Water
+    url: https://www.foodnetwork.com/recipes/alton-brown/barley-water-recipe-1946106
+
+- title: House of the Rising Bun
+  season: 10
+  number: 3
+  recipes:
+  - name: Overnight Citrus Ginger Ring
+    url: https://www.foodnetwork.com/recipes/alton-brown/overnight-citrus-ginger-ring-recipe-2014302
+  - name: Overnight Cinnamon Rolls
+    url: https://www.foodnetwork.com/recipes/alton-brown/overnight-cinnamon-rolls-recipe-2014250
+  - name: Overnight Monkey Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/overnight-monkey-bread-recipe-1946146
+
+- title: Cubing A Round
+  season: 10
+  number: 4
+  recipes:
+  - name: Chicken Fried Steak
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-fried-steak-recipe-1917219
+  - name: Country Style Steak
+    url: https://www.foodnetwork.com/recipes/alton-brown/country-style-steak-recipe-1945726
+  - name: Swiss Steak
+    url: https://www.foodnetwork.com/recipes/alton-brown/swiss-steak-recipe-1917184
+
+- title: Water Works 1
+  season: 10
+  number: 5
+  recipes: []
+
+- title: Water Works 2
+  season: 10
+  number: 6
+  recipes: []
+
+- title: Peachy Keen
+  season: 10
+  number: 7
+  recipes:
+  - name: Grilled Peach Melba
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-peach-melba-recipe-1946274
+  - name: Individual Peach Upside-Down Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/individual-peach-upside-down-cake-recipe-1917280
+
+- title: Okraphobia
+  season: 10
+  number: 8
+  recipes:
+  - name: Okra and Tomatoes
+    url: https://www.foodnetwork.com/recipes/alton-brown/okra-and-tomatoes-recipe-1946460
+  - name: Pickled Okra
+    url: https://www.foodnetwork.com/recipes/alton-brown/pickled-okra-recipe-2040456
+  - name: Wet Fried Okra
+    url: https://www.foodnetwork.com/recipes/alton-brown/wet-fried-okra-recipe-1946494
+  - name: Dry Fried Okra
+    url: https://www.foodnetwork.com/recipes/alton-brown/dry-fried-okra-recipe-1946370
+
+- title: Squid Pro Quo II
+  season: 10
+  number: 9
+  recipes:
+  - name: Dry Fried Calamari
+    url: https://www.foodnetwork.com/recipes/alton-brown/dry-fried-calamari-recipe-1946504
+  - name: Wet Fried Calamari
+    url: https://www.foodnetwork.com/recipes/alton-brown/wet-fried-calamari-recipe-1946675
+  - name: Seaside Squid Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/seaside-squid-salad-recipe-1946685
+  - name: Squid Stuffed Squid
+    url: https://www.foodnetwork.com/recipes/alton-brown/squid-stuffed-squid-recipe-1946467
+
+- title: Pop Art
+  season: 10
+  number: 10
+  recipes:
+  - name: Savory Herb Popcorn
+    url: https://www.foodnetwork.com/recipes/alton-brown/savory-herb-popcorn-recipe-1946242
+  - name: Perfect Popcorn
+    url: https://www.foodnetwork.com/recipes/alton-brown/perfect-popcorn-recipe-1917417
+  - name: Slacker Jacks
+    url: https://www.foodnetwork.com/recipes/alton-brown/slacker-jacks-recipe-1946238
+
+- title: Major Pepper
+  season: 10
+  number: 11
+  recipes:
+  - name: 4-Pepper Deviled Eggs
+    url: https://www.foodnetwork.com/recipes/alton-brown/4-pepper-deviled-eggs-recipe-1917393
+  - name: Black Pepper Mango Sorbet
+    url: https://www.foodnetwork.com/recipes/alton-brown/black-pepper-mango-sorbet-recipe-2103944
+  - name: Slow Cooker Pepper Pork Chops
+    url: https://www.foodnetwork.com/recipes/alton-brown/slow-cooker-pepper-pork-chops-recipe-1917313
+  - name: Pepper Vodka
+    url: https://www.foodnetwork.com/recipes/alton-brown/pepper-vodka-recipe-2103970
+
+- title: Fry Turkey Fry
+  season: 10
+  number: 12
+  recipes:
+  - name: Deep-Fried Turkey
+    url: https://www.foodnetwork.com/recipes/alton-brown/deep-fried-turkey-recipe-1952235
+
+- title: 'Pantry Raid VI: Lentils'
+  season: 10
+  number: 13
+  recipes:
+  - name: Lentil Cookies
+    url: https://www.foodnetwork.com/recipes/alton-brown/lentil-cookies-recipe-1947012
+  - name: Lentil Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/lentil-salad-recipe-1946945
+  - name: Lentil Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/lentil-soup-recipe-1947017
+
+- title: Tortillas Again
+  season: 10
+  number: 14
+  recipes:
+  - name: Enchilada Lasagna
+    url: https://www.food.com/recipe/enchilada-lasagna-courtesy-alton-brown-414313
+  - name: Masa Tot
+    url: https://www.foodnetwork.com/recipes/alton-brown/masa-tot-recipe-1946992
+  - name: Ultimate Nachos
+    url: https://www.foodnetwork.com/recipes/alton-brown/ultimate-nachos-recipe2-1917520
+
+- title: Bowl O' Bayou
+  season: 10
+  number: 15
+  recipes:
+  - name: Shrimp Gumbo
+    url: https://www.foodnetwork.com/recipes/alton-brown/shrimp-gumbo-recipe-1946875
+
+- title: Fowl Territory
+  season: 10
+  number: 16
+  recipes:
+  - name: Grilled Curry Cornish Hens
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-curry-cornish-hens-recipe-1947211
+  - name: Cornish Game Hen with Bacon and Onions
+    url: https://www.foodnetwork.com/recipes/alton-brown/cornish-game-hen-with-bacon-and-onions-recipe-1947086
+
+- title: Fruit Ten From Outer Space
+  season: 10
+  number: 17
+  recipes:
+  - name: Pomegranate Syrup or Molasses
+    url: https://www.foodnetwork.com/recipes/alton-brown/pomegranate-syrup-or-molasses-recipe-1947699
+  - name: Pomegranate Gelatin
+    url: https://www.foodnetwork.com/recipes/alton-brown/pomegranate-gelatin-recipe-1947674
+  - name: Grilled Leg of Lamb with Pomegranate Molasses
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-leg-of-lamb-with-pomegranate-molasses-recipe-1947553
+  - name: Tequila Sunrise
+    url: https://www.foodnetwork.com/recipes/alton-brown/tequila-sunrise-recipe-1947658
+
+- title: Pickled Pink
+  season: 10
+  number: 18
+  recipes:
+  - name: Corned Beef
+    url: https://www.foodnetwork.com/recipes/alton-brown/corned-beef-recipe-1947363
+  - name: Corned Beef and Cabbage
+    url: https://www.foodnetwork.com/recipes/alton-brown/corned-beef-and-cabbage-recipe-1952160
+  - name: Corned Beef Hash
+    url: https://www.foodnetwork.com/recipes/alton-brown/corned-beef-hash-recipe-1952329
+
+- title: Espress Yourself
+  season: 10
+  number: 19
+  recipes: []
+
+- title: 'American Classics I: Spinach Salad'
+  season: 10
+  number: 20
+  recipes:
+  - name: Spinach Salad with Warm Bacon Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/spinach-salad-with-warm-bacon-dressing-recipe-1947599

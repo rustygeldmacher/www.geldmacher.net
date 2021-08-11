@@ -1,0 +1,175 @@
+---
+- title: The Other Red Meat
+  season: 6
+  number: 1
+  recipes:
+  - name: Chimney Tuna Loin
+    url: https://www.foodnetwork.com/recipes/alton-brown/chimney-tuna-loin-recipe-1911894
+
+- title: Strawberry Sky
+  season: 6
+  number: 2
+  recipes:
+  - name: Macerated Strawberries
+    url: https://www.foodnetwork.com/recipes/alton-brown/macerated-strawberries-recipe2-1939989
+  - name: Strawberry Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/strawberry-pudding-recipe-1939789
+  - name: Clotted Cream
+    url: "//www.foodnetwork.com/recipes/alton-brown/clotted-cream-2103048"
+  - name: Frozen Strawberries
+    url: "//www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039"
+
+- title: The Choke's On You
+  season: 6
+  number: 3
+  recipes:
+  - name: Broiled Chokes
+    url: https://www.foodnetwork.com/recipes/alton-brown/broiled-chokes-recipe2-1939934
+  - name: Herb Oil
+    url: https://www.foodnetwork.com/recipes/alton-brown/herb-oil-recipe-1939767
+  - name: Artichoke Pasta Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/artichoke-pasta-salad-recipe-1912013
+
+- title: Good Milk Gone Bad
+  season: 6
+  number: 4
+  recipes:
+  - name: Fresh Yogurt
+    url: https://www.foodnetwork.com/recipes/fresh-yogurt-recipe-1939865
+  - name: Lemon-Ginger Frozen Yogurt
+    url: https://www.foodnetwork.com/recipes/lemon-ginger-frozen-yogurt-recipe-1939742
+  - name: Tarragon Yogurt Sauce
+    url: https://www.foodnetwork.com/recipes/tarragon-yogurt-sauce-recipe-1940150
+  - name: Thousand Island Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/thousand-island-dressing-recipe-1939881
+  - name: Herb Spread
+    url: https://www.foodnetwork.com/recipes/alton-brown/herb-spread-recipe-1940049
+  - name: Yogurt Cheese
+    url: "//www.foodnetwork.com/recipes/alton-brown/yogurt-cheese-2103184"
+
+- title: 'Egg Files V: Quantum Foam'
+  season: 6
+  number: 5
+  recipes:
+  - name: Cheese Souffle
+    url: https://www.foodnetwork.com/recipes/alton-brown/cheese-souffle-recipe-1912330
+
+- title: Tomato Envy
+  season: 6
+  number: 6
+  recipes:
+  - name: Stuffed Tomatoes
+    url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-tomatoes-recipe-1912619
+  - name: TBL Panzanella
+    url: https://www.foodnetwork.com/recipes/alton-brown/tbl-panzanella-recipe-2013422
+  - name: Tomato Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/tomato-sauce-recipe-1912571
+
+- title: Amber Waves
+  season: 6
+  number: 7
+  recipes:
+  - name: Good Brew
+    url: https://www.foodnetwork.com/recipes/alton-brown/good-brew-2095730
+
+- title: Dip Madness
+  season: 6
+  number: 8
+  recipes:
+  - name: Chicken Liver Mousse
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-liver-mousse-recipe-1940241
+  - name: Guacamole
+    url: https://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe-1940609
+  - name: Hot Spinach and Artichoke Dip
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-spinach-and-artichoke-dip-recipe-1912620
+  - name: Onion Dip from Scratch
+    url: https://www.foodnetwork.com/recipes/alton-brown/onion-dip-from-scratch-recipe-1940409
+
+- title: Chops Ahoy
+  season: 6
+  number: 9
+  recipes:
+  - name: Stuffed Grilled Pork Chops
+    url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-grilled-pork-chops-recipe-1940377
+
+- title: Choux Shine
+  season: 6
+  number: 10
+  recipes:
+  - name: Sweet or Savory Pate a Choux
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-or-savory-pate-a-choux-recipe-1913361
+  - name: Funnel Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/funnel-cake-recipe-1912956
+
+- title: Casserole Over
+  season: 6
+  number: 11
+  recipes:
+  - name: Broccoli Casserole
+    url: https://www.foodnetwork.com/recipes/alton-brown/broccoli-casserole-recipe-1940671
+  - name: Curry Chicken Pot Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/curry-chicken-pot-pie-recipe-1912950
+  - name: Garlic Shrimp Casserole
+    url: https://www.foodnetwork.com/recipes/alton-brown/garlic-shrimp-casserole-recipe-1912929
+
+- title: Use Your Noodle III
+  season: 6
+  number: 12
+  recipes:
+  - name: Ravioli
+    url: https://www.foodnetwork.com/recipes/alton-brown/ravioli-recipe-1940188
+  - name: Tortellini
+    url: https://www.foodnetwork.com/recipes/alton-brown/tortellini-recipe-2011857
+
+- title: 'Salad Daze II: The Long Arm of the Slaw'
+  season: 6
+  number: 13
+  recipes:
+  - name: Coleslaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/coleslaw-recipe-1913464
+  - name: Beet Slaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/beet-slaw-recipe-1940942
+  - name: Marinated Slaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/marinated-slaw-recipe-1940867
+  - name: Asian Slaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307
+
+- title: A Cake On Every Plate
+  season: 6
+  number: 14
+  recipes:
+  - name: Gold Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/gold-cake-recipe-1913120
+  - name: Cocoa Whipped Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-whipped-cream-recipe-1940855
+
+- title: The Icing Man Commeth
+  season: 6
+  number: 15
+  recipes:
+  - name: Buttercream
+    url: https://www.foodnetwork.com/recipes/alton-brown/buttercream-recipe-1913633
+  - name: Ganache
+    url: https://www.foodnetwork.com/recipes/alton-brown/ganache-recipe-1940765
+  - name: Writing Chocolate
+    url: https://www.foodnetwork.com/recipes/alton-brown/writing-chocolate-recipe-1940985
+
+- title: Beet It
+  season: 6
+  number: 16
+  recipes:
+  - name: Beet Green Gratin
+    url: https://www.foodnetwork.com/recipes/alton-brown/beet-green-gratin-recipe-1940928
+  - name: Glazed Baby Beets
+    url: https://www.foodnetwork.com/recipes/alton-brown/glazed-baby-beets-recipe-1940920
+  - name: Pickled Beets
+    url: https://www.foodnetwork.com/recipes/alton-brown/pickled-beets-recipe-1913751
+
+- title: Fit To Be Tied
+  season: 6
+  number: 17
+  recipes:
+  - name: Fish Roll with Compound Butter
+    url: https://www.foodnetwork.com/recipes/alton-brown/fish-roll-with-compound-butter-recipe-1941125
+  - name: Braciole
+    url: https://www.foodnetwork.com/recipes/alton-brown/braciole-recipe-1913494

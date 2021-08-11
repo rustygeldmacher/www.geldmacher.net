@@ -1,0 +1,192 @@
+---
+- title: Cran Opening
+  season: 12
+  number: 20
+  recipes:
+  - name: Fresh Cranberry Cosmo
+    url: https://www.foodnetwork.com/recipes/alton-brown/fresh-cranberry-cosmo-recipe-1943877
+  - name: Cranberry Granita
+    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-granita-recipe-1943855
+  - name: Cranberry Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-sauce-recipe2-1944111
+
+- title: Honey, I Shrunk The Cake
+  season: 11
+  number: 18
+  recipes:
+  - name: Chiffon Cupcakes
+    url: https://www.foodnetwork.com/recipes/chiffon-cupcakes-recipe-1938763
+  - name: Chocolate Chiffon Cupcake
+    url: https://www.foodnetwork.com/recipes/chocolate-chiffon-cupcake-recipe-1938916
+
+- title: Going Dutch
+  season: 11
+  number: 19
+  recipes:
+  - name: Knead Not Sourdough
+    url: https://www.foodnetwork.com/recipes/knead-not-sourdough-recipe-1939606
+  - name: Dutch Oven Cherry Clafouti
+    url: https://www.foodnetwork.com/recipes/dutch-oven-cherry-clafouti-recipe-2047259
+  - name: Dutch Oven Hoecakes
+    url: https://www.foodnetwork.com/recipes/dutch-oven-hoecakes-recipe-2047247
+
+- title: Popover Sometime
+  season: 12
+  number: 1
+  recipes:
+  - name: Dutch Baby
+    url: https://www.foodnetwork.com/recipes/dutch-baby-recipe0-1939525
+  - name: Yorkshire Pudding with Roast
+    url: https://www.foodnetwork.com/recipes/alton-brown/yorkshire-pudding-with-roast-recipe-1939474
+  - name: Basic Popover
+    url: https://www.foodnetwork.com/recipes/alton-brown/basic-popover-recipe-1911242
+
+- title: Celeryman
+  season: 12
+  number: 2
+  recipes:
+  - name: Braised Celery
+    url: https://www.foodnetwork.com/recipes/alton-brown/braised-celery-recipe-1939479
+  - name: Celery Remoulade
+    url: https://www.foodnetwork.com/recipes/alton-brown/celery-remoulade-recipe-1939559
+  - name: Celery Soda
+    url: https://www.foodnetwork.com/recipes/alton-brown/celery-soda-recipe-1939263
+  - name: Celeriac Puree
+    url: https://www.foodnetwork.com/recipes/alton-brown/celeriac-puree-recipe-1939419
+
+- title: Tuna, Surprise
+  season: 12
+  number: 3
+  recipes:
+  - name: Tuna Croquette
+    url: https://www.foodnetwork.com/recipes/alton-brown/tuna-croquette-recipe-1940169
+  - name: Tuna Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/tuna-dressing-recipe-1940064
+  - name: Tuna Salad Undone
+    url: https://www.foodnetwork.com/recipes/alton-brown/tuna-salad-undone-recipe-2047096
+
+- title: There Will Be Oil
+  season: 12
+  number: 4
+  recipes:
+  - name: Vegetable Saute
+    url: https://www.foodnetwork.com/recipes/alton-brown/vegetable-saute-recipe-1940676
+  - name: Fruity Oil Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/fruity-oil-ice-cream-recipe-1940674
+  - name: Potato Chips
+    url: https://www.foodnetwork.com/recipes/alton-brown/potato-chips-recipe-1940330
+
+- title: Frozen Cache
+  season: 12
+  number: 5
+  recipes:
+  - name: Frozen Peaches
+    url: https://www.foodnetwork.com/recipes/alton-brown/frozen-peaches-recipe-1940550
+  - name: Frozen Green Peas
+    url: https://www.foodnetwork.com/recipes/alton-brown/frozen-green-peas-recipe-1940222
+
+- title: Oh My, Meat Pie
+  season: 12
+  number: 6
+  recipes:
+  - name: Shepherd's Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/shepherds-pie-recipe2-1942900
+  - name: Mincemeat Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/mincemeat-pie-recipe2-1943156
+
+- title: Et Tu Mame
+  season: 12
+  number: 7
+  recipes:
+  - name: Basic Edamame
+    url: https://www.foodnetwork.com/recipes/alton-brown/basic-edamame-recipe-1943528
+  - name: Dry Roasted Edamame Brittle
+    url: https://www.foodnetwork.com/recipes/alton-brown/dry-roasted-edamame-brittle-recipe-1943594
+  - name: Edamame Dip
+    url: https://www.foodnetwork.com/recipes/alton-brown/edamame-dip-recipe-1952123
+
+- title: Going Crackers
+  season: 12
+  number: 8
+  recipes:
+  - name: Graham Crackers
+    url: https://www.foodnetwork.com/recipes/alton-brown/graham-crackers-recipe-1943365
+  - name: Seedy Crisps
+    url: https://www.foodnetwork.com/recipes/alton-brown/seedy-crisps-recipe-1943385
+  - name: Lavash
+    url: https://www.foodnetwork.com/recipes/alton-brown/lavash-recipe-1943445
+
+- title: 'American Classics III: Creole in a Bowl'
+  season: 12
+  number: 9
+  recipes:
+  - name: Red Beans and Rice
+    url: https://www.foodnetwork.com/recipes/alton-brown/red-beans-and-rice-recipe-1943443
+  - name: Pickled Pork
+    url: https://www.foodnetwork.com/recipes/alton-brown/pickled-pork-recipe-1943188
+
+- title: Switched on Baklava
+  season: 12
+  number: 10
+  recipes:
+  - name: Baklava
+    url: https://www.foodnetwork.com/recipes/alton-brown/baklava-recipe-1943974
+
+- title: Rise of the Rhizome
+  season: 12
+  number: 11
+  recipes:
+  - name: Candied Ginger
+    url: https://www.foodnetwork.com/recipes/alton-brown/candied-ginger-recipe-1944906
+  - name: Ginger Snaps
+    url: https://www.foodnetwork.com/recipes/alton-brown/ginger-snaps-recipe-1944662
+  - name: Ginger Ale
+    url: https://www.foodnetwork.com/recipes/alton-brown/ginger-ale-recipe-1944722
+
+- title: A Cabbage Sprouts in Brussels
+  season: 12
+  number: 12
+  recipes:
+  - name: Grilled Brussels Sprouts
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-brussels-sprouts-recipe-1944962
+  - name: Brussels Sprouts with Bacon and Cheese
+    url: https://www.foodnetwork.com/recipes/alton-brown/brussels-sprouts-with-bacon-and-cheese-recipe-1945023
+  - name: Basic Brussels Sprouts
+    url: https://www.foodnetwork.com/recipes/alton-brown/basic-brussels-sprouts-recipe-1944719
+  - name: Brussels Sprouts with Pecans and Cranberries
+    url: https://www.foodnetwork.com/recipes/alton-brown/brussels-sprouts-with-pecans-and-cranberries-recipe-1944845
+
+- title: Orange Aid
+  season: 12
+  number: 13
+  recipes:
+  - name: Orange Marmalade
+    url: https://www.foodnetwork.com/recipes/alton-brown/orange-marmalade-recipe-2014440
+  - name: Orange Sherbet
+    url: https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337
+  - name: Orange Delicious
+    url: https://www.foodnetwork.com/recipes/alton-brown/orange-delicious-recipe-1945390
+
+- title: 'Pantry Raid X: Dark Side of the Cane'
+  season: 12
+  number: 14
+  recipes:
+  - name: Molasses Coffee Marinated Pork Chops
+    url: https://www.foodnetwork.com/recipes/alton-brown/molasses-coffee-marinated-pork-chops-recipe-2121785
+  - name: Shoo-Fly Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/shoo-fly-pie-recipe-1953621
+  - name: Boston Brown Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/boston-brown-bread-recipe-2079745
+  - name: Homemade Dark Brown Sugar
+    url: https://www.foodnetwork.com/recipes/alton-brown/homemade-dark-brown-sugar-recipe-1945560
+
+- title: Gills Gone Wild
+  season: 12
+  number: 15
+  recipes:
+  - name: Coho Salmon Fillets
+    url: https://www.foodnetwork.com/recipes/alton-brown/coho-salmon-fillets-recipe-1945755
+  - name: Bi-Level King Salmon Fillet
+    url: https://www.foodnetwork.com/recipes/alton-brown/bi-level-king-salmon-fillet-recipe-1946102
+  - name: Broiled Sockeye Salmon with Citrus Glaze
+    url: https://www.foodnetwork.com/recipes/alton-brown/broiled-sockeye-salmon-with-citrus-glaze-recipe-1945718

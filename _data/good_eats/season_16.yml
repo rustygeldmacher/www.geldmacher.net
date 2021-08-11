@@ -1,0 +1,72 @@
+---
+- title: Marrow Minded
+  season: 16
+  number: 4
+  recipes:
+  - name: Roasted Bone Marrow with Parsley Topping
+    url: https://www.foodnetwork.com/recipes/alton-brown/roasted-bone-marrow-with-parsley-topping-9873530
+  - name: Bone Marrow Panna Cotta
+    url: https://www.foodnetwork.com/recipes/alton-brown/bone-marrow-panna-cotta-9873529
+
+- title: In Cold Brew
+  season: 16
+  number: 3
+  recipes:
+  - name: Kyoto-Style Cold Brew Coffee
+    url: https://www.foodnetwork.com/recipes/alton-brown/kyoto-style-cold-brew-coffee-9873624
+  - name: Cold Brew with Chicory
+    url: https://www.foodnetwork.com/recipes/alton-brown/cold-brew-with-chicory-9873626
+  - name: Hot Start Cold Brew
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-start-cold-brew-9873623
+
+- title: 'Flat Is Beautiful VI: Fry Bread, Fry'
+  season: 16
+  number: 8
+  recipes:
+  - name: Hungarian Langos
+    url: https://www.foodnetwork.com/recipes/alton-brown/hungarian-langos-9873620
+  - name: Scallion Pancakes
+    url: https://www.foodnetwork.com/recipes/alton-brown/scallion-pancakes-9873622
+
+- title: 'Immersion Therapy II: Gone Fishing'
+  season: 16
+  number: 2
+  recipes:
+  - name: I.C. Halibut with Almond Brown Butter Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/ic-halibut-with-almond-brown-butter-sauce-9873380
+  - name: I.C. Salmon with Dill-Yogurt Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/ic-salmon-with-dill-yogurt-sauce-9873479
+
+- title: Bibimbap 'Til Ya Drop
+  season: 16
+  number: 7
+  recipes:
+  - name: Dolsot Bibimbap
+    url: https://www.foodnetwork.com/recipes/alton-brown/dolsot-bibimbap-9873606
+
+- title: 'Pantry Raid XIV: Deep Sea Green'
+  season: 16
+  number: 1
+  recipes:
+  - name: Wakame Seaweed Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/wakame-seaweed-salad-9873525
+  - name: Furikake Seaweed Snacks
+    url: https://www.foodnetwork.com/recipes/alton-brown/furikake-seaweed-snacks-9873524
+  - name: Dulse Shortbread Cookies
+    url: https://www.foodnetwork.com/recipes/alton-brown/dulse-shortbread-cookies-9873526
+
+- title: Bagel Attraction
+  season: 16
+  number: 5
+  recipes:
+  - name: Bagels from Scratch
+    url: https://www.foodnetwork.com/recipes/alton-brown/bagels-from-scratch-9873518
+
+- title: Fermentation Man
+  season: 16
+  number: 6
+  recipes:
+  - name: Kimchi
+    url: https://www.foodnetwork.com/recipes/alton-brown/kimchi-9873566
+  - name: Mango-Ginger Kombucha
+    url: https://www.foodnetwork.com/recipes/alton-brown/mango-ginger-kombucha-9874063

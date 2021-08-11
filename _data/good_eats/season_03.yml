@@ -1,0 +1,138 @@
+---
+- title: American Pickle
+  season: 3
+  number: 1
+  recipes:
+  - name: Kinda Sorta Sours
+    url: https://www.foodnetwork.com/recipes/alton-brown/kinda-sorta-sours-recipe-1938141
+  - name: AB's B and B's
+    url: https://www.foodnetwork.com/recipes/alton-brown/abs-b-and-bs-recipe-1908804
+  - name: Firecrackers
+    url: https://www.foodnetwork.com/recipes/alton-brown/firecrackers-recipe-1937931
+  - name: Summer Fruits
+    url: https://www.foodnetwork.com/recipes/alton-brown/summer-fruits-recipe-1938008
+  - name: Hurry Curry Cauliflower
+    url: https://www.foodnetwork.com/recipes/alton-brown/hurry-curry-cauliflower-recipe-1937768
+
+- title: Mussel Bound
+  season: 3
+  number: 2
+  recipes:
+  - name: Mojo Moulies
+    url: https://www.foodnetwork.com/recipes/alton-brown/mojo-moulies-recipe-2118022
+
+- title: Man with a Flan
+  season: 3
+  number: 3
+  recipes:
+  - name: Refrigerator Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/refrigerator-pie-recipe-1938041
+  - name: Flandango
+    url: https://www.foodnetwork.com/recipes/alton-brown/flandango-recipe-2117964
+
+- title: What's Up Duck?
+  season: 3
+  number: 4
+  recipes:
+  - name: Mighty Duck
+    url: https://www.foodnetwork.com/recipes/alton-brown/mighty-duck-recipe-1908913
+
+- title: Behind the Bird
+  season: 3
+  number: 5
+  recipes:
+  - name: In a Cranberry Jam
+    url: https://www.foodnetwork.com/recipes/alton-brown/in-a-cranberry-jam-recipe-1938162
+  - name: Turkey Re-Hash
+    url: https://www.foodnetwork.com/recipes/alton-brown/turkey-re-hash-recipe-1937764
+  - name: Bird to the Last Drop
+    url: https://www.foodnetwork.com/recipes/alton-brown/bird-to-the-last-drop-recipe2-1956473
+
+- title: Three Chips for Sister Marsha
+  season: 3
+  number: 6
+  recipes:
+  - name: The Thin
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-thin-recipe-2013278
+  - name: The Puffy
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-puffy-recipe-2013004
+  - name: The Chewy
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-chewy-recipe-1909046
+
+- title: Flap Jack Do It Again
+  season: 3
+  number: 7
+  recipes:
+  - name: '"Instant" Pancake Mix'
+    url: https://www.foodnetwork.com/recipes/alton-brown/instant-pancake-mix-recipe-1938544
+
+- title: The Case For Butter
+  season: 3
+  number: 8
+  recipes:
+  - name: Raymond Beurre Blanc
+    url: https://www.foodnetwork.com/recipes/alton-brown/raymond-beurre-blanc-recipe-1910576
+  - name: Compound Butter
+    url: https://www.foodnetwork.com/recipes/alton-brown/compound-butter-recipe-2013062
+  - name: Honey Butter
+    url: https://www.foodnetwork.com/recipes/alton-brown/honey-butter-recipe-2013170
+
+- title: Flat Is Beautiful
+  season: 3
+  number: 9
+  recipes:
+  - name: Pizza Pizzas
+    url: https://www.foodnetwork.com/recipes/alton-brown/pizza-pizzas-recipe4-1951401
+
+- title: 'Pantry Raid III: Cool Beans'
+  season: 3
+  number: 10
+  recipes:
+  - name: The Once and Future Beans
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-once-and-future-beans-recipe-1938616
+  - name: Black Bean Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/black-bean-salad-recipe-1909063
+  - name: Turbo Hummus
+    url: https://www.foodnetwork.com/recipes/alton-brown/turbo-hummus-recipe-1909491
+
+- title: 'Mission: Poachable'
+  season: 3
+  number: 11
+  recipes:
+  - name: GE Court Bouillon
+    url: https://www.foodnetwork.com/recipes/alton-brown/ge-court-bouillon-recipe-1938582
+  - name: The Frenchman's Bass
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-frenchmans-bass-recipe-1938259
+  - name: Catfish au Lait
+    url: https://www.foodnetwork.com/recipes/alton-brown/catfish-au-lait-recipe-1938494
+  - name: Poached Egg Tips
+    url: https://www.foodnetwork.com/recipes/alton-brown/poached-egg-tips-2103198
+
+- title: Tofuworld
+  season: 3
+  number: 12
+  recipes:
+  - name: Fillet O'Fu
+    url: https://www.foodnetwork.com/recipes/alton-brown/fillet-ofu-recipe-1938277
+  - name: No Guilt Caesar
+    url: https://www.foodnetwork.com/recipes/alton-brown/no-guilt-caesar-recipe-1938378
+  - name: Moo-Less Chocolate Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/moo-less-chocolate-pie-recipe-1938390
+  - name: Tall & Tangy Tofu Thangy
+    url: https://www.foodnetwork.com/recipes/alton-brown/tall-tangy-tofu-thangy-recipe-1938646
+
+- title: Head Games
+  season: 3
+  number: 13
+  recipes:
+  - name: Shred, Head, Butter and Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/shred-head-butter-and-bread-recipe-1938669
+  - name: Home of the Braise
+    url: https://www.foodnetwork.com/recipes/alton-brown/home-of-the-braise-recipe-1938661
+
+- title: Grill Seekers
+  season: 3
+  number: 14
+  recipes:
+  - name: Silence of the Leg O' Lamb
+    url: https://www.foodnetwork.com/recipes/alton-brown/silence-of-the-leg-o-lamb-recipe-1910085

@@ -1,0 +1,218 @@
+---
+- title: 'Crustacean Nation III: Feeling Crabby'
+  season: 7
+  number: 1
+  recipes:
+  - name: Steamed Alaskan King Crab Claws
+    url: https://www.foodnetwork.com/recipes/alton-brown/steamed-alaskan-king-crab-claws-recipe-1914146
+  - name: Ghee
+    url: https://www.foodnetwork.com/recipes/alton-brown/ghee-recipe-2103328
+  - name: Crab Cakes or Fritters
+    url: https://www.foodnetwork.com/recipes/alton-brown/crab-cakes-or-fritters-recipe-1914247
+  - name: Marinated Crab Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/marinated-crab-salad-recipe-1951976
+
+- title: Q
+  season: 7
+  number: 2
+  recipes:
+  - name: Pulled Pork
+    url: https://www.foodnetwork.com/recipes/alton-brown/pulled-pork-recipe-1914045
+
+- title: 'The Egg-Files VI: French Flop'
+  season: 7
+  number: 3
+  recipes:
+  - name: Omelet
+    url: https://www.foodnetwork.com/recipes/alton-brown/omelet-recipe-1914282
+  - name: Omelet for a Crowd
+    url: https://www.foodnetwork.com/recipes/alton-brown/omelet-for-a-crowd-recipe-1941597
+  - name: Frittata
+    url: https://www.foodnetwork.com/recipes/alton-brown/frittata-recipe-1941312
+
+- title: The Muffin Method Man
+  season: 7
+  number: 4
+  recipes:
+  - name: Blueberry Muffins
+    url: https://www.foodnetwork.com/recipes/alton-brown/blueberry-muffins-recipe-1941521
+  - name: English Muffins
+    url: https://www.foodnetwork.com/recipes/alton-brown/english-muffins-recipe-1953408
+
+- title: 'True Brew IV: Take Stock'
+  season: 7
+  number: 5
+  recipes:
+  - name: Chicken Stock
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-stock-recipe-1914051
+  - name: Chicken Noodle Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-noodle-soup-recipe-1914030
+
+- title: A Beautiful Grind
+  season: 7
+  number: 6
+  recipes:
+  - name: Breakfast Sausage
+    url: https://www.foodnetwork.com/recipes/alton-brown/breakfast-sausage-recipe-2103185
+  - name: Italian Sausage
+    url: https://www.foodnetwork.com/recipes/alton-brown/italian-sausage-recipe-2131680
+
+- title: Raising The Steaks
+  season: 7
+  number: 7
+  recipes:
+  - name: Sirloin Steak
+    url: https://www.foodnetwork.com/recipes/alton-brown/sirloin-steak-recipe-1914768
+  - name: Skirt Steak
+    url: https://www.foodnetwork.com/recipes/alton-brown/skirt-steak-recipe-2014004
+
+- title: The Pouch Principle
+  season: 7
+  number: 8
+  recipes:
+  - name: Ramen Shrimp Pouch
+    url: https://www.foodnetwork.com/recipes/alton-brown/ramen-shrimp-pouch-recipe-1914393
+  - name: Red Snapper en Papillote
+    url: https://www.foodnetwork.com/recipes/alton-brown/red-snapper-en-papillote-recipe-1914482
+  - name: Salmon Fillet en Papillote with Julienne Vegetable
+    url: https://www.foodnetwork.com/recipes/alton-brown/salmon-fillet-en-papillote-with-julienne-vegetable-recipe-1914616
+  - name: Stone Fruit Pouches
+    url: https://www.foodnetwork.com/recipes/alton-brown/stone-fruit-pouches-recipe-1941528
+  - name: Vanilla Sugar
+    url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-sugar-recipe-1914687
+
+- title: Ill Gotten Grains
+  season: 7
+  number: 9
+  recipes:
+  - name: Bulgur Gazpacho
+    url: https://www.foodnetwork.com/recipes/alton-brown/bulgur-gazpacho-recipe-1914666
+  - name: Wheat Berry Tapenade
+    url: https://www.foodnetwork.com/recipes/alton-brown/wheat-berry-tapanade-recipe-1941723
+  - name: Mushroom Wheat Berry Pilaf
+    url: https://www.foodnetwork.com/recipes/alton-brown/mushroom-wheat-berry-pilaf-recipe-1914635
+  - name: Steamed Couscous
+    url: https://www.foodnetwork.com/recipes/alton-brown/steamed-couscous-recipe-1941859
+  - name: Basic Cooked Wheat Berries
+    url: https://www.foodnetwork.com/recipes/alton-brown/basic-cooked-wheat-berries-recipe-1942032
+  - name: Cherry Couscous Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/cherry-couscous-pudding-recipe-1941940
+
+- title: The Tricks To Treats
+  season: 7
+  number: 10
+  recipes:
+  - name: Chocolate Taffy
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-taffy-recipe-1914404
+  - name: Acid Jellies
+    url: https://www.foodnetwork.com/recipes/alton-brown/acid-jellies-recipe-1941929
+  - name: Peanut Brittle
+    url: https://www.foodnetwork.com/recipes/alton-brown/peanut-brittle-recipe-1914388
+
+- title: Potato, My Sweet
+  season: 7
+  number: 11
+  recipes:
+  - name: Sweet Potato Waffles
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-potato-waffles-recipe-2013843
+  - name: Sweet Potato Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-potato-pie-recipe-2013901
+  - name: Chipotle Smashed Sweet Potatoes
+    url: https://www.foodnetwork.com/recipes/alton-brown/chipotle-smashed-sweet-potatoes-recipe-1942146
+
+- title: The Cookie Clause
+  season: 7
+  number: 12
+  recipes:
+  - name: Sugar Cookies
+    url: https://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe-1914697
+  - name: Royal Icing
+    url: https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917
+  - name: Chocolate Peppermint Pinwheel Cookies
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-peppermint-pinwheel-cookies-recipe4-1942109
+
+- title: Herbal Preservation
+  season: 7
+  number: 13
+  recipes:
+  - name: Tarragon Chive Vinegar
+    url: https://www.foodnetwork.com/recipes/alton-brown/tarragon-chive-vinegar-recipe-1951927
+  - name: Parsley Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/parsley-salad-recipe-1941988
+
+- title: Spice Capades
+  season: 7
+  number: 14
+  recipes:
+  - name: Broiled Salmon with AB's Spice Pomade
+    url: https://www.foodnetwork.com/recipes/alton-brown/broiled-salmon-with-abs-spice-pomade-recipe-1915241
+  - name: Vegetable Curry
+    url: https://www.foodnetwork.com/recipes/alton-brown/vegetable-curry-recipe-1914965
+  - name: Curry Powder Blend
+    url: https://www.foodnetwork.com/recipes/alton-brown/curry-powder-blend-recipe-1942061
+  - name: Dried Pear and Fig Compote
+    url: https://www.foodnetwork.com/recipes/alton-brown/dried-pear-and-fig-compote-recipe-1942039
+
+- title: The Man Food Show
+  season: 7
+  number: 15
+  recipes:
+  - name: Corn Dogs
+    url: https://www.foodnetwork.com/recipes/alton-brown/corn-dogs-recipe-1941945
+  - name: Mini Man Burgers
+    url: https://www.foodnetwork.com/recipes/alton-brown/mini-man-burgers-recipe-1915078
+
+- title: Fudge Factor
+  season: 7
+  number: 16
+  recipes:
+  - name: Chocolate Fudge
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-fudge-recipe-1941736
+  - name: Peanut Butter Fudge
+    url: https://www.foodnetwork.com/recipes/alton-brown/peanut-butter-fudge-recipe-1941711
+
+- title: Sometimes You Feel Like A ...
+  season: 7
+  number: 17
+  recipes:
+  - name: Cashew Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/cashew-sauce-recipe-1942375
+  - name: Pistachio Mixed Herb Pesto
+    url: https://www.foodnetwork.com/recipes/alton-brown/pistachio-mixed-herb-pesto-recipe-1942652
+  - name: Pistachio Fruit Balls
+    url: https://www.foodnetwork.com/recipes/alton-brown/pistachio-fruit-balls-recipe-1942281
+  - name: Macadamia Nut Crusted Mahi Mahi
+    url: https://www.foodnetwork.com/recipes/alton-brown/macadamia-nut-crusted-mahi-mahi-recipe-1942409
+  - name: Macadamia Nut Crust
+    url: https://www.foodnetwork.com/recipes/macadamia-nut-crust-recipe-1942304
+
+- title: I Pie
+  season: 7
+  number: 18
+  recipes:
+  - name: Lemon Meringue Pie
+    url: https://www.foodnetwork.com/recipes/food-network-kitchen/classic-lemon-meringue-pie-5608977
+  - name: Pie Crust
+    url: https://www.foodnetwork.com/recipes/alton-brown/pie-crust-recipe-1915025
+
+- title: Toast Modern
+  season: 7
+  number: 19
+  recipes:
+  - name: French Toast
+    url: https://www.foodnetwork.com/recipes/alton-brown/french-toast-recipe-1942216
+  - name: Bruschetta
+    url: https://www.foodnetwork.com/recipes/alton-brown/bruschetta-recipe-2117801
+  - name: Welsh Rarebit
+    url: https://www.foodnetwork.com/recipes/alton-brown/welsh-rarebit-recipe-1914850
+
+- title: Top Banana
+  season: 7
+  number: 20
+  recipes:
+  - name: Banana Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/banana-ice-cream-recipe-1915601
+  - name: Banana's Foster
+    url: https://www.foodnetwork.com/recipes/alton-brown/bananas-foster-recipe-1915541
+  - name: Fried Plantains
+    url: https://www.foodnetwork.com/recipes/alton-brown/fried-plantains-recipe-1942234

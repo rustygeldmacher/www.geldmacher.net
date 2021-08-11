@@ -1,0 +1,147 @@
+---
+- title: Deep Space Slime
+  season: 5
+  number: 1
+  recipes:
+  - name: Sparkling Gingered Face
+    url: https://www.foodnetwork.com/recipes/alton-brown/sparkling-gingered-face-recipe-1911098
+  - name: Cinnamon Cherry Heart
+    url: https://www.foodnetwork.com/recipes/alton-brown/cinnamon-cherry-heart-recipe-1911093
+  - name: Panna Cotta Brain with Cranberry Glaze
+    url: https://www.foodnetwork.com/recipes/alton-brown/panna-cotta-brain-with-cranberry-glaze-recipe-1938818
+  - name: Spooky Edible Eyes
+    url: https://www.foodnetwork.com/recipes/alton-brown/spooky-edible-eyes-recipe-2013612
+  - name: Layered Gelatin
+    url: http://www.goodeatsfanpage.com/season5/Gelatin/GelatinTranscript.htm#Layered
+
+- title: Oat Cuisine
+  season: 5
+  number: 2
+  recipes:
+  - name: Haggis
+    url: https://www.foodnetwork.com/recipes/alton-brown/haggis-recipe-1911083
+  - name: Steel Cut Oatmeal
+    url: https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448
+  - name: Overnight Oatmeal
+    url: https://www.foodnetwork.com/recipes/alton-brown/overnight-oatmeal-recipe-1939324
+  - name: Granola
+    url: https://www.foodnetwork.com/recipes/alton-brown/granola-recipe-1939521
+
+- title: Crepe Expectations
+  season: 5
+  number: 3
+  recipes:
+  - name: Crepes
+    url: https://www.foodnetwork.com/recipes/alton-brown/crepes-recipe-1911037
+  - name: Mushroom Crepe Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/mushroom-crepe-cake-recipe-1939640
+  - name: Crepes Suzette
+    url: https://www.foodnetwork.com/recipes/alton-brown/crepes-suzette-recipe-1939388
+  - name: Crepe Quiche Lorraine
+    url: https://www.foodnetwork.com/recipes/alton-brown/crepe-quiche-lorraine-recipe-1911068
+
+- title: Celebrity Roast
+  season: 5
+  number: 4
+  recipes:
+  - name: Dry Aged Standing Rib Roast with Sage Jus
+    url: https://www.foodnetwork.com/recipes/alton-brown/dry-aged-standing-rib-roast-with-sage-jus-recipe-1939502
+
+- title: Scrap Iron Chef - Bacon Challenge
+  season: 5
+  number: 5
+  recipes:
+  - name: Scrap Iron Chef's Bacon
+    url: https://www.foodnetwork.com/recipes/alton-brown/scrap-iron-chefs-bacon-recipe-1939446
+  - name: Bacon Vinaigrette with Grilled Radicchio
+    url: https://www.foodnetwork.com/recipes/alton-brown/bacon-vinaigrette-with-grilled-radicchio-recipe-1939636
+  - name: Honey Mustard Cure
+    url: https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-cure-recipe-1939353
+  - name: Molasses Black Pepper Cure
+    url: https://www.foodnetwork.com/recipes/alton-brown/molasses-black-pepper-cure-recipe-1939679
+  - name: Red Pepper Brine
+    url: https://www.foodnetwork.com/recipes/alton-brown/red-pepper-brine-recipe-1939596
+  - name: Soy Honey Brine
+    url: https://www.foodnetwork.com/recipes/alton-brown/soy-honey-brine-recipe-1939578
+
+- title: Deep Purple
+  season: 5
+  number: 6
+  recipes:
+  - name: Baba Ghannouj
+    url: https://www.foodnetwork.com/recipes/alton-brown/baba-ghannouj-recipe-1939564
+  - name: Eggplant Steaks
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggplant-steaks-recipe-1939600
+  - name: Eggplant Pasta
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggplant-pasta-recipe-1911359
+
+- title: The Trouble with Cheesecake
+  season: 5
+  number: 7
+  recipes:
+  - name: Sour Cream Cheesecake
+    url: https://www.foodnetwork.com/recipes/alton-brown/sour-cream-cheesecake-recipe-1939639
+  - name: Savory Cheesecake
+    url: https://www.foodnetwork.com/recipes/alton-brown/savory-cheesecake-recipe-1911362
+
+- title: Squid Pro Quo
+  season: 5
+  number: 8
+  recipes:
+  - name: Squid Vicious
+    url: https://www.foodnetwork.com/recipes/alton-brown/squid-vicious-recipe-1939338
+
+- title: Art of Darkness II
+  season: 5
+  number: 9
+  recipes:
+  - name: Cocoa Brownies
+    url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-brownies-recipe-2085484
+  - name: Cocoa Syrup
+    url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-syrup-recipe-1939656
+  - name: Hot Cocoa
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-cocoa-recipe-1911397
+
+- title: Squash Court
+  season: 5
+  number: 10
+  recipes:
+  - name: Squash Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/squash-soup-recipe-1911350
+  - name: Butternut Dumplings with Brown Butter and Sage
+    url: https://www.foodnetwork.com/recipes/alton-brown/butternut-dumplings-with-brown-butter-and-sage-recipe-2013561
+  - name: Pumpkin Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/pumpkin-bread-recipe-1911283
+
+- title: Use Your Noodle II
+  season: 5
+  number: 11
+  recipes:
+  - name: Baked Macaroni and Cheese
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-1939524
+  - name: Stove Top Mac-n-Cheese
+    url: https://www.foodnetwork.com/recipes/alton-brown/stovetop-mac-n-cheese-recipe-1939465
+  - name: Next Day Mac and Cheese "Toast"
+    url: https://www.foodnetwork.com/recipes/alton-brown/next-day-mac-and-cheese-toast-recipe-2013511
+
+- title: Send In The Clams
+  season: 5
+  number: 12
+  recipes:
+  - name: Radonsky for the New Millenium
+    url: https://www.foodnetwork.com/recipes/alton-brown/radonsky-for-the-new-millenium-recipe-1939511
+  - name: Clams on the Half Shell with Fresh Mayonnaise
+    url: https://www.foodnetwork.com/recipes/alton-brown/clams-on-the-half-shell-with-fresh-mayonnaise-recipe-1951771
+  - name: Clam Chowder
+    url: https://www.foodnetwork.com/recipes/alton-brown/clam-chowder-recipe-1911555
+
+- title: This Spud's For You Too
+  season: 5
+  number: 13
+  recipes:
+  - name: Leftover Baked Potato Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/leftover-baked-potato-soup-recipe-1939931
+  - name: Cold-Fashioned Potato Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/cold-fashioned-potato-salad-recipe-1951773
+  - name: Potato Roesti
+    url: https://www.foodnetwork.com/recipes/alton-brown/potato-roesti-recipe-1940112

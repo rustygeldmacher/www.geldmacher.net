@@ -1,0 +1,191 @@
+---
+- title: Crustacean Nation 4
+  season: 13
+  number: 1
+  recipes:
+  - name: Crawfish Boil
+    url: https://www.foodnetwork.com/recipes/alton-brown/crawfish-boil-recipe-1947069
+
+- title: Tamale Never Die
+  season: 13
+  number: 2
+  recipes:
+  - name: Hot Tamales
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-tamales-recipe-2011883
+  - name: Turkey Tamales
+    url: https://www.foodnetwork.com/recipes/alton-brown/turkey-tamales-recipe-2011955
+
+- title: American Classics 4
+  season: 13
+  number: 3
+  recipes:
+  - name: Meat Sauce and Spaghetti
+    url: https://www.foodnetwork.com/recipes/alton-brown/meat-sauce-and-spaghetti-recipe-1917618
+
+- title: Tender is the Pork
+  season: 13
+  number: 4
+  recipes:
+  - name: Grilled Pork Tenderloin
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-pork-tenderloin-recipe-1917672
+  - name: Pork Wellington
+    url: https://www.foodnetwork.com/recipes/alton-brown/pork-wellington-recipe-1917666
+
+- title: Undercover Veggies
+  season: 13
+  number: 5
+  recipes:
+  - name: Parsnip Muffins
+    url: https://www.foodnetwork.com/recipes/alton-brown/parsnip-muffins-recipe-1947913
+  - name: Pearsnip Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/pearsnip-sauce-recipe-1947810
+  - name: Parsnip Crisps
+    url: https://www.foodnetwork.com/recipes/alton-brown/parsnip-crisps-recipe-1948146
+
+- title: Feeling Punchy
+  season: 13
+  number: 6
+  recipes:
+  - name: Cape Fear Punch
+    url: https://www.foodnetwork.com/recipes/alton-brown/cape-fear-punch-recipe-1917913
+  - name: Good Eats Company Punch
+    url: https://www.foodnetwork.com/recipes/alton-brown/good-eats-company-punch-recipe-1948159
+  - name: Hot Toddy
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-toddy-recipe-1948218
+
+- title: 'Another Man Food Show: Breakfast'
+  season: 13
+  number: 8
+  recipes:
+  - name: Man Bacon
+    url: https://www.foodnetwork.com/recipes/alton-brown/man-bacon-recipe-2104313
+  - name: Man Coffee
+    url: https://www.foodnetwork.com/recipes/alton-brown/man-coffee-recipe-1948967
+  - name: Man Eggs
+    url: https://www.foodnetwork.com/recipes/alton-brown/man-eggs-recipe-1949463
+  - name: Man Hash Browns
+    url: https://www.foodnetwork.com/recipes/alton-brown/man-hash-browns-recipe-1949139
+
+- title: Food Under the Influence
+  season: 13
+  number: 9
+  recipes:
+  - name: Beer Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/beer-bread-recipe-1949292
+  - name: Lamb Shoulder Chops with Red Wine
+    url: https://www.foodnetwork.com/recipes/alton-brown/lamb-shoulder-chops-with-red-wine-recipe-2095608
+
+- title: American Classics V
+  season: 13
+  number: 10
+  recipes:
+  - name: Pound Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/pound-cake-recipe-1949328
+  - name: Buttermilk Pound Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/buttermilk-pound-cake-recipe-1949033
+
+- title: The Once and Future Fish
+  season: 13
+  number: 11
+  recipes:
+  - name: Hot Smoked Trout
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-smoked-trout-recipe-1948933
+  - name: Rollmops
+    url: https://www.foodnetwork.com/recipes/alton-brown/rollmops-recipe-1949055
+  - name: Escabeche of Trout
+    url: https://www.foodnetwork.com/recipes/alton-brown/escabeche-of-trout-recipe-1949171
+
+- title: 'Pantry Raid XII: Turning Japanese'
+  season: 13
+  number: 12
+  recipes:
+  - name: Easy Tofu Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/easy-tofu-dressing-recipe-1949117
+  - name: Dashi
+    url: https://www.foodnetwork.com/recipes/alton-brown/dashi-recipe-1949217
+  - name: Miso Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/miso-soup-recipe-1949127
+  - name: Miso Honey Glazed Fish
+    url: https://www.foodnetwork.com/recipes/alton-brown/miso-honey-glazed-fish-recipe-1948949
+  - name: Glazed Bonito Flakes
+    url: https://www.foodnetwork.com/recipes/alton-brown/glazed-bonito-flakes-recipe-1948987
+  - name: Tsuyu Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/tsuyu-sauce-recipe-1918199
+
+- title: The "Proof" is in the Pudding
+  season: 13
+  number: 13
+  recipes:
+  - name: Flaming Shrimp and Grits
+    url: https://www.foodnetwork.com/recipes/alton-brown/flaming-shrimp-and-grits-recipe-1948927
+  - name: Limoncello
+    url: https://www.foodnetwork.com/recipes/alton-brown/limoncello-recipe-1918536
+  - name: Zabaglione
+    url: https://www.foodnetwork.com/recipes/alton-brown/zabaglione-recipe-1918514
+
+- title: Live and Let Diet
+  season: 13
+  number: 15
+  recipes:
+  - name: Sherried Sardine Toast
+    url: https://www.foodnetwork.com/recipes/alton-brown/sherried-sardine-toast-recipe-1949095
+  - name: Ginger Almonds
+    url: https://www.foodnetwork.com/recipes/alton-brown/ginger-almonds-recipe-1949105
+  - name: Buff Smoothie
+    url: https://www.foodnetwork.com/recipes/alton-brown/buff-smoothie-recipe-2014144
+
+- title: Raising the Bar Again
+  season: 13
+  number: 16
+  recipes:
+  - name: Margarita
+    url: https://www.foodnetwork.com/recipes/alton-brown/margarita-recipe-1949048
+  - name: Tomato Vodka
+    url: https://www.foodnetwork.com/recipes/alton-brown/tomato-vodka-recipe-1918470
+  - name: Bloody Mary
+    url: https://www.foodnetwork.com/recipes/alton-brown/bloody-mary-recipe-1948908
+
+- title: The Ballad of Salty and Sweet
+  season: 13
+  number: 17
+  recipes:
+  - name: Dark Salty Caramels
+    url: https://www.foodnetwork.com/recipes/alton-brown/dark-salty-caramels-recipe-1949568
+  - name: GrapefruitBrulee
+    url: https://www.foodnetwork.com/recipes/alton-brown/grapefruit-brulee-recipe-1918464
+  - name: Praline Bacon
+    url: https://www.foodnetwork.com/recipes/alton-brown/praline-bacon-recipe-1949714
+
+- title: American Classics 7
+  season: 13
+  number: 18
+  recipes:
+  - name: Chicken and Rolled Dumplings
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-and-rolled-dumplings-recipe-1949633
+  - name: Chicken and Dropped Dumplings
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-and-dropped-dumplings-recipe-1949787
+
+- title: The Curious Case of Curry
+  season: 13
+  number: 19
+  recipes:
+  - name: Lamb Tikka Masala
+    url: https://www.foodnetwork.com/recipes/alton-brown/lamb-tikka-masala-recipe-1918493
+
+- title: The Catfish Will Rise Again
+  season: 13
+  number: 20
+  recipes:
+  - name: Catfish Ceviche
+    url: https://www.foodnetwork.com/recipes/alton-brown/catfish-ceviche-recipe-1918991
+  - name: Catfish Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/catfish-soup-recipe-1919052
+  - name: Southern Fried Catfish
+    url: https://www.foodnetwork.com/recipes/alton-brown/southern-fried-catfish-recipe-1918997
+
+- title: It's a Pan, It's a Dish, It's Paella
+  season: 13
+  number: 21
+  recipes:
+  - name: Paella
+    url: https://www.foodnetwork.com/recipes/alton-brown/paella-recipe-2129308

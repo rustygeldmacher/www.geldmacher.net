@@ -1,0 +1,109 @@
+---
+- title: Where There's Smoke, There's Fish
+  season: 4
+  number: 1
+  recipes:
+  - name: Smoked Salmon
+    url: https://www.foodnetwork.com/recipes/alton-brown/smoked-salmon-recipe-1938429
+
+- title: Pressure
+  season: 4
+  number: 2
+  recipes:
+  - name: AB's Beefy Broth
+    url: https://www.foodnetwork.com/recipes/alton-brown/abs-beefy-broth-recipe-1938212
+
+- title: 'Fry Hard II: The Chicken'
+  season: 4
+  number: 3
+  recipes:
+  - name: Fried Chicken
+    url: https://www.foodnetwork.com/recipes/alton-brown/fried-chicken-recipe-1939165
+
+- title: 'Crustacean Nation II: Claws'
+  season: 4
+  number: 4
+  recipes:
+  - name: Stuffed Lobster
+    url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-lobster-recipe-1951233
+
+- title: Ham I Am
+  season: 4
+  number: 5
+  recipes:
+  - name: City Ham
+    url: https://www.foodnetwork.com/recipes/alton-brown/city-ham-recipe-2013153
+  - name: Country Ham
+    url: https://www.foodnetwork.com/recipes/alton-brown/country-ham-recipe-1910162
+
+- title: Let Them Eat Foam
+  season: 4
+  number: 6
+  recipes:
+  - name: Angel Food Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/angel-food-cake-recipe-1938726
+
+- title: A Chuck for Chuck
+  season: 4
+  number: 7
+  recipes:
+  - name: Pot Roast
+    url: https://www.foodnetwork.com/recipes/alton-brown/pot-roast-recipe-1938843
+
+- title: 'Pantry Raid IV: Comb Alone'
+  season: 4
+  number: 8
+  recipes:
+  - name: Honey Mustard Dressing
+    url: https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-dressing-recipe-1939031
+  - name: Honey Plums
+    url: https://www.foodnetwork.com/recipes/alton-brown/honey-plums-recipe-1938857
+  - name: Aunt Verna's Orange Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/aunt-vernas-orange-cake-recipe-1910553
+  - name: Sweet and Sour Dessert Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-and-sour-dessert-sauce-recipe-1938943
+
+- title: The Bulb of the Night
+  season: 4
+  number: 9
+  recipes:
+  - name: Vlad's Very Garlicky Greens
+    url: https://www.foodnetwork.com/recipes/alton-brown/vlads-very-garlicky-greens-recipe-1939109
+  - name: 40 Cloves and a Chicken
+    url: https://www.foodnetwork.com/recipes/alton-brown/40-cloves-and-a-chicken-recipe-1910661
+
+- title: Mayo Clinic
+  season: 4
+  number: 10
+  recipes:
+  - name: Party Mayonnaise
+    url: https://www.foodnetwork.com/recipes/alton-brown/party-mayonnaise-recipe-1951180
+  - name: Mayonnaise
+    url: https://www.foodnetwork.com/recipes/alton-brown/mayonnaise-recipe-1951119
+
+- title: Puff The Magic Pastry
+  season: 4
+  number: 11
+  recipes:
+  - name: Salmon Turnovers
+    url: https://www.foodnetwork.com/recipes/alton-brown/salmon-turnovers-recipe-1951308
+  - name: Fruit Tart
+    url: https://www.foodnetwork.com/recipes/alton-brown/fruit-tart-recipe-1910449
+
+- title: True Brew II
+  season: 4
+  number: 12
+  recipes:
+  - name: Sweet Tea
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-tea-recipe-1938864
+  - name: Perfect Cup of Tea
+    url: https://www.foodnetwork.com/recipes/alton-brown/perfect-cup-of-tea-recipe-2103016
+
+- title: Chile's Angles
+  season: 4
+  number: 13
+  recipes:
+  - name: Salsa
+    url: https://www.foodnetwork.com/recipes/alton-brown/salsa-recipe-1910950
+  - name: Spicy Pineapple Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/spicy-pineapple-sauce-recipe-1938795

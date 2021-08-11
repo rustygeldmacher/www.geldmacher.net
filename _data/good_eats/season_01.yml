@@ -1,0 +1,119 @@
+---
+- title: Steak Your Claim
+  season: 1
+  number: 1
+  recipes:
+  - name: Pan Seared Rib Eye
+    url: https://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe-2131274
+
+- title: This Spud's For You
+  season: 1
+  number: 2
+  recipes:
+  - name: The Baked Potato
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-baked-potato-recipe1-1908821
+  - name: Potato/Portobello Gratin
+    url: https://www.foodnetwork.com/recipes/potatoportobello-gratin-recipe-2131294
+  - name: Mashers
+    url: https://www.foodnetwork.com/recipes/alton-brown/mashers-recipe-2013124
+
+- title: The Egg-Files
+  season: 1
+  number: 3
+  recipes:
+  - name: Eggs Over Easy
+    url: https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248
+  - name: Lemon Curd
+    url: https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621
+  - name: Scrambled Eggs Unscrambled
+    url: https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318
+
+- title: Salad Daze
+  season: 1
+  number: 4
+  recipes:
+  - name: Veni Vedi Vinaigrette
+    url: https://www.foodnetwork.com/recipes/veni-vedi-vinaigrette-recipe-1938425
+  - name: Hail Caesar Salad
+    url: https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267
+
+- title: A Bird In The Pan
+  season: 1
+  number: 5
+  recipes:
+  - name: Broiled, Butterflied Chicken
+    url: https://www.foodnetwork.com/recipes/alton-brown/broiled-butterflied-chicken-recipe-1951266
+
+- title: Churn Baby Churn
+  season: 1
+  number: 6
+  recipes:
+  - name: Serious Vanilla Ice Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/serious-vanilla-ice-cream-recipe-1909819
+  - name: Coffee Granita
+    url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
+  - name: Key Lime Sorbet
+    url: https://www.foodnetwork.com/recipes/alton-brown/key-lime-sorbet-recipe-1938398
+
+- title: The Dough Also Rises
+  season: 1
+  number: 7
+  recipes:
+  - name: Southern Biscuits
+    url: https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe3-1948203
+  - name: Scones
+    url: https://www.foodnetwork.com/recipes/scones-recipe-1910399
+  - name: Shortcake
+    url: https://www.foodnetwork.com/recipes/shortcake-recipe-1910146
+
+- title: Gravy Confidential
+  season: 1
+  number: 8
+  recipes:
+  - name: Gravy from Roast Drippings
+    url: https://www.foodnetwork.com/recipes/gravy-from-roast-drippings-recipe-1951306
+  - name: Sawmill Gravy
+    url: https://www.foodnetwork.com/recipes/alton-brown/sawmill-gravy-recipe-1938562
+  - name: White Roux
+    url: https://www.foodnetwork.com/recipes/white-roux-recipe-1939081
+
+- title: A Bowl of Onion
+  season: 1
+  number: 9
+  recipes:
+  - name: French Onion Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/french-onion-soup-recipe-1939059
+
+- title: Hook, Line and Dinner
+  season: 1
+  number: 10
+  recipes:
+  - name: Grilled Salmon Steaks
+    url: https://www.foodnetwork.com/recipes/grilled-salmon-steaks-recipe-1910488
+  - name: Pan Fried Fish
+    url: https://www.foodnetwork.com/recipes/pan-fried-fish-recipe-1910675
+  - name: Striped Bass in Salt Dome
+    url: https://www.foodnetwork.com/recipes/striped-bass-in-salt-dome-recipe-1939160
+
+- title: 'Pantry Raid I: "Use Your Noodle"'
+  season: 1
+  number: 11
+  recipes:
+  - name: Pasta
+    url: https://www.foodnetwork.com/recipes/alton-brown/pasta-recipe1-1939124
+
+- title: Power to the Pilaf
+  season: 1
+  number: 12
+  recipes:
+  - name: Rice Pilaf
+    url: https://www.foodnetwork.com/recipes/rice-pilaf-recipe0-1910453
+
+- title: Art of Darkness
+  season: 1
+  number: 13
+  recipes:
+  - name: Chocolate Mousse
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-mousse-recipe-1951938
+  - name: Chocolate Lava Muffins
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-lava-muffins-recipe2-1913655

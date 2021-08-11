@@ -1,0 +1,216 @@
+---
+- title: Hittin' The Sauce
+  season: 8
+  number: 1
+  recipes:
+  - name: Strip Steak with Pepper Cream Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/strip-steak-with-pepper-cream-sauce-recipe-1951959
+  - name: Hollandaise
+    url: https://www.foodnetwork.com/recipes/alton-brown/hollandaise-recipe-1915296
+
+- title: 'Shell Game III: Oysters'
+  season: 8
+  number: 2
+  recipes:
+  - name: Baked Oysters Brownefeller
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-oysters-brownefeller-recipe-1943011
+  - name: Horseradish Cream Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/horseradish-cream-sauce-recipe-1942771
+  - name: Oyster Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/oyster-soup-recipe-1942912
+
+- title: Flat is Beautiful II
+  season: 8
+  number: 3
+  recipes:
+  - name: Beef Paillard
+    url: https://www.foodnetwork.com/recipes/alton-brown/beef-paillard-recipe-1915465
+  - name: Chicken Kiev
+    url: https://www.foodnetwork.com/recipes/alton-brown/chicken-kiev-recipe-1952333
+  - name: Turkey Piccata
+    url: https://www.foodnetwork.com/recipes/alton-brown/turkey-piccata-recipe-1942784
+
+- title: Circle of Life
+  season: 8
+  number: 4
+  recipes:
+  - name: Yeast Doughnuts
+    url: https://www.foodnetwork.com/recipes/alton-brown/yeast-doughnuts-recipe-1942740
+  - name: Doughnut Glaze
+    url: https://www.foodnetwork.com/recipes/alton-brown/doughnut-glaze-recipe-1915369
+  - name: Chocolate Doughnut Glaze
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-doughnut-glaze-recipe-1943022
+
+- title: Wonton Ways
+  season: 8
+  number: 5
+  recipes:
+  - name: Perfect Potstickers
+    url: https://www.foodnetwork.com/recipes/alton-brown/perfect-potstickers-recipe-1942712
+  - name: Vegetarian Steamed Dumplings
+    url: https://www.foodnetwork.com/recipes/alton-brown/vegetarian-steamed-dumplings-recipe-1942919
+  - name: Pear Walnut Wontons
+    url: https://www.foodnetwork.com/recipes/alton-brown/pear-walnut-wontons-recipe-1942739
+
+- title: The Big Chili
+  season: 8
+  number: 6
+  recipes:
+  - name: AB's Chili Powder
+    url: https://www.foodnetwork.com/recipes/alton-brown/abs-chili-powder-recipe-1943055
+  - name: Pressure Cooker Chili
+    url: https://www.foodnetwork.com/recipes/alton-brown/pressure-cooker-chili-recipe-1942714
+
+- title: SandwichCraft
+  season: 8
+  number: 7
+  recipes:
+  - name: Cuban Sandwich
+    url: https://www.foodnetwork.com/recipes/alton-brown/cuban-sandwich-recipe-1915785
+  - name: Pan Bagnat
+    url: https://www.foodnetwork.com/recipes/alton-brown/pan-bagnat-recipe-1943313
+  - name: Roasted Vegetable Spread
+    url: https://www.foodnetwork.com/recipes/alton-brown/roasted-vegetable-spread-recipe-1952060
+
+- title: Soup's On
+  season: 8
+  number: 8
+  recipes:
+  - name: Garden Vegetable Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/garden-vegetable-soup-recipe-1915670
+  - name: Grape Gazpacho
+    url: https://www.foodnetwork.com/recipes/alton-brown/grape-gazpacho-recipe-1943522
+
+- title: Say Cheese
+  season: 8
+  number: 9
+  recipes:
+  - name: Cheese Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/cheese-soup-recipe-1915912
+  - name: Fromage Fort
+    url: https://www.foodnetwork.com/recipes/alton-brown/fromage-fort-recipe-1943359
+  - name: Parmesan Crisps
+    url: https://www.foodnetwork.com/recipes/alton-brown/parmesan-crisps-recipe-1915856
+
+- title: Art of Darkness III
+  season: 8
+  number: 11
+  recipes:
+  - name: Chocolate Truffles
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-truffles-recipe-1943346
+  - name: Ganache Frosting
+    url: https://www.foodnetwork.com/recipes/alton-brown/ganache-frosting-recipe-1915833
+  - name: Good Eats Fudgepops
+    url: https://www.foodnetwork.com/recipes/alton-brown/good-eats-fudgepops-recipe-2013811
+
+- title: True Grits
+  season: 8
+  number: 10
+  recipes:
+  - name: Cheese Grits
+    url: https://www.foodnetwork.com/recipes/alton-brown/cheese-grits-recipe-1915972
+  - name: Savory Polenta
+    url: https://www.foodnetwork.com/recipes/alton-brown/savory-polenta-recipe-1915949
+  - name: Pineapple Upside-Down Cornmeal Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/pineapple-upside-down-cornmeal-cake-recipe-1943309
+
+- title: Stuff It
+  season: 8
+  number: 12
+  recipes:
+  - name: Stuffed Squash
+    url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-squash-recipe-1943499
+  - name: Turkey with Stuffing
+    url: https://www.foodnetwork.com/recipes/alton-brown/turkey-with-stuffing-2124357
+
+- title: Pudding Head Blues
+  season: 8
+  number: 13
+  recipes:
+  - name: Indian Rice Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/indian-rice-pudding-recipe-1943299
+  - name: Tapioca Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/tapioca-pudding-recipe-1915917
+  - name: Instant Chocolate Pudding Mix
+    url: https://www.foodnetwork.com/recipes/alton-brown/instant-chocolate-pudding-mix-recipe-1943281
+  - name: Chocolate Pudding
+    url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-pudding-recipe-2040214
+
+- title: Melondrama
+  season: 8
+  number: 14
+  recipes:
+  - name: Hot Melon Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/hot-melon-salad-recipe-1943631
+  - name: Melon Sorbet
+    url: https://www.foodnetwork.com/recipes/alton-brown/melon-sorbet-recipe-1943639
+
+- title: Myth Smashers
+  season: 8
+  number: 15
+  recipes: []
+
+- title: Cuckoo for Coq Au Vin
+  season: 8
+  number: 16
+  recipes:
+  - name: Coq au Vin
+    url: https://www.foodnetwork.com/recipes/alton-brown/coq-au-vin-recipe-1952021
+
+- title: A Taproot Orange
+  season: 8
+  number: 17
+  recipes:
+  - name: Carrot Slaw
+    url: https://www.foodnetwork.com/recipes/alton-brown/carrot-slaw-recipe-1943995
+  - name: Glazed Carrots
+    url: https://www.foodnetwork.com/recipes/alton-brown/glazed-carrots-recipe-1943968
+  - name: Carrot Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/carrot-cake-recipe-1953483
+
+- title: Sprung A Leek
+  season: 8
+  number: 18
+  recipes:
+  - name: Grilled Braised Leeks
+    url: https://www.foodnetwork.com/recipes/alton-brown/grilled-braised-leeks-recipe-1952139
+  - name: Leek Rings
+    url: https://www.foodnetwork.com/recipes/alton-brown/leek-rings-recipe-2013897
+  - name: Leek Potato Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/leek-potato-soup-recipe-1916145
+
+- title: Dr. Strangeloaf
+  season: 8
+  number: 19
+  recipes:
+  - name: Very Basic Bread
+    url: https://www.foodnetwork.com/recipes/alton-brown/very-basic-bread-recipe-1916079
+
+- title: My Big Fat Greek Sandwich
+  season: 8
+  number: 20
+  recipes:
+  - name: Gyro Meat with Tzatziki Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe-2047710
+
+- title: Field of Greens
+  season: 8
+  number: 21
+  recipes:
+  - name: Mustard Green Gratin
+    url: https://www.foodnetwork.com/recipes/alton-brown/mustard-green-gratin-recipe-1944047
+  - name: Pot O'Greens
+    url: https://www.foodnetwork.com/recipes/alton-brown/pot-ogreens-recipe-1944035
+  - name: Lemon Sesame Glazed Greens
+    url: https://www.foodnetwork.com/recipes/alton-brown/lemon-sesame-glazed-greens-recipe-1944143
+
+- title: Do the Rice Thing
+  season: 8
+  number: 22
+  recipes:
+  - name: Baked Brown Rice
+    url: https://www.foodnetwork.com/recipes/alton-brown/baked-brown-rice-recipe-1944197
+  - name: Brown Rice Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/brown-rice-salad-recipe-2103400
+  - name: Wild Mushroom and Asparagus Risotto
+    url: https://www.foodnetwork.com/recipes/alton-brown/wild-mushroom-and-asparagus-risotto-recipe-1916284

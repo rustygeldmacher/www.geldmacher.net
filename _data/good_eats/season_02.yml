@@ -1,0 +1,112 @@
+---
+- title: It's A Wonderful Cake
+  season: 2
+  number: 1
+  recipes:
+  - name: Free Range Fruitcake
+    url: https://www.foodnetwork.com/recipes/alton-brown/free-range-fruitcake-recipe-1926833
+
+- title: For Whom the Cheese Melts
+  season: 2
+  number: 2
+  recipes:
+  - name: Fondue Vudu
+    url: https://www.foodnetwork.com/recipes/fondue-vudu-recipe-1927194
+  - name: Big Cheese Squeeze
+    url: https://www.foodnetwork.com/recipes/big-cheese-squeeze-recipe-2130025
+
+- title: Apple Family Values
+  season: 2
+  number: 3
+  recipes:
+  - name: It's a Wonderful Waldorf
+    url: https://www.foodnetwork.com/recipes/alton-brown/its-a-wonderful-waldorf-recipe-1950876
+  - name: 10 Minute Apple Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/10-minute-apple-sauce-recipe-1950796
+  - name: Baker, Baker
+    url: https://www.foodnetwork.com/recipes/alton-brown/baker-baker-recipe-1950763
+
+- title: Crustacean Nation
+  season: 2
+  number: 4
+  recipes:
+  - name: The Shrimp Cocktail
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-shrimp-cocktail-recipe-1927450
+
+- title: The Fungal Gourmet
+  season: 2
+  number: 5
+  recipes:
+  - name: The Fungal Saute
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-fungal-saute-recipe-1950881
+  - name: That Ol' Cap Magic
+    url: https://www.foodnetwork.com/recipes/alton-brown/that-ol-cap-magic-recipe-1927723
+
+- title: Crust Never Sleeps
+  season: 2
+  number: 6
+  recipes:
+  - name: No Pan Pear Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/no-pan-pear-pie-recipe-1950879
+
+- title: True Brew
+  season: 2
+  number: 7
+  recipes:
+  - name: True Brew
+    url: https://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe-2103279
+
+- title: A Grind is a Terrible Thing to Waste
+  season: 2
+  number: 8
+  recipes:
+  - name: Good Eats Meat Loaf
+    url: https://www.foodnetwork.com/recipes/alton-brown/good-eats-meat-loaf-recipe-1937673
+  - name: Burger of the Gods
+    url: https://www.foodnetwork.com/recipes/alton-brown/burger-of-the-gods-recipe-1906563
+
+- title: Fry Hard
+  season: 2
+  number: 9
+  recipes:
+  - name: Chips and Fish
+    url: https://www.foodnetwork.com/recipes/alton-brown/chips-and-fish-recipe-1906657
+
+- title: 'Urban Preservation I: Jam Session'
+  season: 2
+  number: 10
+  recipes:
+  - name: Spiced Blueberry Jammin'
+    url: https://www.foodnetwork.com/recipes/alton-brown/spiced-blueberry-jammin-recipe-2125574
+
+- title: 'Pantry Raid II: Seeing Red'
+  season: 2
+  number: 11
+  recipes:
+  - name: Pantry Friendly Tomato Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/pantry-friendly-tomato-sauce-recipe-1951029
+
+- title: Citizen Cane
+  season: 2
+  number: 12
+  recipes:
+  - name: Banana Splitsville
+    url: https://www.foodnetwork.com/recipes/alton-brown/banana-splitsville-recipe-3381432
+
+- title: Pork Fiction
+  season: 2
+  number: 13
+  recipes:
+  - name: Who Loves Ya Baby-Back?
+    url: https://www.foodnetwork.com/recipes/alton-brown/who-loves-ya-baby-back-recipe-1937448
+
+- title: Ear Apparent
+  season: 2
+  number: 14
+  recipes:
+  - name: Better Than Grannie's Creamed Corn
+    url: https://www.foodnetwork.com/recipes/alton-brown/better-than-grannies-creamed-corn-recipe-1908071
+  - name: Creamed Corn Cornbread
+    url: https://www.foodnetwork.com/recipes/alton-brown/creamed-corn-cornbread-recipe2-1939058
+  - name: Plain Brown Popper
+    url: https://www.foodnetwork.com/recipes/alton-brown/plain-brown-popper-recipe-2047369

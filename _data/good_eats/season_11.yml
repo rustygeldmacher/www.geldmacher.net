@@ -1,0 +1,169 @@
+---
+- title: Milk Made
+  season: 11
+  number: 1
+  recipes:
+  - name: Quick Cottage Cheese
+    url: https://www.foodnetwork.com/recipes/alton-brown/quick-cottage-cheese-recipe-1948094
+  - name: Dulce de Leche
+    url: https://www.foodnetwork.com/recipes/alton-brown/dulce-de-leche-recipe-1948282
+  - name: Tres Leche Cake
+    url: https://www.foodnetwork.com/recipes/alton-brown/tres-leche-cake-recipe-1953815
+
+- title: Pretzel Logic
+  season: 11
+  number: 2
+  recipes:
+  - name: Homemade Soft Pretzels
+    url: https://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe-1948242
+  - name: Homemade Hard Pretzels
+    url: https://www.foodnetwork.com/recipes/alton-brown/homemade-hard-pretzels-recipe-1947937
+  - name: Best Mustard Ever
+    url: https://www.foodnetwork.com/recipes/alton-brown/best-mustard-ever-recipe-1948184
+
+- title: Coconut Cake Revival
+  season: 11
+  number: 3
+  recipes:
+  - name: Coconut Cake with 7-Minute Frosting
+    url: https://www.foodnetwork.com/recipes/alton-brown/coconut-cake-with-7-minute-frosting-recipe-1953530
+  - name: Coconut Milk and Cream
+    url: https://www.foodnetwork.com/recipes/alton-brown/coconut-milk-and-cream-recipe-1953761
+  - name: Coconut Extract
+    url: https://www.foodnetwork.com/recipes/alton-brown/coconut-extract-recipe-1948092
+
+- title: Sub Standards
+  season: 11
+  number: 4
+  recipes:
+  - name: The Chewy Gluten Free
+    url: https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962
+  - name: Southern Biscuits
+    url: https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe3-1948203
+  - name: Faux Peanut Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/faux-peanut-sauce-recipe-1947832
+
+- title: Fishn' Whole
+  season: 11
+  number: 5
+  recipes:
+  - name: Pan-Fried Smelts
+    url: https://www.foodnetwork.com/recipes/alton-brown/pan-fried-smelts-recipe-1948128
+  - name: Plank Grilled Whole Trout
+    url: https://www.foodnetwork.com/recipes/alton-brown/plank-grilled-whole-trout-recipe-1917910
+  - name: Whole Striped Bass
+    url: https://www.foodnetwork.com/recipes/alton-brown/whole-striped-bass-recipe-1948021
+
+- title: Whithering Bites
+  season: 11
+  number: 6
+  recipes:
+  - name: Dried Fruit
+    url: https://www.foodnetwork.com/recipes/alton-brown/dried-fruit-recipe-1947942
+  - name: Individual Fruit Compote Pies
+    url: https://www.foodnetwork.com/recipes/alton-brown/individual-fruit-compote-pies-recipe-1948075
+  - name: Sweet Dried Fruit Compote
+    url: https://www.foodnetwork.com/recipes/alton-brown/sweet-dried-fruit-compote-recipe-1948126
+  - name: Trail Mix
+    url: https://www.foodnetwork.com/recipes/alton-brown/trail-mix-recipe-1947964
+
+- title: Stew Romance
+  season: 11
+  number: 7
+  recipes:
+  - name: Good Eats Beef Stew
+    url: https://www.foodnetwork.com/recipes/alton-brown/good-eats-beef-stew-recipe-1948778
+
+- title: Dill-icious
+  season: 11
+  number: 8
+  recipes:
+  - name: Deep-Fried Pickles
+    url: https://www.foodnetwork.com/recipes/alton-brown/deep-fried-pickles-recipe-1950674
+  - name: Dill Pickles
+    url: https://www.foodnetwork.com/recipes/alton-brown/dill-pickles-recipe-1950656
+  - name: Kookickles
+    url: http://www.goodeatsfanpage.com/season11/ea1110.htm#Koolickle
+
+- title: Peanut Gallery
+  season: 11
+  number: 9
+  recipes:
+  - name: Boiled Peanuts
+    url: https://www.foodnetwork.com/recipes/alton-brown/boiled-peanuts-recipe-1950535
+  - name: Boiled Peanut Soup
+    url: https://www.foodnetwork.com/recipes/alton-brown/boiled-peanut-soup-recipe-1950208
+  - name: Roasted Peanuts
+    url: https://www.foodnetwork.com/recipes/alton-brown/roasted-peanuts-recipe-1950513
+  - name: Homemade Peanut Butter
+    url: https://www.foodnetwork.com/recipes/alton-brown/homemade-peanut-butter-recipe-1950478
+  - name: Peanut Butter Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/peanut-butter-pie-recipe-1952849
+
+- title: Bean Stalker
+  season: 11
+  number: 10
+  recipes:
+  - name: Best Ever Green Bean Casserole
+    url: https://www.foodnetwork.com/recipes/alton-brown/best-ever-green-bean-casserole-recipe-1950575
+
+- title: Kinda Blue
+  season: 11
+  number: 11
+  recipes:
+  - name: Blueberry Buckle
+    url: https://www.foodnetwork.com/recipes/alton-brown/blueberry-buckle-recipe-2012987
+  - name: Frozen Blueberry Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/frozen-blueberry-pie-recipe-1953888
+  - name: Blueberry Soda
+    url: https://www.foodnetwork.com/recipes/alton-brown/blueberry-soda-recipe-1950476
+
+- title: Puff The Magic Mallow
+  season: 11
+  number: 12
+  recipes:
+  - name: Homemade Marshmallows
+    url: https://www.foodnetwork.com/recipes/alton-brown/homemade-marshmallows-recipe-1953933
+  - name: Ambrosia
+    url: https://www.foodnetwork.com/recipes/alton-brown/ambrosia-recipe-1950306
+
+- title: American Slicer
+  season: 11
+  number: 13
+  recipes:
+  - name: Gazpacho
+    url: https://www.foodnetwork.com/recipes/alton-brown/gazpacho-recipe-1937573
+
+- title: The Wing and I
+  season: 11
+  number: 14
+  recipes:
+  - name: Orange Glazed Chicken Wings
+    url: https://www.foodnetwork.com/recipes/alton-brown/orange-glazed-chicken-wings-recipe-1937362
+  - name: Buffalo Wings
+    url: https://www.foodnetwork.com/recipes/alton-brown/buffalo-wings-recipe-1937515
+
+- title: Apple of My Pie
+  season: 11
+  number: 15
+  recipes:
+  - name: Super Apple Pie
+    url: https://www.foodnetwork.com/recipes/alton-brown/super-apple-pie-recipe-1953451
+
+- title: If It Ain't Broccoli, Don't Fix It
+  season: 11
+  number: 16
+  recipes:
+  - name: Fresh Broccoli Salad
+    url: https://www.foodnetwork.com/recipes/alton-brown/fresh-broccoli-salad-recipe-1908498
+  - name: Pan Steamed Broccoli
+    url: https://www.foodnetwork.com/recipes/pan-steamed-broccoli-recipe-1937965
+  - name: Oven Roasted Broccoli
+    url: https://www.foodnetwork.com/recipes/alton-brown/oven-roasted-broccoli-recipe-1937809
+
+- title: The Alton Crown Affair
+  season: 11
+  number: 17
+  recipes:
+  - name: Crown Roast of Lamb
+    url: https://www.foodnetwork.com/recipes/alton-brown/crown-roast-of-lamb-recipe-2082917
