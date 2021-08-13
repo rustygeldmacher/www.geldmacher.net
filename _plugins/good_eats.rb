@@ -1,4 +1,5 @@
 require 'yaml'
+require_relative 'progress_bar'
 
 module Jekyll
   module GoodEats
@@ -21,6 +22,79 @@ module Jekyll
             hash[season] << episode
           end
         end
+      end
+    end
+
+    class Progress < Liquid::Tag
+      def initialize(tag_name, text, tokens)
+        super
+        @season = text.to_i
+      end
+
+      def render(context)
+        current_season = Jekyll::ProgressBarHelper.render_bar(
+          'Current Season Recipes',
+          stats[:current_season_cooked],
+          stats[:current_season_recipes]
+        )
+
+        overall_recipes = Jekyll::ProgressBarHelper.render_bar(
+          'Total Recipes',
+          stats[:total_cooked],
+          stats[:total_recipes]
+        )
+
+        overall_seasons = Jekyll::ProgressBarHelper.render_bar(
+          'Seasons',
+          stats[:seasons_cooked],
+          stats[:total_seasons]
+        )
+
+        [current_season, overall_recipes, overall_seasons].join("\n")
+      end
+
+      def stats
+        @stats ||= calculate_stats(@season)
+      end
+
+      def calculate_stats(current_season)
+        stats_hash = {
+          total_recipes: 0,
+          total_cooked: 0,
+          seasons_cooked: 0,
+          total_seasons: GoodEats::Index.index.keys.max,
+          current_season_recipes: 0,
+          current_season_cooked: 0
+        }
+
+        GoodEats::Index.index.each do |season, episodes|
+          season_total_recipes = 0
+          season_cooked_recipes = 0
+
+          episodes.each do |episode|
+            episode['recipes'].each do |recipe|
+              season_total_recipes += 1
+
+              if recipe['cooked_on']
+                season_cooked_recipes += 1
+              end
+            end
+          end
+
+          if season == current_season
+            stats_hash[:current_season_recipes] = season_total_recipes
+            stats_hash[:current_season_cooked] = season_cooked_recipes
+          end
+
+          stats_hash[:total_recipes] += season_total_recipes
+          stats_hash[:total_cooked] += season_cooked_recipes
+
+          if season_cooked_recipes == season_total_recipes
+            stats_hash[:seasons_cooked] += 1
+          end
+        end
+
+        stats_hash
       end
     end
 
@@ -94,4 +168,5 @@ module Jekyll
   end
 end
 
+Liquid::Template.register_tag('good_eats_progress', Jekyll::GoodEats::Progress)
 Liquid::Template.register_tag('good_eats_season_table', Jekyll::GoodEats::SeasonTable)

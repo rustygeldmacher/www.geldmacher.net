@@ -15,11 +15,7 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% progress_bar 12 27 %} Current Season Recipes {% endprogress_bar %}
-
-{% progress_bar 12 643 %} Total Recipes {% endprogress_bar %}
-
-{% progress_bar 0 16 %} Seasons {% endprogress_bar %}
+{% good_eats_progress 1 %}
 
 ## Current Season: 1
 
