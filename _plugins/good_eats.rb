@@ -111,13 +111,17 @@ module Jekyll
 
         <<~HTML
           <table>
-            <tr>
-              <th>Date</th>
-              <th>Recipe</th>
-              <th>Crowd</th>
-              <th>Ease</th>
-            </tr>
-            #{render_rows}
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Recipe</th>
+                <th>Crowd</th>
+                <th>Ease</th>
+              </tr>
+            </thead>
+            <tbody>
+              #{render_rows}
+            </tbody>
           </table>
         HTML
       end

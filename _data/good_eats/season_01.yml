@@ -90,6 +90,10 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
   - name: Key Lime Sorbet
     url: https://www.foodnetwork.com/recipes/alton-brown/key-lime-sorbet-recipe-1938398
+    cooked_on: 2021-08-13
+    post: 2021-08-13-key-lime-sorbet
+    crowd: 2
+    ease: 3
 
 - title: The Dough Also Rises
   season: 1
@@ -97,6 +101,10 @@
   recipes:
   - name: Southern Biscuits
     url: https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe3-1948203
+    cooked_on: 2021-08-12
+    post: 2021-08-12-biscuits
+    crowd: 5
+    ease: 3
   - name: Scones
     url: https://www.foodnetwork.com/recipes/scones-recipe-1910399
   - name: Shortcake
@@ -110,6 +118,10 @@
     url: https://www.foodnetwork.com/recipes/gravy-from-roast-drippings-recipe-1951306
   - name: Sawmill Gravy
     url: https://www.foodnetwork.com/recipes/alton-brown/sawmill-gravy-recipe-1938562
+    cooked_on: 2021-08-14
+    post: 2021-08-14-sawmill-gravy
+    crowd: 4
+    ease: 4
   - name: White Roux
     url: https://www.foodnetwork.com/recipes/white-roux-recipe-1939081
 
@@ -156,6 +168,10 @@
   recipes:
   - name: Rice Pilaf
     url: https://www.foodnetwork.com/recipes/rice-pilaf-recipe0-1910453
+    cooked_on: 2021-08-15
+    post: 2021-08-15-power-to-the-pilaf
+    crowd: 4
+    ease: 4
 
 - title: Art of Darkness
   season: 1
