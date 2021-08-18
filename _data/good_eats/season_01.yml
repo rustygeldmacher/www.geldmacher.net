@@ -9,6 +9,9 @@
     post: 2021-08-02-02-rib-eye-and-caesar
     crowd: 4
     ease: 4
+    notes:
+    - When not putting steaks on the grill, this is pretty much exactly how I
+      usually do steaks.
 
 - title: This Spud's For You
   season: 1
@@ -20,6 +23,9 @@
     post: 2021-07-24-starting-season-1
     crowd: 4
     ease: 5
+    notes:
+    - Would rarely think of doing baked potatoes, but they were great
+    - An hour plus cooking, though, means they'll probably stay a rarity
   - name: Potato/Portobello Gratin
     url: https://www.foodnetwork.com/recipes/potatoportobello-gratin-recipe-2131294
   - name: Mashers
@@ -28,6 +34,10 @@
     post: 2021-08-09-broiled-chicken-and-mashers
     crowd: 4
     ease: 4
+    notes:
+    - Really liked these. Using both russets and red potatoes is a great move.
+    - Not our all-time-favorite mashed but they were up there. I don't usually have
+      buttermilk on hand but this is a good use for it.
 
 - title: The Egg-Files
   season: 1
@@ -39,6 +49,9 @@
     post: 2021-08-03-eggs-and-ice-cream
     crowd: 5
     ease: 5
+    notes:
+    - My all time favorite way to eat eggs, and though I didn't remember it until today,
+      I've been using this exact method for decades.
   - name: Lemon Curd
     url: https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621
   - name: Scrambled Eggs Unscrambled
@@ -47,6 +60,12 @@
     post: 2021-08-02-01-unscrambled
     crowd: 3
     ease: 4
+    notes:
+    - No crowd this time, just for my own lunch.
+    - AB says to cook only until there's no more liquid in the pan, then transfer
+      to the plate. To me, that leaves the eggs a little too runny for my taste.
+      I usually cook them a little bit longer, which I like better, so that's why
+      I gave this a 3 out of 5.
 
 - title: Salad Daze
   season: 1
@@ -58,12 +77,18 @@
     post: 2021-07-24-starting-season-1
     crowd: 3
     ease: 5
+    notes:
+    - This was light and tangy, and dead simple to put together.
+    - We do a similar dressing with lemon olive oil and white wine vinegar that we like better
   - name: Hail Caesar Salad
     url: https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267
     cooked_on: 2021-08-02
     post: 2021-08-02-02-rib-eye-and-caesar
     crowd: 3
     ease: 4
+    notes:
+    - Pretty good "classic" restaurant style Caesar dressing. Not bad, though we've
+      had better (even homemade) Caesar before.
 
 - title: A Bird In The Pan
   season: 1
@@ -75,6 +100,16 @@
     post: 2021-08-09-broiled-chicken-and-mashers
     crowd: 3
     ease: 3
+    notes:
+    - The recipe calls for a 3-4 pound chicken, but the smallest I could get
+      was a 5 pounder. The chicken came out really moist and tender, however
+      I had to add an extra 20-25 minutes to the cook time to get it to temp.
+      That's expected, because the recipe is for a smaller bird.
+    - We think it would have been much better if it used way less pepper. It
+      came out so peppery that I had to wash off my daughter's portion.
+    - AB says that the veggies give all they had during cooking but we ate
+      the carrots anyway -- they weren't bad!
+    - The jus was fantastic! Next time I will turn it into a gravy.
 
 - title: Churn Baby Churn
   season: 1
@@ -86,6 +121,11 @@
     post: 2021-08-03-eggs-and-ice-cream
     crowd: 5
     ease: 3
+    notes:
+    - This ice cream was so incredibly tasty, the tiny touch of peach flavor is an
+      awesome addition.
+    - Found out later that in the episode AB added a pinch of kosher salt, which I
+      didn't do here. Would like to give a shot next time.
   - name: Coffee Granita
     url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
   - name: Key Lime Sorbet
@@ -94,6 +134,9 @@
     post: 2021-08-13-key-lime-sorbet
     crowd: 2
     ease: 3
+    notes:
+    - Used lime marmalade from <a href="https://www.amazon.com/gp/product/B00CUH19MY">here</a>
+    - I may have given it a 3 but everyone else was a 2 so I went with the crowd on this one.
 
 - title: The Dough Also Rises
   season: 1
@@ -103,8 +146,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe3-1948203
     cooked_on: 2021-08-12
     post: 2021-08-12-biscuits
-    crowd: 5
     ease: 3
+    crowd: 5
+    notes:
+    - Biscuits were more "cakey" than "flakey" but that's fine -- I think that's the
+      intention for this recipe anyway.
+    - They are SO good, even the GF ones are fantastic.
   - name: Scones
     url: https://www.foodnetwork.com/recipes/scones-recipe-1910399
   - name: Shortcake
@@ -122,6 +169,9 @@
     post: 2021-08-14-sawmill-gravy
     crowd: 4
     ease: 4
+    notes:
+    - Served this over the Southern Biscuits we made earlier in the week
+    - Used low fat milk (1%) and it was still great
   - name: White Roux
     url: https://www.foodnetwork.com/recipes/white-roux-recipe-1939081
 
@@ -142,12 +192,23 @@
     post: 2021-07-24-starting-season-1
     crowd: 4
     ease: 2
+    notes:
+    - These were fantastic, would definitely make them again.
+    - Did the spice mix like in the show for Gemma and me, and just salt for Vivian.
+      Both variations were a hit.
+    - Preparation was a pain though -- the steaks had a ton of pin bones and try as I might
+      I couldn't get them all. Tying them was a bit tricky, had do do a couple twice before
+      they held together.
   - name: Pan Fried Fish
     url: https://www.foodnetwork.com/recipes/pan-fried-fish-recipe-1910675
     cooked_on: 2021-07-29
     post: 2021-07-29-fish-and-pasta
     crowd: 4
     ease: 4
+    notes:
+    - Used a large (1 pound) skin-on haddock fillet
+    - Definitely a great weeknight fish recipe, very easy with relatively few steps
+    - Loved the butter/caper sauce
   - name: Striped Bass in Salt Dome
     url: https://www.foodnetwork.com/recipes/striped-bass-in-salt-dome-recipe-1939160
 
@@ -161,6 +222,8 @@
     post: 2021-07-29-fish-and-pasta
     crowd: 4
     ease: 4
+    notes:
+    - Liked this simple preparation a lot!
 
 - title: Power to the Pilaf
   season: 1
@@ -172,6 +235,9 @@
     post: 2021-08-15-power-to-the-pilaf
     crowd: 4
     ease: 4
+    notes:
+    - Had to skip the red pepper because when I cut it open, there were a bunch
+      of bugs crawling around inside -- yuck.
 
 - title: Art of Darkness
   season: 1

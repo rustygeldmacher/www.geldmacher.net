@@ -2,6 +2,9 @@
 date: 2021-08-03
 title: Eggs Over Easy & Serious Vanilla Ice Cream
 layout: good_eats_post
+recipes:
+- Eggs Over Easy
+- Serious Vanilla Ice Cream
 tags:
 - goodeats
 - season_1
@@ -20,21 +23,5 @@ served on top of a slice of vanilla pound cake with some sliced peaches
 and whipped cream to top it all off.
 
 <a href="https://photos.google.com/photo/AF1QipP1cqx-q3NWk8H7UOuItmr7I4ip_OabT2dfo3ge"><img src="https://lh3.googleusercontent.com/jilHPO2vaOXTThpZOAVBv6unhip5vB4O3P_o56iuLOhudG3MAhj-CyghypqhKMoSQ7_stn5ugOcbI3EXs3_sgSoX0RpMhdf6VB0oS1KVXLQiC6XtbhZQQ9RAL3NCA_Eou5D6UzcFNF6D9ulQKHtsJdrV0zRXjcd924xDyqIOU_L4D5h9P-7Uh9D_tEz27yDLImvqQ9ILZAwLGXMQX1Dygrhp1bayRI4lFs85R36Qb3Vo7O_xocuUChLD9q0fUrDb69Pr_OAB20gwTm1jP9MgFcEwHy9cBIyC49Sjw4ByrFoK4csSHsFUv2Z4i3ko3B6vODR0IW2iicLIpgNAHj11gEP4tWA0kIslg4xGjaua6uuaVVDleU_1ypDW5nuuKaiBEMEZmC4xteeBiUej3RmyLWzJynXJiMSLqHkKum4sPzIqR_5bQsbtFR1JInCVTCm-w7pj6ghmJqt9HMXmehZjwNqkzz2HAF5MRB9GQdCmtFlduv-3g24jgk83uvjArSdPeJkGN4Qt2NKnF_xqcnvxZMdeg_boQAAr7lveQGsVCS7ucEj53UqCLVbOEtW-pY40v25ltibh9aZ1fGJzxZT1-0qOdJy0QW8eveOQhCX4ACUTEsIOzy-iXOd0svSGSNCS6r_dVtkQzvA_y6THRW9ySkureHwgejyXpq_sGNNWaJxO2ThI6U1yawcePt484E5_rPp18DFM9EJ3P76hUcRvOjy5=w300-no" /></a>
-
-### Eggs Over Easy
-
-* **Crowd**: 5/5
-* **Ease**: 5/5
-* My all time favorite way to eat eggs, and though I didn't remember it until today,
-  I've been using this exact method for decades.
-
-### Serious Vanilla Ice Cream
-
-* **Crowd**: 5/5
-* **Ease**: 3/5
-* This ice cream was so incredibly tasty, the tiny touch of peach flavor is an
-  awesome addition.
-* Found out later that in the episode AB added a pinch of kosher salt, which I
-  didn't do here. Would like to give a shot next time.
 
 Two 5-for-5 recipes in a day!

@@ -12,6 +12,17 @@ module Jekyll
         index[season]
       end
 
+      def self.recipes
+        @recipes ||= index.each_with_object({}) do |(_, episodes), hash|
+          episodes.each do |episode|
+            episode['recipes'].each do |recipe|
+              recipe_name = recipe['name']
+              hash[recipe_name] = recipe
+            end
+          end
+        end
+      end
+
       def self.load_index
         data_files = File.expand_path('../../_data/good_eats/*.yml', __FILE__)
         Dir[data_files].each_with_object({}) do |filename, hash|
@@ -23,6 +34,41 @@ module Jekyll
           end
         end
       end
+    end
+
+    class RecipeNotes < Liquid::Tag
+      def render(context)
+        recipe_notes = []
+        recipes = Array(context['page']['recipes'])
+
+        recipes.each do |recipe_name|
+          recipe = GoodEats::Index.recipes[recipe_name]
+          if recipe.nil?
+            raise "Can't find recipe for: #{recipe_name}"
+          end
+          # puts recipe.inspect
+          recipe_notes << render_recipe(recipe)
+        end
+
+        recipe_notes.join("\n")
+      end
+
+      def render_recipe(recipe)
+        html = <<~HTML
+          <h3>#{recipe['name']}</h3>
+          <ul>
+            <li><strong>Crowd</strong>: #{recipe['crowd']}/5</li>
+            <li><strong>Ease</strong>: #{recipe['ease']}/5</li>
+            #{render_notes(recipe)}
+          </ul>
+        HTML
+      end
+
+      def render_notes(recipe)
+        notes = Array(recipe['notes'])
+        notes.map { |n| "<li>#{n}</li>" }.join("\n")
+      end
+
     end
 
     class Progress < Liquid::Tag
@@ -174,3 +220,4 @@ end
 
 Liquid::Template.register_tag('good_eats_progress', Jekyll::GoodEats::Progress)
 Liquid::Template.register_tag('good_eats_season_table', Jekyll::GoodEats::SeasonTable)
+Liquid::Template.register_tag('good_eats_recipe_notes', Jekyll::GoodEats::RecipeNotes)
