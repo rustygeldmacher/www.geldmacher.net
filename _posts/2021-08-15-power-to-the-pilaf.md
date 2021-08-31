@@ -9,7 +9,7 @@ tags:
 - season_1
 ---
 
-I've been looking forward to making AB's [Rice Pilaf](https://www.foodnetwork.com/recipes/rice-pilaf-recipe0-1910453)
+I've been looking forward to making AB's {% good_eats_recipe_link Rice Pilaf %}
 and today I figured I'd bring all the stuff down to my folks' place and make
 it along with our dinner. Served it with some grilled chicken and veggies. Everyone
 loved it -- will definitely do rice this way again.

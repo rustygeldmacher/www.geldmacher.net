@@ -23,6 +23,14 @@ module Jekyll
         end
       end
 
+      def self.recipe_url(recipe_name)
+        recipe = GoodEats::Index.recipes[recipe_name]
+        if recipe.nil?
+          raise "Couldn't find recipe: #{recipe_name}"
+        end
+        recipe['url']
+      end
+
       def self.load_index
         data_files = File.expand_path('../../_data/good_eats/*.yml', __FILE__)
         Dir[data_files].each_with_object({}) do |filename, hash|
@@ -33,6 +41,20 @@ module Jekyll
             hash[season] << episode
           end
         end
+      end
+    end
+
+    class RecipeLink < Liquid::Tag
+      attr_reader :recipe_name
+
+      def initialize(tag_name, text, tokens)
+        super
+        @recipe_name = text.strip
+      end
+
+      def render(context)
+        recipe_url = GoodEats::Index.recipe_url(recipe_name)
+        "<a href=\"#{recipe_url}\">#{recipe_name}</a>"
       end
     end
 
@@ -221,3 +243,4 @@ end
 Liquid::Template.register_tag('good_eats_progress', Jekyll::GoodEats::Progress)
 Liquid::Template.register_tag('good_eats_season_table', Jekyll::GoodEats::SeasonTable)
 Liquid::Template.register_tag('good_eats_recipe_notes', Jekyll::GoodEats::RecipeNotes)
+Liquid::Template.register_tag('good_eats_recipe_link', Jekyll::GoodEats::RecipeLink)

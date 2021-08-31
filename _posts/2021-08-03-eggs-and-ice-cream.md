@@ -12,13 +12,12 @@ tags:
 
 Not in the same meal, though.
 
-Kept the "breakfast for lunch" train rolling with some
-[eggs over easy](https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248).
+Kept the "breakfast for lunch" train rolling with some {% good_eats_recipe_link Eggs Over Easy %}.
 
 <a href="https://photos.google.com/photo/AF1QipMmIvFgYYRCkpEXKQoRF58RlLeUagwIi5s5Joa9"><img src="https://lh3.googleusercontent.com/P34pd76ITw8Thpb3iXe8gpL7exsGNX_oEBEANY3Z4_iQe9EpSo0-GvjidX496RGXnjmBfk0dxwjnopNxfkQQvGJPIV3zJbtGIWh5JkcD3Jn3FNbVLk19hO_TL2fpe4akq41doWde_PjaDA0dBpMKpLi1DlO62P-XFbJrMw_GxATDZzLyJpQkuq70Cfh6fu-v6nTC39L81_QSnaq5JVfLazK74ZsIa-8xRlOUuONGdJisr0cFP1Vzu7mNMLpMp-oDiDyKZtO35226WQ41Ul3an3ZjClBTeE0zgiJz0C0WK5Q2xbsT0pkAVifSFcOZDHAIFDGZ_dkaUs0eVuBybUVpQeGFAXWv6BFKsrZixnZCy76NtFfDmaewfyDvdKRx942NgBGN64nnrHeWcJDr40jgoFz5V0Vs-qTWFTwI_UXAUPwuH5Tufcaxu5JXRQLRcW0IlNDxlGfn0vQSxaTm7xpLc20gSOOUHGVv9iZKr2jtX_HYLKEPLs_DXoKOUDncDCh_xN2WNhGjLVGAPK5SHPmKFjx3IGT52qf31B5R0j6OC6HLnbZ2JFojkqyi3UHnjZjN2teHe0d1_Gh-1w5IaJ45U2x2M1W-0S_GiQuyasmNsDizu6WVV3X1_emZN1t18YlHHO2AOeLEi9sSolgpGlDxjM5TCTX1H7vJpbEMqQL5qFC-jKhXC6GNCC7c1LLLOUGdRrTsdY9nIeqFmxkciIElgsLb=w300-no" /></a>
 
 Then for dessert with tonight's dinner, we did Alton's
-[serious vanilla ice cream](https://www.foodnetwork.com/recipes/alton-brown/serious-vanilla-ice-cream-recipe-1909819)
+{% good_eats_recipe_link Serious Vanilla Ice Cream %}
 served on top of a slice of vanilla pound cake with some sliced peaches
 and whipped cream to top it all off.
 

@@ -12,8 +12,8 @@ recipes:
 
 Continuing on with Season 1, the next couple recipes went into tonight's dinner:
 
-* [Pan Fried Fish](https://www.foodnetwork.com/recipes/pan-fried-fish-recipe-1910675)
-* [Pasta](https://www.foodnetwork.com/recipes/alton-brown/pasta-recipe1-1939124)
+* {% good_eats_recipe_link Pan Fried Fish %}
+* {% good_eats_recipe_link Pasta %}
 
 We usually prepare pasta with just butter and cheese, but this prepartion was a good
 change of pace. Combined with roasted broccoli, this was a quick and easy weeknight dinner.

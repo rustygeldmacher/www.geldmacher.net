@@ -9,7 +9,7 @@ tags:
 - season_1
 ---
 
-[Sawmill Gravy](https://www.foodnetwork.com/recipes/alton-brown/sawmill-gravy-recipe-1938562),
+{% good_eats_recipe_link Sawmill Gravy %}
 a.k.a. sausage gravy, has been a camping staple for us for years,
 though it's always been Dan who makes it. This was my first attempt at it, and
 I'm so glad I know how to make it now. Will definitely pull this one out some
