@@ -163,6 +163,14 @@
     - They are SO good, even the GF ones are fantastic.
   - name: Scones
     url: https://www.foodnetwork.com/recipes/scones-recipe-1910399
+    cooked_on: 2021-08-31
+    post: 2021-08-31-scones
+    ease: 3
+    crowd: 4
+    notes:
+    - Used dried cranberries
+    - The last of the quick bread recipes, these scones were as crumbly as other ones
+      I've had but a bit less dense. Very good recipe!
   - name: Shortcake
     url: https://www.foodnetwork.com/recipes/shortcake-recipe-1910146
     cooked_on: 2021-08-19
