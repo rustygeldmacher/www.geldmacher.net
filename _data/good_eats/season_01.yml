@@ -231,6 +231,18 @@
   recipes:
   - name: French Onion Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/french-onion-soup-recipe-1939059
+    cooked_on: 2021-09-11
+    post: 2021-09-11-onion-soup
+    crowd: 4
+    ease: 2
+    notes:
+    - Used 5lb of onions total -- 3 pounds of Vidalia and 2 pounds of reds.
+    - Cutting up 5lb of onions is a terrible job, and I'd recommend that folks trying this
+      recipe cut them before anyone else is around. People near the kitchen were all
+      having a tough time of it.
+    - Topped w/ shredded gruyere.
+    - Skipped the cognac, though I'm not sure it made a difference. The soup was still
+      amazing!
 
 - title: Hook, Line and Dinner
   season: 1
