@@ -147,6 +147,13 @@
       didn't do here. Would like to give a shot next time.
   - name: Coffee Granita
     url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
+    cooked_on: 2021-09-17
+    post: 2021-09-17-coffee-granita
+    crowd: 3
+    ease: 2
+    notes:
+    - This was pretty good, much better that we thought it'd be. Probably won't crave it
+      when the weather gets war, but will be a good one to bring out now and then.
   - name: Key Lime Sorbet
     url: https://www.foodnetwork.com/recipes/alton-brown/key-lime-sorbet-recipe-1938398
     cooked_on: 2021-08-13
