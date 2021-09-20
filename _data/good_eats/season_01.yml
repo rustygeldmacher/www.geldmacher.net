@@ -314,5 +314,12 @@
   recipes:
   - name: Chocolate Mousse
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-mousse-recipe-1951938
+    cooked_on: 2021-09-18
+    post: 2021-09-18-chocolate-mousse
+    crowd: 4
+    ease: 3
+    notes:
+    - Really good, and very rich. To help cut the richness a bit we served this with some
+      whipped cream and sliced strawberries.
   - name: Chocolate Lava Muffins
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-lava-muffins-recipe2-1913655
