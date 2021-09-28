@@ -150,7 +150,7 @@
     cooked_on: 2021-09-17
     post: 2021-09-17-coffee-granita
     crowd: 3
-    ease: 2
+    ease: 4
     notes:
     - This was pretty good, much better that we thought it'd be. Probably won't crave it
       when the weather gets war, but will be a good one to bring out now and then.
@@ -323,3 +323,11 @@
       whipped cream and sliced strawberries.
   - name: Chocolate Lava Muffins
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-lava-muffins-recipe2-1913655
+    cooked_on: 2021-09-26
+    post: 2021-09-26-lava-muffins
+    crowd: 4
+    ease: 3
+    notes:
+    - Filled up muffin tins almost to the top, rather than using a 4-ounce scoop, so I got only
+      8 or 9 of them.
+    - Cooked for 13 minutes instead of 10, probably could have gone to 15
