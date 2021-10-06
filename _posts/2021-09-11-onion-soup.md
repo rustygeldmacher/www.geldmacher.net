@@ -10,7 +10,7 @@ tags:
 ---
 
 Years and years ago I got an electric skillet for Christmas. Opening the
-gift I _immediately_ thought of the Good Eats {{ good_eats_recipe_link Onion Soup }}
+gift I _immediately_ thought of the Good Eats {% good_eats_recipe_link French Onion Soup %}
 recipe. I never found a use for the skillet, but I always kept it stashed
 away in the hopes that one day I'd use it for making this soup.
 

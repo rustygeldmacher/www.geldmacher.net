@@ -9,7 +9,7 @@ tags:
 - season_1
 ---
 
-I tried making the {{ good_eats_recipe_link Chocolate Mousse }} a couple weeks ago
+I tried making the {% good_eats_recipe_link Chocolate Mousse %} a couple weeks ago
 and the attempt failed miserably. When I went to fold the whipped cream into the
 chocolate, I ended up with a soupy mess. I think I didn't let the chocolate cool
 enough and the whipped cream melted.
