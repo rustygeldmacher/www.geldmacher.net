@@ -1,5 +1,5 @@
 ---
-date: 2021-09-26
+date: 2021-10-05
 title: Season One Finale - Fish in a Salt Dome
 layout: good_eats_post
 recipes:
