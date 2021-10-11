@@ -1,4 +1,4 @@
-_site
+_site*
 release.tar.gz
 resume/index.html
 resume/RustyGeldmacher.pdf

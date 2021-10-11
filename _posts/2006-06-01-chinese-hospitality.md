@@ -1,8 +1,7 @@
 ---
 date: 2006-06-01
 layout: post
-slug: chinese-hosptitality
-title: Chinese Hosptitality
+title: Chinese Hospitality
 tags: life_and_travel
 ---
 

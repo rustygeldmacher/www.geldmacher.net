@@ -1,7 +1,6 @@
 ---
 date: 2006-05-30
 layout: post
-slug: shanghai-day-one
 title: Shanghai, Day One
 tags: life_and_travel
 ---
