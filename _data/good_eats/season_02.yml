@@ -5,6 +5,14 @@
   recipes:
   - name: Free Range Fruitcake
     url: https://www.foodnetwork.com/recipes/alton-brown/free-range-fruitcake-recipe-1926833
+    cooked_on: 2021-10-09
+    post: 2021-10-12-a-weekend-of-good-eats
+    crowd: 2
+    ease: 2
+    notes:
+    - I only have an 8-inch loaf pan so I used the remaining batter in muffin tins. If
+      I were going to do this again, I'd make them all muffins.
+    - This was the only time I've had fruitcake, and probably will be the last.
 
 - title: For Whom the Cheese Melts
   season: 2
@@ -23,6 +31,15 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/its-a-wonderful-waldorf-recipe-1950876
   - name: 10 Minute Apple Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/10-minute-apple-sauce-recipe-1950796
+    cooked_on: 2021-10-10
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 3
+    ease: 4
+    notes:
+    - Before hitting it with the immersion blender I poured off all the liquid. Once I started
+      blending, I poured the liquid into the bowl to help blend. This got me a great sauce
+      consistency and I think had I left all the liquid in, it would have been more like a
+      soup than a sauce.
   - name: Baker, Baker
     url: https://www.foodnetwork.com/recipes/alton-brown/baker-baker-recipe-1950763
 
@@ -39,8 +56,21 @@
   recipes:
   - name: The Fungal Saute
     url: https://www.foodnetwork.com/recipes/alton-brown/the-fungal-saute-recipe-1950881
+    cooked_on: 2021-10-08
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 4
+    ease: 4
+    notes:
+    - Used half of the recipe to put on pizza, and it was great!
+    - Used the other half for stuff mushrooms
   - name: That Ol' Cap Magic
     url: https://www.foodnetwork.com/recipes/alton-brown/that-ol-cap-magic-recipe-1927723
+    cooked_on: 2021-10-09
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 4
+    ease: 3
+    notes:
+    - Used gluten free bread crumbs which worked out just fine
 
 - title: Crust Never Sleeps
   season: 2
@@ -55,6 +85,12 @@
   recipes:
   - name: True Brew
     url: https://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe-2103279
+    cooked_on: 2021-10-09
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 5
+    ease: 3
+    notes:
+    - What can I say? Chemex makes an awesome cup of coffee.
 
 - title: A Grind is a Terrible Thing to Waste
   season: 2
@@ -62,6 +98,13 @@
   recipes:
   - name: Good Eats Meat Loaf
     url: https://www.foodnetwork.com/recipes/alton-brown/good-eats-meat-loaf-recipe-1937673
+    cooked_on: 2021-10-09
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 3
+    ease: 3
+    notes:
+    - This was good, but a little on the spicy side. Next time will probably leave out
+      the red pepper and chili powder.
   - name: Burger of the Gods
     url: https://www.foodnetwork.com/recipes/alton-brown/burger-of-the-gods-recipe-1906563
 
@@ -99,6 +142,14 @@
   recipes:
   - name: Who Loves Ya Baby-Back?
     url: https://www.foodnetwork.com/recipes/alton-brown/who-loves-ya-baby-back-recipe-1937448
+    cooked_on: 2021-10-11
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 4
+    ease: 3
+    notes:
+    - Made a few substitutions in the rub -- paprika for chili powder, chili powder for cayenne,
+      and garlic powder for jalapeno seasoning.
+    - Could have probably cooked them for another half hour or so
 
 - title: Ear Apparent
   season: 2
@@ -106,7 +157,19 @@
   recipes:
   - name: Better Than Grannie's Creamed Corn
     url: https://www.foodnetwork.com/recipes/alton-brown/better-than-grannies-creamed-corn-recipe-1908071
+    cooked_on: 2021-10-08
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 4
+    ease: 3
+    notes:
+    - No recipe notes on this one, it was great!
   - name: Creamed Corn Cornbread
     url: https://www.foodnetwork.com/recipes/alton-brown/creamed-corn-cornbread-recipe2-1939058
+    cooked_on: 2021-10-10
+    # post: 2021-10-11-a-weekend-of-good-eats
+    crowd: 3
+    ease: 3
+    notes:
+    - Recipe says 20 minutes but it took only about 15.
   - name: Plain Brown Popper
-    url: https://www.foodnetwork.com/recipes/alton-brown/plain-brown-popper-recipe-2047369
+    url: https://www.foodnetwork.com/recipes/alton-brown/plain-brown-popper-recipe2-2125480

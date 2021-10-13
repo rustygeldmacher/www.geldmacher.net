@@ -214,13 +214,24 @@ module Jekyll
         cooked_on = recipe['cooked_on']
         return if cooked_on.nil?
 
-        post_url = if (post_slug = recipe['post'])
-          post_url_tag = Jekyll::Tags::PostUrl.send(:new, 'post_url', recipe['post'], nil)
-          post_url_tag.render(@context)
+        cooked_on = cooked_on.strftime("%-m/%-d/%Y")
+        if post_url = find_post_url(recipe)
+          "<a href=\"#{post_url}\">#{cooked_on}</a>"
+        else
+          cooked_on
+        end
+      end
+
+      def find_post_url(recipe)
+        recipe_name = recipe['name']
+        site = @context.registers[:site]
+
+        matching_post = site.posts.docs.find do |post|
+          recipes = post.data['recipes'] || []
+          recipes.include?(recipe_name)
         end
 
-        cooked_on = cooked_on.strftime("%-m/%-d/%Y")
-        "<a href=\"#{post_url}\">#{cooked_on}</a>"
+        matching_post && matching_post.url
       end
 
       def render_recipe_link(recipe)

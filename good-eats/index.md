@@ -1,6 +1,7 @@
 ---
 body_class: good-eats
 layout: good_eats
+navbar: true
 ---
 
 # Cooking Good Eats
@@ -15,11 +16,11 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% good_eats_progress 1 %}
+{% good_eats_progress 2 %}
 
-## Current Season: 1
+## Current Season: 2
 
-{% good_eats_season_table 1 %}
+{% good_eats_season_table 2 %}
 
 <script type="text/javascript">
     $(function() {
