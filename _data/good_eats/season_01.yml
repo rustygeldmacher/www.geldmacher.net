@@ -6,7 +6,6 @@
   - name: Pan Seared Rib Eye
     url: https://www.foodnetwork.com/recipes/alton-brown/pan-seared-rib-eye-recipe-2131274
     cooked_on: 2021-08-02
-    post: 2021-08-02-02-rib-eye-and-caesar
     crowd: 4
     ease: 4
     notes:
@@ -20,7 +19,6 @@
   - name: The Baked Potato
     url: https://www.foodnetwork.com/recipes/alton-brown/the-baked-potato-recipe1-1908821
     cooked_on: 2021-07-24
-    post: 2021-07-24-starting-season-1
     crowd: 4
     ease: 5
     notes:
@@ -29,7 +27,6 @@
   - name: Potato/Portobello Gratin
     url: https://www.foodnetwork.com/recipes/potatoportobello-gratin-recipe-2131294
     cooked_on: 2021-09-06
-    post: 2021-09-06-gratin
     crowd: 4
     ease: 3
     notes:
@@ -41,7 +38,6 @@
   - name: Mashers
     url: https://www.foodnetwork.com/recipes/alton-brown/mashers-recipe-2013124
     cooked_on: 2021-08-09
-    post: 2021-08-09-broiled-chicken-and-mashers
     crowd: 4
     ease: 4
     notes:
@@ -56,7 +52,6 @@
   - name: Eggs Over Easy
     url: https://www.foodnetwork.com/recipes/alton-brown/eggs-over-easy-recipe2-1938248
     cooked_on: 2021-08-03
-    post: 2021-08-03-eggs-and-ice-cream
     crowd: 5
     ease: 5
     notes:
@@ -65,7 +60,6 @@
   - name: Lemon Curd
     url: https://www.foodnetwork.com/recipes/alton-brown/lemon-curd-recipe-1909621
     cooked_on: 2021-08-19
-    post: 2021-08-19-strawberry-shortcake-parfait
     crowd: 4
     ease: 3
     notes:
@@ -76,7 +70,6 @@
   - name: Scrambled Eggs Unscrambled
     url: https://www.foodnetwork.com/recipes/alton-brown/scrambled-eggs-unscrambled-recipe-1938318
     cooked_on: 2021-08-02
-    post: 2021-08-02-01-unscrambled
     crowd: 3
     ease: 4
     notes:
@@ -93,7 +86,6 @@
   - name: Veni Vedi Vinaigrette
     url: https://www.foodnetwork.com/recipes/veni-vedi-vinaigrette-recipe-1938425
     cooked_on: 2021-07-24
-    post: 2021-07-24-starting-season-1
     crowd: 3
     ease: 5
     notes:
@@ -102,7 +94,6 @@
   - name: Hail Caesar Salad
     url: https://www.foodnetwork.com/recipes/hail-caesar-salad-recipe-1938267
     cooked_on: 2021-08-02
-    post: 2021-08-02-02-rib-eye-and-caesar
     crowd: 3
     ease: 4
     notes:
@@ -116,7 +107,6 @@
   - name: Broiled, Butterflied Chicken
     url: https://www.foodnetwork.com/recipes/alton-brown/broiled-butterflied-chicken-recipe-1951266
     cooked_on: 2021-08-09
-    post: 2021-08-09-broiled-chicken-and-mashers
     crowd: 3
     ease: 3
     notes:
@@ -137,7 +127,6 @@
   - name: Serious Vanilla Ice Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/serious-vanilla-ice-cream-recipe-1909819
     cooked_on: 2021-08-03
-    post: 2021-08-03-eggs-and-ice-cream
     crowd: 5
     ease: 3
     notes:
@@ -148,7 +137,6 @@
   - name: Coffee Granita
     url: https://www.foodnetwork.com/recipes/alton-brown/coffee-granita-recipe-1938493
     cooked_on: 2021-09-17
-    post: 2021-09-17-coffee-granita
     crowd: 3
     ease: 4
     notes:
@@ -157,7 +145,6 @@
   - name: Key Lime Sorbet
     url: https://www.foodnetwork.com/recipes/alton-brown/key-lime-sorbet-recipe-1938398
     cooked_on: 2021-08-13
-    post: 2021-08-13-key-lime-sorbet
     crowd: 2
     ease: 3
     notes:
@@ -171,7 +158,6 @@
   - name: Southern Biscuits
     url: https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe3-1948203
     cooked_on: 2021-08-12
-    post: 2021-08-12-biscuits
     ease: 3
     crowd: 5
     notes:
@@ -181,7 +167,6 @@
   - name: Scones
     url: https://www.foodnetwork.com/recipes/scones-recipe-1910399
     cooked_on: 2021-08-31
-    post: 2021-08-31-scones
     ease: 3
     crowd: 4
     notes:
@@ -191,7 +176,6 @@
   - name: Shortcake
     url: https://www.foodnetwork.com/recipes/shortcake-recipe-1910146
     cooked_on: 2021-08-19
-    post: 2021-08-19-strawberry-shortcake-parfait
     ease: 3
     crowd: 4
     notes:
@@ -206,7 +190,6 @@
   - name: Gravy from Roast Drippings
     url: https://www.foodnetwork.com/recipes/gravy-from-roast-drippings-recipe-1951306
     cooked_on: 2021-08-30
-    post: 2021-08-30-gravy-and-roux
     crowd: 4
     ease: 3
     notes:
@@ -216,7 +199,6 @@
   - name: Sawmill Gravy
     url: https://www.foodnetwork.com/recipes/alton-brown/sawmill-gravy-recipe-1938562
     cooked_on: 2021-08-14
-    post: 2021-08-14-sawmill-gravy
     crowd: 4
     ease: 4
     notes:
@@ -225,7 +207,6 @@
   - name: White Roux
     url: https://www.foodnetwork.com/recipes/white-roux-recipe-1939081
     cooked_on: 2021-08-30
-    post: 2021-08-30-gravy-and-roux
     crowd: 0
     ease: 4
     notes:
@@ -239,7 +220,6 @@
   - name: French Onion Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/french-onion-soup-recipe-1939059
     cooked_on: 2021-09-11
-    post: 2021-09-11-onion-soup
     crowd: 4
     ease: 2
     notes:
@@ -258,7 +238,6 @@
   - name: Grilled Salmon Steaks
     url: https://www.foodnetwork.com/recipes/grilled-salmon-steaks-recipe-1910488
     cooked_on: 2021-07-24
-    post: 2021-07-24-starting-season-1
     crowd: 4
     ease: 2
     notes:
@@ -271,7 +250,6 @@
   - name: Pan Fried Fish
     url: https://www.foodnetwork.com/recipes/pan-fried-fish-recipe-1910675
     cooked_on: 2021-07-29
-    post: 2021-07-29-fish-and-pasta
     crowd: 4
     ease: 4
     notes:
@@ -281,7 +259,6 @@
   - name: Striped Bass in Salt Dome
     url: https://www.foodnetwork.com/recipes/striped-bass-in-salt-dome-recipe-1939160
     cooked_on: 2021-10-05
-    post: 2021-10-05-season-one-finale
     crowd: 5
     ease: 2
     notes:
@@ -300,7 +277,6 @@
   - name: Pasta
     url: https://www.foodnetwork.com/recipes/alton-brown/pasta-recipe1-1939124
     cooked_on: 2021-07-29
-    post: 2021-07-29-fish-and-pasta
     crowd: 4
     ease: 4
     notes:
@@ -313,7 +289,6 @@
   - name: Rice Pilaf
     url: https://www.foodnetwork.com/recipes/rice-pilaf-recipe0-1910453
     cooked_on: 2021-08-15
-    post: 2021-08-15-power-to-the-pilaf
     crowd: 4
     ease: 4
     notes:
@@ -327,7 +302,6 @@
   - name: Chocolate Mousse
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-mousse-recipe-1951938
     cooked_on: 2021-09-18
-    post: 2021-09-18-chocolate-mousse
     crowd: 4
     ease: 3
     notes:
@@ -336,7 +310,6 @@
   - name: Chocolate Lava Muffins
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-lava-muffins-recipe2-1913655
     cooked_on: 2021-09-26
-    post: 2021-09-26-lava-muffins
     crowd: 4
     ease: 3
     notes:
