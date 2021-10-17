@@ -21,6 +21,16 @@
     url: https://www.foodnetwork.com/recipes/fondue-vudu-recipe-1927194
   - name: Big Cheese Squeeze
     url: https://www.foodnetwork.com/recipes/big-cheese-squeeze-recipe-2130025
+    cooked_on: 2021-10-15
+    crowd: 4
+    ease: 2
+    notes:
+    - Used a loaf of rustic sourdough and some 3 year aged cheddar.
+    - The dijon added a nice twang to the sandwich. It probably won't become my go-to
+      grilled cheese method, but I'll probably do it again when I feel like changing
+      things up.
+    - Gave this a 2 for ease because practically, I won't really do grilled cheese using
+      this method again. It was fun, though.
 
 - title: Apple Family Values
   season: 2
@@ -28,6 +38,12 @@
   recipes:
   - name: It's a Wonderful Waldorf
     url: https://www.foodnetwork.com/recipes/alton-brown/its-a-wonderful-waldorf-recipe-1950876
+    cooked_on: 2021-10-16
+    crowd: 3
+    ease: 3
+    notes:
+    - Next time would probably go a little easier on the curry powder and leave out the
+      red onions. The recipe makes a salad with a little more kick than the crowd would prefer.
   - name: 10 Minute Apple Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/10-minute-apple-sauce-recipe-1950796
     cooked_on: 2021-10-10
