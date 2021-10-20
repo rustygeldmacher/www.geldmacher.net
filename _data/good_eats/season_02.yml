@@ -56,6 +56,14 @@
       soup than a sauce.
   - name: Baker, Baker
     url: https://www.foodnetwork.com/recipes/alton-brown/baker-baker-recipe-1950763
+    cooked_on: 2021-10-19
+    crowd: 4
+    ease: 3
+    notes:
+    - Used Fuji apples and it turned out great
+    - Next time would want to try peeling each apple in "stripes" every few inches
+    - Served over ice cream, but need to remember to let them cool a bit more before
+      serving.
 
 - title: Crustacean Nation
   season: 2
