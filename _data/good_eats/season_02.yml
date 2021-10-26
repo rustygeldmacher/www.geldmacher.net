@@ -146,6 +146,13 @@
   recipes:
   - name: Pantry Friendly Tomato Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/pantry-friendly-tomato-sauce-recipe-1951029
+    cooked_on: 2021-10-24
+    crowd: 4
+    ease: 3
+    notes:
+    - Used a stick blender to make give it a consistency of a thicker jarred sauce, rather than
+      leaving a lot of chunks.
+    - Would like to try this without broiling the tomatoes.
 
 - title: Citizen Cane
   season: 2
@@ -188,3 +195,9 @@
     - Recipe says 20 minutes but it took only about 15.
   - name: Plain Brown Popper
     url: https://www.foodnetwork.com/recipes/alton-brown/plain-brown-popper-recipe2-2125480
+    cooked_on: 2021-10-24
+    crowd: 0
+    ease: 4
+    notes:
+    - A good method to pop loose kernels in the microwave
+    - Would experiment a bit more with dressing it up in the future.
