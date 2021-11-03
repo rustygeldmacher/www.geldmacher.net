@@ -125,6 +125,15 @@
       the red pepper and chili powder.
   - name: Burger of the Gods
     url: https://www.foodnetwork.com/recipes/alton-brown/burger-of-the-gods-recipe-1906563
+    cooked_on: 2021-11-1
+    crowd: 4
+    ease: 3
+    notes:
+    - Some of the burgers were amazing, other had a ton of gristle. Next time I need to be
+      way more careful cutting up the steaks so I don't keep anything that would turn to
+      gristle as the burgers cooked.
+    - Probably will add more than just salt to the burger mix next time, too. I like the
+      "steak burger" flavor but I also like burgers with more in the mix.
 
 - title: Fry Hard
   season: 2
