@@ -148,6 +148,12 @@
   recipes:
   - name: Spiced Blueberry Jammin'
     url: https://www.foodnetwork.com/recipes/alton-brown/spiced-blueberry-jammin-recipe-2125574
+    cooked_on: 2021-11-16
+    crowd: 3
+    ease: 3
+    notes:
+    - Left out the star anise because we didn't have any, I couldn't find any at the three
+      local markets, and most of all I'm not crazy about it to begin with.
 
 - title: 'Pantry Raid II: Seeing Red'
   season: 2
