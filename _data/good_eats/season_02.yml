@@ -141,6 +141,13 @@
   recipes:
   - name: Chips and Fish
     url: https://www.foodnetwork.com/recipes/alton-brown/chips-and-fish-recipe-1906657
+    cooked_on: 2021-11-20
+    crowd: 5
+    ease: 2
+    notes:
+    - Used Samuel Adams Boston Lager for the batter. I used a whole 12oz bottle at first,
+      then put it in the fridge fo almost an hour. After taking it out of the fridge I
+      put in another half bottle or so. The batter was a great consistency.
 
 - title: 'Urban Preservation I: Jam Session'
   season: 2
