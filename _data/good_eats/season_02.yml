@@ -71,6 +71,11 @@
   recipes:
   - name: The Shrimp Cocktail
     url: https://www.foodnetwork.com/recipes/alton-brown/the-shrimp-cocktail-recipe-1927450
+    cooked_on: 2021-10-21
+    crowd: 5
+    ease: 3
+    notes:
+    - For the cocktail sauce, used 2 tbl of horseradish instead of 4.
 
 - title: The Fungal Gourmet
   season: 2
