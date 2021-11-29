@@ -19,6 +19,13 @@
   recipes:
   - name: Fondue Vudu
     url: https://www.foodnetwork.com/recipes/fondue-vudu-recipe-1927194
+    cooked_on: 2021-10-23
+    crowd: 2
+    ease: 3
+    notes:
+    - Turned out stringy and clumpy, congealed really fast.
+    - Served with summer sausage, blanched broccoli, bread chunks, and roasted
+      baby potatoes.
   - name: Big Cheese Squeeze
     url: https://www.foodnetwork.com/recipes/big-cheese-squeeze-recipe-2130025
     cooked_on: 2021-10-15
@@ -103,6 +110,15 @@
   recipes:
   - name: No Pan Pear Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/no-pan-pear-pie-recipe-1950879
+    cooked_on: 2021-10-25
+    crowd: 5
+    ease: 2
+    notes:
+    - Used only a 1/4 of corn meal, and an extra 1/4 cup of flour
+    - Instead of apple juice concentrate, I used diluted apple cider. Needed to add a
+      lot more liquid than the recipe seemed to call for, but I got a decent crust
+      consistency anyway.
+    - Used a frozen Sarah Lee pound cake.
 
 - title: True Brew
   season: 2
