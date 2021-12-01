@@ -47,6 +47,11 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/turkey-re-hash-recipe-1937764
   - name: Bird to the Last Drop
     url: https://www.foodnetwork.com/recipes/alton-brown/bird-to-the-last-drop-recipe2-1956473
+    cooked_on: 2021-11-28
+    crowd: 4
+    ease: 3
+    notes:
+    - Could probably have used three 32oz packages of stock instead of two.
 
 - title: Three Chips for Sister Marsha
   season: 3
