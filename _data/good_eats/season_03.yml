@@ -81,6 +81,13 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/compound-butter-recipe-2013062
   - name: Honey Butter
     url: https://www.foodnetwork.com/recipes/alton-brown/honey-butter-recipe-2013170
+    cooked_on: 2021-11-30
+    crowd: 4
+    ease: 5
+    notes:
+    - Made just one stick worth, used 4 tsp honey and 1/8 tsp each of vanilla and cinnamon
+    - Didn't use a mixer either -- just mixed it in a bowl with a fork until everything was
+      smooth and combined.
 
 - title: Flat Is Beautiful
   season: 3
