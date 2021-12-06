@@ -10,4 +10,6 @@ layout: good_eats
 
 {{ post.content }}
 
+{% good_eats_recipe_notes post: post %}
+
 {% endfor %}

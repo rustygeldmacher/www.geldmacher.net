@@ -61,7 +61,7 @@ module Jekyll
     class RecipeNotes < Liquid::Tag
       def render(context)
         recipe_notes = []
-        recipes = Array(context['page']['recipes'])
+        recipes = find_recipes(context)
 
         recipes.each do |recipe_name|
           recipe = GoodEats::Index.recipes[recipe_name]
@@ -91,6 +91,19 @@ module Jekyll
         notes.map { |n| "<li>#{n}</li>" }.join("\n")
       end
 
+      def find_recipes(context)
+        recipes = []
+
+        if context['page'] && context['page']['recipes']
+          recipes = context['page']['recipes']
+        elsif context.scopes
+          if (post = context.scopes.first['post'])
+            recipes = post['recipes']
+          end
+        end
+
+        Array(recipes)
+      end
     end
 
     class Progress < Liquid::Tag
