@@ -29,6 +29,15 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/refrigerator-pie-recipe-1938041
   - name: Flandango
     url: https://www.foodnetwork.com/recipes/alton-brown/flandango-recipe-2117964
+    cooked_on: 2021-12-03
+    crowd: 4
+    ease: 3
+    notes:
+    - Used caramel (4), chocolate sauce (2) and apricot-raspberry preserves (2) for the
+      various toppings. Caramel was the clear winner.
+    - Didn't catch this in the recipe, but probably should have popped them all into the
+      fridge for a bit before serving, because the cooled ones were way better than the
+      slightly warm ones we first ate.
 
 - title: What's Up Duck?
   season: 3
@@ -70,6 +79,15 @@
   recipes:
   - name: '"Instant" Pancake Mix'
     url: https://www.foodnetwork.com/recipes/alton-brown/instant-pancake-mix-recipe-1938544
+    cooked_on: 2021-12-04
+    crowd: 4
+    ease: 3
+    notes:
+    - Made two 2-cup batches (one third of the recipe) but used gluten free AP flour for one
+      of them.
+    - Probably needed to increase the amount of baking powder in the gluten free one to get
+      a better rise.
+    - Thinned out the non-gluten-free batter a little with 2-3 tablespoons of milk.
 
 - title: The Case For Butter
   season: 3
