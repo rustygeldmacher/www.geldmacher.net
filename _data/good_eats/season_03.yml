@@ -120,6 +120,16 @@
   recipes:
   - name: The Once and Future Beans
     url: https://www.foodnetwork.com/recipes/alton-brown/the-once-and-future-beans-recipe-1938616
+    cooked_on: 2021-12-29
+    crowd: 3
+    ease: 4
+    notes:
+    - I think I burned the bacon fat a little bit, so there were chunks in the beans, which
+      tasted fine but made for a strange consistency. Next time I think I would render the
+      bacon the way I do for chowder -- by adding a quarter cup of water to the pan with the
+      bacon and letting it cook off to render.
+    - Cooked for about 6 hours, but at five hours I checked them and decided I needed to add
+      more liquid -- so I heated up and added a little less than a cup more of vegetable broth.
   - name: Black Bean Salad
     url: https://www.foodnetwork.com/recipes/alton-brown/black-bean-salad-recipe-1909063
   - name: Turbo Hummus
