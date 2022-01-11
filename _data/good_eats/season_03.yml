@@ -95,6 +95,12 @@
   recipes:
   - name: Raymond Beurre Blanc
     url: https://www.foodnetwork.com/recipes/alton-brown/raymond-beurre-blanc-recipe-1910576
+    cooked_on: 2022-01-10
+    crowd: 4
+    ease: 3
+    notes:
+    - Gemma didn't think so, but I thought it was a tad too lemony. Next time, I want to
+      try half the lemon juice (perhaps add a bt more cream instead?)
   - name: Compound Butter
     url: https://www.foodnetwork.com/recipes/alton-brown/compound-butter-recipe-2013062
   - name: Honey Butter
@@ -147,6 +153,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/catfish-au-lait-recipe-1938494
   - name: Poached Egg Tips
     url: https://www.foodnetwork.com/recipes/alton-brown/poached-egg-tips-2103198
+    cooked_on: 2022-01-09
+    crowd: 4
+    ease: 3
+    notes:
+    - Did 7 minutes for 3 eggs, which left the yolks only a bit runny. We like runnier
+      yolks than that so next time I might try 5 or 6 minutes.
 
 - title: Tofuworld
   season: 3
