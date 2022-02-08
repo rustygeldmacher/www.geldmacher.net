@@ -173,6 +173,13 @@
   recipes:
   - name: Fillet O'Fu
     url: https://www.foodnetwork.com/recipes/alton-brown/fillet-ofu-recipe-1938277
+    cooked_on: 2022-02-07
+    crowd: 3
+    ease: 3
+    notes:
+    - Should have included some kind of sauce with this, maybe the beurre blanc would have
+      been good? Or some kind of gravy. Ended up dipping the tofu in a little hoisin sauce
+      that we had in the fridge.
   - name: No Guilt Caesar
     url: https://www.foodnetwork.com/recipes/alton-brown/no-guilt-caesar-recipe-1938378
     cooked_on: 2022-01-06
@@ -184,6 +191,13 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/moo-less-chocolate-pie-recipe-1938390
   - name: Tall & Tangy Tofu Thangy
     url: https://www.foodnetwork.com/recipes/alton-brown/tall-tangy-tofu-thangy-recipe-1938646
+    cooked_on: 2022-02-07
+    crowd: 1
+    ease: 4
+    notes:
+    - Used about 12oz of silken tofu
+    - Can't see the rhyme or reason behind this recipe. Swing and a miss I think.
+
 
 - title: Head Games
   season: 3
