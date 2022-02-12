@@ -5,10 +5,22 @@
   recipes:
   - name: Kinda Sorta Sours
     url: https://www.foodnetwork.com/recipes/alton-brown/kinda-sorta-sours-recipe-1938141
+    cooked_on: 2022-02-10
+    crowd: 3
+    ease: 3
+    notes:
+    - Would use a little less sugar next time but they are delicious.
+    - Like the recipe comments suggested, I threw a few fresh dill fronds into the jar.
+    - Gave them about two days in the fridge before trying them.
   - name: AB's B and B's
     url: https://www.foodnetwork.com/recipes/alton-brown/abs-b-and-bs-recipe-1908804
   - name: Firecrackers
     url: https://www.foodnetwork.com/recipes/alton-brown/firecrackers-recipe-1937931
+    cooked_on: 2022-02-10
+    crowd: 3
+    ease: 3
+    notes:
+    - Gave them about two days in the fridge before trying them.
   - name: Summer Fruits
     url: https://www.foodnetwork.com/recipes/alton-brown/summer-fruits-recipe-1938008
   - name: Hurry Curry Cauliflower
@@ -189,6 +201,14 @@
     - Truly no guilt -- only about 50 calories and 1 carb per 2 Tbl serving.
   - name: Moo-Less Chocolate Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/moo-less-chocolate-pie-recipe-1938390
+    cooked_on: 2022-02-11
+    crowd: 3
+    ease: 3
+    notes:
+    - Used a pre-made Oreo pie crust
+    - Was good, but next time I'd replace the Kaluha with something else, perhaps coffee or
+      espresso -- there is a kind of background alcohol "burn" to the pie's taste that we
+      don't like, but otherwise the texture and chocolate flavor is great.
   - name: Tall & Tangy Tofu Thangy
     url: https://www.foodnetwork.com/recipes/alton-brown/tall-tangy-tofu-thangy-recipe-1938646
     cooked_on: 2022-02-07
