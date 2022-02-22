@@ -32,6 +32,11 @@
   recipes:
   - name: Mojo Moulies
     url: https://www.foodnetwork.com/recipes/alton-brown/mojo-moulies-recipe-2118022
+    cooked_on: 2022-02-21
+    crowd: 3
+    ease: 3
+    notes:
+    - Threw a tablespoon of butter into the sauce before stick-blending it
 
 - title: Man with a Flan
   season: 3
@@ -159,6 +164,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/black-bean-salad-recipe-1909063
   - name: Turbo Hummus
     url: https://www.foodnetwork.com/recipes/alton-brown/turbo-hummus-recipe-1909491
+    cooked_on: 2022-02-19
+    crowd: 2
+    ease: 3
+    notes:
+    - Was hard to get the proportions right. Wish the recipe had amounts instead of
+      "one lemon" or "handful of parsley"
 
 - title: 'Mission: Poachable'
   season: 3

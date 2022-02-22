@@ -1,6 +1,6 @@
 ---
 date: 2022-02-11
-title: Pickles, Round One
+title: Mooless Pie
 layout: good_eats_post
 recipes:
 - Moo-Less Chocolate Pie
