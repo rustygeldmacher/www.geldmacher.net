@@ -44,6 +44,14 @@
   recipes:
   - name: Refrigerator Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/refrigerator-pie-recipe-1938041
+    cooked_on: 2022-02-27
+    crowd: 3
+    ease: 3
+    notes:
+    - Used a frozen, gluten-free pie crust left out for about 15 minutes before cooking
+    - Used 5oz spinach (pre-cooked), 1.5 oz shredded cheddar, 3.5 oz ham
+    - Should have squeezed out the spinach a little bit more
+    - Cooked exactly 45 minutes
   - name: Flandango
     url: https://www.foodnetwork.com/recipes/alton-brown/flandango-recipe-2117964
     cooked_on: 2021-12-03
