@@ -14,6 +14,13 @@
     - Gave them about two days in the fridge before trying them.
   - name: AB's B and B's
     url: https://www.foodnetwork.com/recipes/alton-brown/abs-b-and-bs-recipe-1908804
+    cooked_on: 2022-02-21
+    crowd: 3
+    ease: 3
+    notes:
+    - Halved the recipe, but used only 2/3 the amount of sugar called for (so in the
+      case of halving the recipe, used 1/2 cup of sugar total)
+    - Gave them a week in the fridge before trying them
   - name: Firecrackers
     url: https://www.foodnetwork.com/recipes/alton-brown/firecrackers-recipe-1937931
     cooked_on: 2022-02-10
@@ -25,6 +32,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/summer-fruits-recipe-1938008
   - name: Hurry Curry Cauliflower
     url: https://www.foodnetwork.com/recipes/alton-brown/hurry-curry-cauliflower-recipe-1937768
+    cooked_on: 2022-02-21
+    crowd: 2
+    ease: 3
+    notes:
+    - Left them in the fridge for a week before trying
+    - Didn't have pickling salt, so I used fine sea salt w.o. additives
 
 - title: Mussel Bound
   season: 3
