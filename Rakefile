@@ -21,6 +21,15 @@ end
 
 desc "Build resume"
 task :build_resume do
+  resume_files = `git ls-files resume/`.split
+  newest_file = resume_files.map { |f| File.mtime(f) }.sort.last
+
+  compiled_resume = 'resume/RustyGeldmacher.pdf'
+  if File.exist?(compiled_resume) && File.mtime(compiled_resume) > newest_file
+    puts "Resume up to date, skipping build..."
+    exit
+  end
+
   puts "Building resume..."
   resume = [
     'cd resume',
