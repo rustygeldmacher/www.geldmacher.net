@@ -183,6 +183,11 @@
       more liquid -- so I heated up and added a little less than a cup more of vegetable broth.
   - name: Black Bean Salad
     url: https://www.foodnetwork.com/recipes/alton-brown/black-bean-salad-recipe-1909063
+    cooked_on: 2022-03-03
+    crowd: 4
+    ease: 3
+    notes:
+    - Simmered for a total of 1.5 hours
   - name: Turbo Hummus
     url: https://www.foodnetwork.com/recipes/alton-brown/turbo-hummus-recipe-1909491
     cooked_on: 2022-02-19
@@ -250,13 +255,18 @@
     - Used about 12oz of silken tofu
     - Can't see the rhyme or reason behind this recipe. Swing and a miss I think.
 
-
 - title: Head Games
   season: 3
   number: 13
   recipes:
   - name: Shred, Head, Butter and Bread
     url: https://www.foodnetwork.com/recipes/alton-brown/shred-head-butter-and-bread-recipe-1938669
+    cooked_on: 2022-03-06
+    crowd: 2
+    ease: 3
+    notes:
+    - Used gluten free butter & garlic croutons
+    - Needed salt, would probably use salted butter if making this again
   - name: Home of the Braise
     url: https://www.foodnetwork.com/recipes/alton-brown/home-of-the-braise-recipe-1938661
 

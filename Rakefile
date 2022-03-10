@@ -25,40 +25,37 @@ task :build_resume do
   newest_file = resume_files.map { |f| File.mtime(f) }.sort.last
 
   compiled_resume = 'resume/RustyGeldmacher.pdf'
-  if File.exist?(compiled_resume) && File.mtime(compiled_resume) > newest_file
-    puts "Resume up to date, skipping build..."
-    exit
+  unless File.exist?(compiled_resume) && File.mtime(compiled_resume) > newest_file
+    puts "Building resume..."
+    resume = [
+      'cd resume',
+      'rm -f index.html',
+      'rm -f RustyGeldmacher.pdf',
+      'bundle exec ./resume.rb > index.html'
+    ]
+    system resume.join(' && ')
+
+    require 'webrick'
+    require 'logger'
+
+    root = File.expand_path('resume')
+    null_logger = Logger.new('/dev/null')
+
+    Thread.new do
+      server = WEBrick::HTTPServer.new(
+        :Port => 2929,
+        :DocumentRoot => root,
+        :AccessLog => [null_logger, null_logger],
+        :Logger => null_logger
+      )
+
+      server.start
+    end
+
+    sleep 5
+
+    system('wkhtmltopdf http://localhost:2929/index.html?p=1 resume/RustyGeldmacher.pdf')
   end
-
-  puts "Building resume..."
-  resume = [
-    'cd resume',
-    'rm -f index.html',
-    'rm -f RustyGeldmacher.pdf',
-    'bundle exec ./resume.rb > index.html'
-  ]
-  system resume.join(' && ')
-
-  require 'webrick'
-  require 'logger'
-
-  root = File.expand_path('resume')
-  null_logger = Logger.new('/dev/null')
-
-  Thread.new do
-    server = WEBrick::HTTPServer.new(
-      :Port => 2929,
-      :DocumentRoot => root,
-      :AccessLog => [null_logger, null_logger],
-      :Logger => null_logger
-    )
-
-    server.start
-  end
-
-  sleep 5
-
-  system('wkhtmltopdf http://localhost:2929/index.html?p=1 resume/RustyGeldmacher.pdf')
 end
 
 desc "Build the site"
