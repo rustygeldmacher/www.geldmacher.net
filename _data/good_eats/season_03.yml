@@ -269,6 +269,11 @@
     - Needed salt, would probably use salted butter if making this again
   - name: Home of the Braise
     url: https://www.foodnetwork.com/recipes/alton-brown/home-of-the-braise-recipe-1938661
+    cooked_on: 2022-04-03
+    crowd: 2
+    ease: 3
+    notes:
+    - No notes
 
 - title: Grill Seekers
   season: 3
