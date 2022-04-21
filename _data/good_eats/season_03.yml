@@ -106,10 +106,28 @@
   recipes:
   - name: The Thin
     url: https://www.foodnetwork.com/recipes/alton-brown/the-thin-recipe-2013278
+    cooked_on: 2022-04-17
+    crowd: 4
+    ease: 3
+    notes:
+    - These weren't as thin as they were in the show. Maybe I should have let the
+      dough come to room temperature a bit more before cooking.
   - name: The Puffy
     url: https://www.foodnetwork.com/recipes/alton-brown/the-puffy-recipe-2013004
+    cooked_on: 2022-04-17
+    crowd: 4
+    ease: 3
+    notes:
+    - We thought the first batch was undercooked a bit, so I started adding an
+      extra minute to these -- but, after they cooled they were a bit tough so
+      maybe 13-15 minutes _was_ perfect.
   - name: The Chewy
+    cooked_on: 2022-04-17
+    crowd: 3
+    ease: 3
     url: https://www.foodnetwork.com/recipes/alton-brown/the-chewy-recipe-1909046
+    notes:
+    - Only a little more chewy than The Thin, but not as flavorful.
 
 - title: Flap Jack Do It Again
   season: 3
