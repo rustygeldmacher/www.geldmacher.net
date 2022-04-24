@@ -30,6 +30,11 @@
     - Gave them about two days in the fridge before trying them.
   - name: Summer Fruits
     url: https://www.foodnetwork.com/recipes/alton-brown/summer-fruits-recipe-1938008
+    cooked_on: 2022-04-14
+    crowd: 3
+    ease: 3
+    notes:
+    - Left them in the fridge for a week before trying
   - name: Hurry Curry Cauliflower
     url: https://www.foodnetwork.com/recipes/alton-brown/hurry-curry-cauliflower-recipe-1937768
     cooked_on: 2022-02-21
@@ -182,6 +187,12 @@
   recipes:
   - name: Pizza Pizzas
     url: https://www.foodnetwork.com/recipes/alton-brown/pizza-pizzas-recipe4-1951401
+    cooked_on: 2021-04-22
+    crowd: 4
+    ease: 2
+    notes:
+    - There is a recipe comment on the web from AB himself that says to try reducing it
+      to two teaspoons of salt and one tablespoon of sugar, which is what I did.
 
 - title: 'Pantry Raid III: Cool Beans'
   season: 3

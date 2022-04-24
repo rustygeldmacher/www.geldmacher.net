@@ -2,11 +2,11 @@
 layout: good_eats
 ---
 
-{% for post in site.tags.goodeats %}
+{% for post in site.tags.season_3 %}
 
-### {{ post.date | date: "%B %d, %Y" }}
+<h3>{{ post.date | date: "%B %d, %Y" }}</h3>
 
-## {{ post.title }}
+<h2>{{ post.title }}</h2>
 
 {{ post.content }}
 
