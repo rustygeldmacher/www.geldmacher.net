@@ -95,8 +95,18 @@
   recipes:
   - name: In a Cranberry Jam
     url: https://www.foodnetwork.com/recipes/alton-brown/in-a-cranberry-jam-recipe-1938162
+    cooked_on: 2022-05-19
+    crowd: 3
+    ease: 3
+    notes:
+    - Very good on turkey sandwiches
   - name: Turkey Re-Hash
     url: https://www.foodnetwork.com/recipes/alton-brown/turkey-re-hash-recipe-1937764
+    cooked_on: 2022-05-21
+    crowd: 3
+    ease: 2
+    notes:
+    - Tastes good with ketchup
   - name: Bird to the Last Drop
     url: https://www.foodnetwork.com/recipes/alton-brown/bird-to-the-last-drop-recipe2-1956473
     cooked_on: 2021-11-28
