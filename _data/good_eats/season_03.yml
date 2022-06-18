@@ -320,3 +320,11 @@
   recipes:
   - name: Silence of the Leg O' Lamb
     url: https://www.foodnetwork.com/recipes/alton-brown/silence-of-the-leg-o-lamb-recipe-1910085
+    cooked_on: 2022-06-05
+    crowd: 3
+    ease: 3
+    notes:
+    - Cooked on a three-burner gas grill with the middle burner off and the side burners
+      set to 50%
+    - Used a 2 lb boneless leg, took about 30m total to get to 120 before taking it off
+      to carry over to 130. Flipped it after 20m.
