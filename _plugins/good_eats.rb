@@ -76,10 +76,16 @@ module Jekyll
       end
 
       def render_recipe(recipe)
+        crowd_rating = if recipe['crowd'].is_a?(String)
+          recipe['crowd']
+        else
+          "#{recipe['crowd']}/5"
+        end
+
         html = <<~HTML
           <h3>#{recipe['name']}</h3>
           <ul>
-            <li><strong>Crowd</strong>: #{recipe['crowd']}/5</li>
+            <li><strong>Crowd</strong>: #{crowd_rating}</li>
             <li><strong>Ease</strong>: #{recipe['ease']}/5</li>
             #{render_notes(recipe)}
           </ul>
@@ -253,6 +259,7 @@ module Jekyll
 
       def render_stars(rating)
         return if rating.nil?
+        return rating if rating.is_a?(String)
 
         stars = (1..5).map do |i|
           i <= rating ?  "&#9733;" : "&#9734;"

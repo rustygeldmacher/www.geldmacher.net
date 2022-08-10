@@ -242,8 +242,19 @@
   recipes:
   - name: GE Court Bouillon
     url: https://www.foodnetwork.com/recipes/alton-brown/ge-court-bouillon-recipe-1938582
+    cooked_on: 2022-07-07
+    crowd: N/A
+    ease: 3
+    notes:
+    - Strained off all the stuff before using it as poaching liquid
   - name: The Frenchman's Bass
     url: https://www.foodnetwork.com/recipes/alton-brown/the-frenchmans-bass-recipe-1938259
+    cooked_on: 2022-07-07
+    crowd: 4
+    ease: 3
+    notes:
+    - Used 2 8oz halves of a 16oz striped bass filet
+    - The recipe didn't call for it, but I salt & peppered the filets before poaching them
   - name: Catfish au Lait
     url: https://www.foodnetwork.com/recipes/alton-brown/catfish-au-lait-recipe-1938494
   - name: Poached Egg Tips
