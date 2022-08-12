@@ -257,6 +257,12 @@
     - The recipe didn't call for it, but I salt & peppered the filets before poaching them
   - name: Catfish au Lait
     url: https://www.foodnetwork.com/recipes/alton-brown/catfish-au-lait-recipe-1938494
+    cooked_on: 2022-08-10
+    crowd: 3
+    ease: 3
+    notes:
+    - Instead of an electric skillet, I brought the liquid to a bare simmer, then covered it
+      and turned the heat off for 9 minutes.
   - name: Poached Egg Tips
     url: https://www.foodnetwork.com/recipes/alton-brown/poached-egg-tips-2103198
     cooked_on: 2022-01-09
