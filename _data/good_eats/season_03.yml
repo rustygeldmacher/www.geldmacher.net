@@ -88,6 +88,14 @@
   recipes:
   - name: Mighty Duck
     url: https://www.foodnetwork.com/recipes/alton-brown/mighty-duck-recipe-1908913
+    cooked_on: 2022-08-26
+    crowd: 4
+    ease: 2
+    notes:
+    - Couldn't find packaged Orange/Pineapple juice so used 1 part orange juice to one
+      part pineapple juice for the brine.
+    - Next time would probably steam for less time, because the breast meat came out a
+      little bit dry and overdone.
 
 - title: Behind the Bird
   season: 3
@@ -197,7 +205,7 @@
   recipes:
   - name: Pizza Pizzas
     url: https://www.foodnetwork.com/recipes/alton-brown/pizza-pizzas-recipe4-1951401
-    cooked_on: 2021-04-22
+    cooked_on: 2022-04-22
     crowd: 4
     ease: 2
     notes:
