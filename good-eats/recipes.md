@@ -12,6 +12,8 @@ turn. To read a little more about how (and why) I put this together,
 check out [this
 FAQ](faq.html#how-did-you-get-all-the-recipes-links-per-season-etc).
 
+Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp;{% endfor %}
+
 ## Season 1
 
 ### Steak Your Claim
