@@ -56,6 +56,11 @@
   recipes:
   - name: Honey Mustard Dressing
     url: https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-dressing-recipe-1939031
+    cooked_on: 2022-09-10
+    crowd: 3
+    ease: 4
+    notes:
+    - This dressing is thin, to make a dip I'd probably skip the vinegar
   - name: Honey Plums
     url: https://www.foodnetwork.com/recipes/alton-brown/honey-plums-recipe-1938857
   - name: Aunt Verna's Orange Cake
@@ -78,17 +83,33 @@
   recipes:
   - name: Party Mayonnaise
     url: https://www.foodnetwork.com/recipes/alton-brown/party-mayonnaise-recipe-1951180
+    cooked_on: 2022-09-04
+    crowd: 3
+    ease: 3
+    notes:
+    - Made my own chile oil with safflower oil and red pepper flakes
+    - Used safflower oil
+    - Had the consistency of yogurt
   - name: Mayonnaise
     url: https://www.foodnetwork.com/recipes/alton-brown/mayonnaise-recipe-1951119
+    cooked_on: 2022-09-03
+    crowd: 4
+    ease: 2
+    notes:
+    - Arm almost fell off
+    - Used safflower oil
+    - Had perfect mayonnaise consistency
 
 - title: Puff The Magic Pastry
   season: 4
   number: 11
   recipes:
-  - name: Salmon Turnovers
-    url: https://www.foodnetwork.com/recipes/alton-brown/salmon-turnovers-recipe-1951308
   - name: Fruit Tart
     url: https://www.foodnetwork.com/recipes/alton-brown/fruit-tart-recipe-1910449
+  - name: Stacked Puff Pastry with Cherries
+    url: https://www.foodnetwork.com/recipes/alton-brown/stacked-puff-pastry-with-cherries-recipe-1938756
+  - name: Salmon Turnovers
+    url: https://www.foodnetwork.com/recipes/alton-brown/salmon-turnovers-recipe-1951308
 
 - title: True Brew II
   season: 4
@@ -96,6 +117,12 @@
   recipes:
   - name: Sweet Tea
     url: https://www.foodnetwork.com/recipes/alton-brown/sweet-tea-recipe-1938864
+    cooked_on: 2022-09-05
+    crowd: 3
+    ease: 3
+    notes:
+    - Bloomed tea in a sauce pan
+    - Halved the simple syrup
   - name: Perfect Cup of Tea
     url: https://www.foodnetwork.com/recipes/alton-brown/perfect-cup-of-tea-recipe-2103016
 
@@ -105,5 +132,14 @@
   recipes:
   - name: Salsa
     url: https://www.foodnetwork.com/recipes/alton-brown/salsa-recipe-1910950
+    cooked_on: 2022-09-18
+    crowd: 3
+    ease: 3
+    notes:
+    - Used 2 scallions and about 2 tablespoons of chopped cilantro
+    - Wish I knew how much salt to add, just added to taste
   - name: Spicy Pineapple Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/spicy-pineapple-sauce-recipe-1938795
+    cooked_on: 2022-09-18
+    crowd: 2
+    ease: 4

@@ -2,7 +2,7 @@
 layout: good_eats
 ---
 
-{% for post in site.tags.season_3 %}
+{% for post in site.tags.season_4 %}
 
 <h3>{{ post.date | date: "%B %d, %Y" }}</h3>
 
