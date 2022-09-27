@@ -33,6 +33,14 @@
   recipes:
   - name: City Ham
     url: https://www.foodnetwork.com/recipes/alton-brown/city-ham-recipe-2013153
+    cooked_on: 2022-09-26
+    crowd: 4
+    ease: 3
+    notes:
+    - Used an 8-pound, bone-in, shank side packaged ham
+    - Took it out at 125 (took 3h 15m) and added crust
+    - Used apple juice instead of bourbon
+    - Put it back at 400 to crust up until it hit 140
   - name: Country Ham
     url: https://www.foodnetwork.com/recipes/alton-brown/country-ham-recipe-1910162
 
@@ -74,6 +82,11 @@
   recipes:
   - name: Vlad's Very Garlicky Greens
     url: https://www.foodnetwork.com/recipes/alton-brown/vlads-very-garlicky-greens-recipe-1939109
+    cooked_on: 2022-09-26
+    crowd: 3
+    ease: 3
+    notes:
+    - Used 5 smashed garlic cloves plus one sliced
   - name: 40 Cloves and a Chicken
     url: https://www.foodnetwork.com/recipes/alton-brown/40-cloves-and-a-chicken-recipe-1910661
 
@@ -106,6 +119,12 @@
   recipes:
   - name: Fruit Tart
     url: https://www.foodnetwork.com/recipes/alton-brown/fruit-tart-recipe-1910449
+    cooked_on: 2022-09-24
+    crowd: 3
+    ease: 3
+    notes:
+    - Made one with granny smith apple, and another with pear
+    - Used peach preserves as a glaze
   - name: Stacked Puff Pastry with Cherries
     url: https://www.foodnetwork.com/recipes/alton-brown/stacked-puff-pastry-with-cherries-recipe-1938756
   - name: Salmon Turnovers
