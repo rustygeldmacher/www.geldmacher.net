@@ -87,6 +87,13 @@
     - 6 muffins (half the recipe) took about 25 minutes at 350
   - name: Sweet and Sour Dessert Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/sweet-and-sour-dessert-sauce-recipe-1938943
+    cooked_on: 2022-10-16
+    crowd: 3
+    ease: 4
+    notes:
+    - Used orange blossom honey
+    - Used as a sauce on the stacked puff pastry with cherries
+    - Would probably be really good with fruit
 
 - title: The Bulb of the Night
   season: 4
@@ -139,8 +146,20 @@
     - Used peach preserves as a glaze
   - name: Stacked Puff Pastry with Cherries
     url: https://www.foodnetwork.com/recipes/alton-brown/stacked-puff-pastry-with-cherries-recipe-1938756
+    cooked_on: 2022-10-15
+    crowd: 4
+    ease: 3
+    notes:
+    - Used glazed donut crumbs in the filling mix
+    - Cooked at 400 for 30m, then 300 for 30m
   - name: Salmon Turnovers
     url: https://www.foodnetwork.com/recipes/alton-brown/salmon-turnovers-recipe-1951308
+    cooked_on: 2022-10-16
+    crowd: 2
+    ease: 2
+    notes:
+    - Tried making a bunch of little ones
+    - Wasted a ton of filling in this
 
 - title: True Brew II
   season: 4
