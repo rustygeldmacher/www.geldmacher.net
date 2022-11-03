@@ -12,6 +12,14 @@
   recipes:
   - name: AB's Beefy Broth
     url: https://www.foodnetwork.com/recipes/alton-brown/abs-beefy-broth-recipe-1938212
+    cooked_on: 2022-10-22
+    crowd: 4
+    ease: 3
+    notes:
+    - Used 2 pounds of shank, 1 pound of oxtail
+    - Didn't bring to a boil and skim before starting pressure cook
+    - Cooked for 50 minutes in the Instant Pot
+    - Added about a teaspoon of salt to the finished broth before it tasted well-seasoned
 
 - title: 'Fry Hard II: The Chicken'
   season: 4
@@ -19,6 +27,12 @@
   recipes:
   - name: Fried Chicken
     url: https://www.foodnetwork.com/recipes/alton-brown/fried-chicken-recipe-1939165
+    cooked_on: 2022-11-03
+    crowd: 4
+    ease: 2
+    notes:
+    - Used a ~6lb boiler/fryer, but a 4lb would have been better.
+    - For the shake I left out the cayenne pepper, and doubled the garlic powder.
 
 - title: 'Crustacean Nation II: Claws'
   season: 4
@@ -50,6 +64,14 @@
   recipes:
   - name: Angel Food Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/angel-food-cake-recipe-1938726
+    cooked_on: 2022-10-30
+    crowd: 4
+    ease: 2
+    notes:
+    - Took 15 minutes with the hand mixer until medium peaks
+    - Baked for 40 minutes until done
+    - Should have filled the pan about 2/3 of the way instead of about 4/5 of the way
+    - Used parchment on the bottom of the pan, but probably should have left it bare
 
 - title: A Chuck for Chuck
   season: 4
