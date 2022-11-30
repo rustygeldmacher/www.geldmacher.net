@@ -5,6 +5,13 @@
   recipes:
   - name: Smoked Salmon
     url: https://www.foodnetwork.com/recipes/alton-brown/smoked-salmon-recipe-1938429
+    cooked_on: 2022-11-27
+    crowd: 5
+    ease: 2
+    notes:
+    - Used a ~1 1lb skin-on filet, and cut the cure recipe by 1/8
+    - Cure recipe was 2T salt, 1 T brown sugar, 1T sugar, and a few shakes of pepper
+    - Smoked to 150 in about 30m
 
 - title: Pressure
   season: 4
@@ -40,6 +47,11 @@
   recipes:
   - name: Stuffed Lobster
     url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-lobster-recipe-1951233
+    cooked_on: 2022-11-26
+    crowd: 5
+    ease: 3
+    notes:
+    - My only regret is not cooking twice the amount of lobsters
 
 - title: Ham I Am
   season: 4
@@ -130,6 +142,12 @@
     - Used 5 smashed garlic cloves plus one sliced
   - name: 40 Cloves and a Chicken
     url: https://www.foodnetwork.com/recipes/alton-brown/40-cloves-and-a-chicken-recipe-1910661
+    cooked_on: 2022-11-15
+    crowd: 3
+    ease: 3
+    notes:
+    - Rather than 1.5 hr, I think 45 min would have done the trick
+    - Doing this again with just legs and/or thighs would be great
 
 - title: Mayo Clinic
   season: 4

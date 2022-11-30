@@ -15,9 +15,9 @@
   - name: Strawberry Pudding
     url: https://www.foodnetwork.com/recipes/alton-brown/strawberry-pudding-recipe-1939789
   - name: Clotted Cream
-    url: "//www.foodnetwork.com/recipes/alton-brown/clotted-cream-2103048"
+    url: https://www.foodnetwork.com/recipes/alton-brown/clotted-cream-2103048
   - name: Frozen Strawberries
-    url: "//www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039"
+    url: https://www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039
 
 - title: The Choke's On You
   season: 6
@@ -45,7 +45,7 @@
   - name: Herb Spread
     url: https://www.foodnetwork.com/recipes/alton-brown/herb-spread-recipe-1940049
   - name: Yogurt Cheese
-    url: "//www.foodnetwork.com/recipes/alton-brown/yogurt-cheese-2103184"
+    url: https://www.foodnetwork.com/recipes/alton-brown/yogurt-cheese-2103184
 
 - title: 'Egg Files V: Quantum Foam'
   season: 6
