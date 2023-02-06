@@ -69,6 +69,15 @@
     - Put it back at 400 to crust up until it hit 140
   - name: Country Ham
     url: https://www.foodnetwork.com/recipes/alton-brown/country-ham-recipe-1910162
+    cooked_on: 2023-02-04
+    crowd: 1
+    ease: 2
+    notes:
+    - Used a 16.5 pound country ham from Benton's Country Hams
+    - Soaked for 2.5 days, changing water twice a day
+    - Added an extra 30m at 350 to get it up to temperature
+    - It could have been the ham itself, or maybe for 16.5 pounds you need to soak
+      it longer, but it was completely inedible.
 
 - title: Let Them Eat Foam
   season: 4
