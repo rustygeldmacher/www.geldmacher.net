@@ -100,6 +100,14 @@
   recipes:
   - name: Pot Roast
     url: https://www.foodnetwork.com/recipes/alton-brown/pot-roast-recipe-1938843
+    cooked_on: 2023-02-27
+    crowd: 2
+    ease: 2
+    notes:
+    - Used a 3.5 pound seven-bone chuck
+    - The recipe said to cook for "3 to 3.5 hours" and it for a 2 pound roast, so I cooked
+      it for 3.5, which overcooked it a bit.
+    - The a jus was really good
 
 - title: 'Pantry Raid IV: Comb Alone'
   season: 4

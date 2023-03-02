@@ -396,12 +396,9 @@ Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp
     Glaze](https://www.foodnetwork.com/recipes/alton-brown/panna-cotta-brain-with-cranberry-glaze-recipe-1938818)
 -   [Spooky Edible
     Eyes](https://www.foodnetwork.com/recipes/alton-brown/spooky-edible-eyes-recipe-2013612)
--   [Layered
-    Gelatin](http://www.goodeatsfanpage.com/season5/Gelatin/GelatinTranscript.htm#Layered)
 
 ### Oat Cuisine
 
--   [Haggis](https://www.foodnetwork.com/recipes/alton-brown/haggis-recipe-1911083)
 -   [Steel Cut
     Oatmeal](https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448)
 -   [Overnight
