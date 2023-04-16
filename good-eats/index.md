@@ -16,11 +16,11 @@ about what I’m doing here.
 
 ## Overall progress
 
-{% good_eats_progress 4 %}
+{% good_eats_progress 5 %}
 
-## Current Season: 4
+## Current Season: 5
 
-{% good_eats_season_table 4 %}
+{% good_eats_season_table 5 %}
 
 <script type="text/javascript">
     $(function() {

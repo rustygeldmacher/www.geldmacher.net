@@ -93,8 +93,20 @@
   recipes:
   - name: Cocoa Brownies
     url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-brownies-recipe-2085484
+    cooked_on: 2023-04-15
+    crowd: 3
+    ease: 3
+    notes:
+    - Used parchment in the pan like in the episode, rather than buttering the pan like in
+      the online recipe -- might want to try the butter next time
   - name: Cocoa Syrup
     url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-syrup-recipe-1939656
+    cooked_on: 2023-04-15
+    crowd: 3
+    ease: 3
+    notes:
+    - Halved the recipe on the site and still ended up with a ton of chocolate sauce
+    - Used this as chocolate sauce on an ice cream sundae
   - name: Hot Cocoa
     url: https://www.foodnetwork.com/recipes/alton-brown/hot-cocoa-recipe-1911397
 
@@ -115,6 +127,13 @@
   recipes:
   - name: Baked Macaroni and Cheese
     url: https://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-1939524
+    cooked_on: 2023-04-15
+    crowd: 4
+    ease: 3
+    notes:
+    - Used cheap-ish <a href="https://cabotcreamery.com/products/cheese-vermont-sharp-bar-dairy">Cabot sharp cheddar</a>.
+    - Left out the mustard because I didn't have any, and it was still great. Would love to
+      try it with the mustard next time.
   - name: Stove Top Mac-n-Cheese
     url: https://www.foodnetwork.com/recipes/alton-brown/stovetop-mac-n-cheese-recipe-1939465
   - name: Next Day Mac and Cheese "Toast"
