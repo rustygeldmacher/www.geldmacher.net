@@ -18,10 +18,22 @@
   recipes:
   - name: Steel Cut Oatmeal
     url: https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448
+    cooked_on: 2023-04-22
+    crowd: 4
+    ease: 3
+    notes:
+    - Used full fat buttermilk
   - name: Overnight Oatmeal
     url: https://www.foodnetwork.com/recipes/alton-brown/overnight-oatmeal-recipe-1939324
   - name: Granola
     url: https://www.foodnetwork.com/recipes/alton-brown/granola-recipe-1939521
+    cooked_on: 2023-04-16
+    crowd: 5
+    ease: 4
+    notes:
+    - Didn't stir as much as the recipe said to -- only stirred 3 times or so over the course of the
+      hour and a half cooking time
+    - This makes a TON of granola
 
 - title: Crepe Expectations
   season: 5
@@ -68,6 +80,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/baba-ghannouj-recipe-1939564
   - name: Eggplant Steaks
     url: https://www.foodnetwork.com/recipes/alton-brown/eggplant-steaks-recipe-1939600
+    cooked_on: 2023-05-29
+    crowd: 3
+    ease: 3
+    notes:
+    - Next time I need to put foil down on the sheet pan to catch drippings so they don't
+      burn on the bottom of the pan
   - name: Eggplant Pasta
     url: https://www.foodnetwork.com/recipes/alton-brown/eggplant-pasta-recipe-1911359
 
@@ -109,6 +127,11 @@
     - Used this as chocolate sauce on an ice cream sundae
   - name: Hot Cocoa
     url: https://www.foodnetwork.com/recipes/alton-brown/hot-cocoa-recipe-1911397
+    cooked_on: 2023-04-22
+    crowd: 4
+    ease: 4
+    notes:
+    - Tried with both water and with milk -- milk by far is better
 
 - title: Squash Court
   season: 5
@@ -138,6 +161,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/stovetop-mac-n-cheese-recipe-1939465
   - name: Next Day Mac and Cheese "Toast"
     url: https://www.foodnetwork.com/recipes/alton-brown/next-day-mac-and-cheese-toast-recipe-2013511
+    cooked_on: 2023-04-16
+    crowd: 5
+    ease: 2
+    notes:
+    - Fried the smaller pieces for about 2 minutes, and the larger pieces for about 2.5 minutes
+    - Served up with some heated up marinara sauce
 
 - title: Send In The Clams
   season: 5
@@ -145,6 +174,11 @@
   recipes:
   - name: Radonsky for the New Millenium
     url: https://www.foodnetwork.com/recipes/alton-brown/radonsky-for-the-new-millenium-recipe-1939511
+    cooked_on: 2023-04-16
+    crowd: 4
+    ease: 3
+    notes:
+    - Would salt them a little more next time
   - name: Clams on the Half Shell with Fresh Mayonnaise
     url: https://www.foodnetwork.com/recipes/alton-brown/clams-on-the-half-shell-with-fresh-mayonnaise-recipe-1951771
   - name: Clam Chowder
@@ -156,7 +190,18 @@
   recipes:
   - name: Leftover Baked Potato Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/leftover-baked-potato-soup-recipe-1939931
+    cooked_on: 2023-05-22
+    crowd: 3
+    ease: 3
+    notes:
+    - Used about 3 pounds of potatoes for this
   - name: Cold-Fashioned Potato Salad
     url: https://www.foodnetwork.com/recipes/alton-brown/cold-fashioned-potato-salad-recipe-1951773
+    cooked_on: 2023-04-16
+    crowd: 4
+    ease: 2
+    notes:
+    - Left out the mustard powder because I thought I had some and didn't
+    - Used baby kosher dills instead of cornichons
   - name: Potato Roesti
     url: https://www.foodnetwork.com/recipes/alton-brown/potato-roesti-recipe-1940112

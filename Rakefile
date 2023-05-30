@@ -83,6 +83,7 @@ task :deploy => :stage do
   go_live = [
     "mkdir -p #{release_dir}",
     "tar xzf ~/release.tar.gz -C #{release_dir}",
+    "chmod 644 #{release_dir}/.htaccess",
     "rm geldmacher.net/current",
     "ln -s #{release_dir} ~/geldmacher.net/current",
     "rm ~/release.tar.gz"

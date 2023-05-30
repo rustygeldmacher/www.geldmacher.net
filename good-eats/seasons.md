@@ -5,6 +5,10 @@ body_class: good-eats
 
 ## Previously Completed Seasons
 
+### Season 4
+
+{% good_eats_season_table 4 %}
+
 ### Season 3
 
 {% good_eats_season_table 3 %}
