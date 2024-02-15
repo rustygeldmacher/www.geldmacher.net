@@ -9,6 +9,13 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/cinnamon-cherry-heart-recipe-1911093
   - name: Panna Cotta Brain with Cranberry Glaze
     url: https://www.foodnetwork.com/recipes/alton-brown/panna-cotta-brain-with-cranberry-glaze-recipe-1938818
+    cooked_on: 2024-02-14
+    crowd: 4
+    ease: 4
+    notes:
+    - Might try reducing the amount of gelatin by ~25% next time
+    - Cranberry glaze took a long time to set up -- do it early, keep it at room temp
+    - Could probably put some plastic wrap on top while it sets to help avoid "skin"
   - name: Spooky Edible Eyes
     url: https://www.foodnetwork.com/recipes/alton-brown/spooky-edible-eyes-recipe-2013612
 
@@ -159,6 +166,11 @@
       try it with the mustard next time.
   - name: Stove Top Mac-n-Cheese
     url: https://www.foodnetwork.com/recipes/alton-brown/stovetop-mac-n-cheese-recipe-1939465
+    cooked_on: 2024-02-13
+    crowd: 4
+    ease: 3
+    notes:
+    - Family said it was a bit "too cheddary" -- might try a less sharp cheddar next time
   - name: Next Day Mac and Cheese "Toast"
     url: https://www.foodnetwork.com/recipes/alton-brown/next-day-mac-and-cheese-toast-recipe-2013511
     cooked_on: 2023-04-16
