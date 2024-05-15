@@ -55,6 +55,13 @@
     - Used about an ounce and half of batter per crepe
   - name: Mushroom Crepe Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/mushroom-crepe-cake-recipe-1939640
+    cooked_on: 2024-05-14
+    crowd: 4
+    ease: 2
+    notes:
+    - For savory crepes, added about 2 teaspoons of dried rosemary
+    - Used mozzarella cheese
+    - Took 6 layers of crepes
   - name: Crepes Suzette
     url: https://www.foodnetwork.com/recipes/alton-brown/crepes-suzette-recipe-1939388
     cooked_on: 2024-03-23
@@ -222,6 +229,15 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/clams-on-the-half-shell-with-fresh-mayonnaise-recipe-1951771
   - name: Clam Chowder
     url: https://www.foodnetwork.com/recipes/alton-brown/clam-chowder-recipe-1911555
+    cooked_on: 2024-05-11
+    crowd: 3
+    ease: 3
+    notes:
+    - Tossed a tablespoon of butter into the rendered salt pork fat
+    - Recipe used way too many potatoes. I used a little more than four cups,
+      which is 3 medium sized russets. Would recommend no more than 2 russets.
+    - Ended up probably using 3 cups of milk instead of the two called for in the recipe.
+      Otherwise, there wouldn't have been enough to cook the potatoes.
 
 - title: This Spud's For You Too
   season: 5
