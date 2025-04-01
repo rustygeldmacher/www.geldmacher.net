@@ -6,6 +6,7 @@ email: rusty@geldmacher.net
 phone: (508) 353-3962
 pdf: RustyGeldmacher.pdf
 show_role_highlights: 2
+show_jobs: 6
 links:
 - title: www.geldmacher.net/resume
   url: http://www.geldmacher.net/resume
@@ -15,24 +16,23 @@ links:
   url: https://www.linkedin.com/in/rusty-geldmacher/
 skills:
   current:
-  - DevOps & adminstration
+  - Ruby, Ruby on Rails
+  - DevOps & administration
   - AWS & Cloud architecture
   - Web architecture
   - Automated testing
   - Continuous integration
   - Agile, Scrum, Kanban
-  - Ansible, Packer
-  - Ruby, Ruby on Rails
-  - PostgreSQL
+  - PostgreSQL, MySQL
+  - Terraform, Ansible, CDK
   - Redis, ElasticSearch, RabbitMQ
-  - HAProxy, Nginx, Unicorn
-  - Sensu, Fluentd, Grafana
-  - Docker
-  - Git
+  - App servers, load balancing
+  - Docker, ECR
+  - Git, GitHub admin, CircleCI
   - SQL
-  - JavaScript, EmberJS, jQuery
-  - CSS, HTML
+  - JavaScript, some TypeScript
   experience:
+  - CSS, HTML
   - C#
   - C
   - Assembly (ARM)
@@ -48,7 +48,55 @@ skills:
   - IIS
   - MS SQL Server
   - Apache / Passenger
+  - Ansible, Packer
+  - Sensu, Fluentd, Grafana
 career:
+- company: Amazon
+  location: Seattle, WA (remote)
+  url: https://amazon.com
+  summary: One Medical was purchased by Amazon in 2023
+  roles:
+  - role: SDE III (L6 Senior SDE)
+    start: 2023-02
+    highlights:
+    - Leading an effort to break down One Medical's Ruby on Rails monolith into smaller domain services.
+      We are starting with a subset of
+      functionality all owned by a specific sub-organization. The team is working to solve extraction issues
+      such as maintaining data consistency and safely being able to switch over to the new service without
+      down time.
+    - Started a working group called "Future of the Monolith" to help determine what to do with One Medical's
+      central technology service. Successfully lead an effort to fully modularize the nearly 1M line of code
+      Ruby service using [Packwerk](https://github.com/Shopify/packwerk). Completed the effort by determining
+      team-based ownership assignments for each module, thereby obtaining 100% code ownership in the monolith.
+    - Lead the project to get One Medical's Ruby on Rails monolith through the Amazon security review process.
+      At the time, it was the largest single security review that Amazon acquisitions security had ever done.
+- company: One Medical
+  location: San Francisco, CA (remote)
+  url: http://www.onemedical.com
+  summary: Iora Health was purchased by One Medical in 2021
+  details:
+  - key: Stack
+    value: Ruby, Rails, React, Puma, MySQL, Elasticsearch
+  - key: Operations
+    value: AWS, ECS, SNS/SQS, LaunchDarkly, Terraform, Docker, Prometheus, Grafana
+  roles:
+  - role: Senior Staff Engineer
+    start: 2022-10
+    end: 2023-02
+    highlights:
+    - Switched back to engineering, stayed on EE to help on board the new manager
+    - Moved to mostly supporting the teams within my manager's (director) organization when they needed
+      extra help with architecture or navigating tricky problems.
+    - Most role highlights in Amazon list
+  - role: Senior Engineering Manager
+    start: 2021-09
+    end: 2022-10
+    highlights:
+    - Started the Engineering Efficiency team (later to become Engineering Experience) whose goal
+      is to build tooling and mechanisms to improve development ergonomics, allowing developers to
+      focus more time on solving problems in their domain.
+    - Launched many successful efforts such as rolling out support for GitHub Code Spaces, automating
+      Rails upgrades, and CI/CD for the local development environment setup scripts.
 - company: Iora Health
   location: Boston, MA
   url: http://www.iorahealth.com
@@ -59,14 +107,24 @@ career:
     value: AWS, Ansible, Docker, Packer, HAProxy, Sensu, Fluentd, Kibana, Grafana, InfluxDB
   - key: AWS
     value: ECS, RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
+  summary: >
+    As Engineering Director, I led the engineering management team, established structured career development
+    frameworks including a title ladder and competency matrix, standardized hiring and onboarding processes,
+    and implemented quarterly feedback systems. Concurrently serving as Platform Architect, I provided technical
+    leadership for our cloud platform technology, guiding the team through modernization efforts including
+    containerization and managed services. I began at Iora as a Senior Staff Engineer, where I developed features
+    for our EHR system, created a dedicated platform team, revamped cloud automation for consistency and reliability,
+    implemented comprehensive monitoring systems, and helped organize development into agile teams to improve
+    workflow and visibility.
   roles:
   - role: Director of Engineering
     start: 2018-06
+    end: 2021-09
     highlights:
     - As the lead of the engineering management team, all engineering managers report up to me.
       In this role I'm responsible for putting process in place to support the growth and development
       of all our engineers, as well as hiring, on-boarding, performance evaluation, and ensuring
-      consistent mangement practices.
+      consistent management practices.
     - In order to increase fairness and consistency in evaluation, I designed and launched Iora Engineering's
       official title ladder, role descriptions, competency matrix, and associated expectations.
     - Overhauled engineering's interviewing process to increase objectivity, standardize on focus areas,
@@ -77,6 +135,7 @@ career:
       helped orient new managers.
   - role: Platform Architect
     start: 2019-06
+    end: 2021-09
     highlights:
     - In addition to my role as engineering director, I also serve as the architect and owner of
       Iora's cloud platform technology and associated roadmap.
@@ -111,6 +170,14 @@ career:
   details:
   - key: Stack
     value: Ruby, Rails, PostgreSQL, RSpec, Redis, Resque, AWS, Puppet, Git, Nagios
+  summary: >
+    Spearheaded the migration from physical data centers to
+    AWS cloud infrastructure, implementing automation with Fog and Puppet for provisioning and
+    Nagios/Monit for monitoring. Modernized our multi-application ecosystem by upgrading from
+    Rails 2.3.x to Rails 3.2.x, replacing a legacy JBoss-based ESB with Resque, and implementing
+    the Rails asset pipeline. Led a five-member scrum team that consistently
+    delivered user-facing features while establishing standardized development practices and architectural
+    improvements that enhanced team velocity and predictability.
   roles:
   - role: Principal Engineer
     start: 2013-06
@@ -251,9 +318,27 @@ education:
   - Tau Beta Pi National Engineering Honor Society
   - Eta Kappa Nu National Electrical Engineering Honor Society
 online:
-- title: Stack Overflow
-  url: http://stackoverflow.com/users/214112/rusty
 - title: GitHub
   url: http://www.github.com/rustygeldmacher
 - title: LinkedIn
   url: https://www.linkedin.com/in/rusty-geldmacher
+- title: Stack Overflow
+  url: http://stackoverflow.com/users/214112/rusty
+cover_letter:
+- If I had to sum up what I bring to an organization it's this -- I solve problems. I look for
+  the bottleneck and I relentlessly pursue breaking it. What's preventing us from quickly and
+  safely delivering user value? That's where I tend to focus my energies.
+- Much of my recent experience has been in the areas of developer ergonomics, operational
+  excellence, and systems/processes for safe software development. This is mostly because in my
+  recent environments, those were the problem areas that needed to be addressed. I am equally
+  happy to be developing valuable functionality for end users.
+- My career has included the contributor/manager pendulum swing. I've been both a front-line
+  manager and manager-of-managers, and I moved back to being an IC in mid-2023. I treasure my
+  experience as a manager, and I've used everything I learned in my work as a high-level IC.
+  Even though at the moment being an IC is what makes me happiest, I would not rule out moving
+  back into a management position in the future.
+- As you can see from my resume, I'm adaptable to a variety of technologies. In my career I have
+  done everything from low-level assembly & C, to Java, C#, and finally Ruby. I love Ruby, but
+  you can see from my track record that technology choice isn't the first consideration. At this
+  point in my career I have the skills and confidence to be able to quickly ramp up on any tech
+  stack that I need to.

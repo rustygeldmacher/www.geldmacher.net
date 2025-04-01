@@ -81,6 +81,7 @@
     </hgroup>
     <ul class="career grid_12 omega">
       <%- resume.career.each_with_index do |job, job_i| -%>
+        <% break if resume.show_jobs && (job_i + 1) > resume.show_jobs.to_i -%>
         <% if job_i < resume.show_role_highlights -%>
         <li>
         <% else -%>
