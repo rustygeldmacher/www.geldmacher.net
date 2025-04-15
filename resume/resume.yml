@@ -28,6 +28,7 @@ skills:
   - Redis, ElasticSearch, RabbitMQ
   - App servers, load balancing
   - Docker, ECR
+  - HIPAA, HITRUST, CEHRT
   - Git, GitHub admin, CircleCI
   - SQL
   - JavaScript, some TypeScript
@@ -64,10 +65,13 @@ career:
       functionality all owned by a specific sub-organization. The team is working to solve extraction issues
       such as maintaining data consistency and safely being able to switch over to the new service without
       down time.
-    - Started a working group called "Future of the Monolith" to help determine what to do with One Medical's
+    - Created a working group called "Future of the Monolith" to help determine what to do with One Medical's
       central technology service. Successfully lead an effort to fully modularize the nearly 1M line of code
       Ruby service using [Packwerk](https://github.com/Shopify/packwerk). Completed the effort by determining
       team-based ownership assignments for each module, thereby obtaining 100% code ownership in the monolith.
+    - Coordinated campaigns to help clean up and address technical debt in the code base. These included removing
+      unused API end points, removing unused classes and rake tasks, and removing all last usage of deprecated
+      v1 APIs in order to clean those out of the code!
     - Lead the project to get One Medical's Ruby on Rails monolith through the Amazon security review process.
       At the time, it was the largest single security review that Amazon acquisitions security had ever done.
 - company: One Medical

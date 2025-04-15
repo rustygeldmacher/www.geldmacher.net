@@ -27,34 +27,19 @@ task :build_resume do
   compiled_resume = 'resume/RustyGeldmacher.pdf'
   unless File.exist?(compiled_resume) && File.mtime(compiled_resume) > newest_file
     puts "Building resume..."
-    resume = [
-      'cd resume',
-      'rm -f index.html',
-      'rm -f RustyGeldmacher.pdf',
-      'bundle exec ./resume.rb > index.html'
-    ]
-    system resume.join(' && ')
 
-    require 'webrick'
-    require 'logger'
-
-    root = File.expand_path('resume')
-    null_logger = Logger.new('/dev/null')
+    require_relative 'server'
 
     Thread.new do
-      server = WEBrick::HTTPServer.new(
-        :Port => 2929,
-        :DocumentRoot => root,
-        :AccessLog => [null_logger, null_logger],
-        :Logger => null_logger
-      )
-
-      server.start
+      WwwGeldmacherNetServer.run!
     end
 
     sleep 5
 
-    system('wkhtmltopdf http://localhost:2929/index.html?p=1 resume/RustyGeldmacher.pdf')
+    FileUtils.rm_f('resume/index.html')
+    FileUtils.rm_f('resume/RustyGeldmacher.pdf')
+    system('curl --silent http://localhost:4567/resume/ > resume/index.html')
+    system('wkhtmltopdf http://localhost:4567/resume/?p=1 resume/RustyGeldmacher.pdf')
   end
 end
 
@@ -89,4 +74,11 @@ task :deploy => :stage do
     "rm ~/release.tar.gz"
   ]
   system "ssh #{DEPLOY_TARGET} '#{go_live.join(' && ')}'"
+end
+
+desc "Start development environment with Jekyll and Resume server"
+task :dev do
+  puts "Starting development environment..."
+  puts "Server will be available at http://localhost:4567/"
+  system "foreman start"
 end
