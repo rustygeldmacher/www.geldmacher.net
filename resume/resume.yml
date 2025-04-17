@@ -71,7 +71,7 @@ career:
       team-based ownership assignments for each module, thereby obtaining 100% code ownership in the monolith.
     - Coordinated campaigns to help clean up and address technical debt in the code base. These included removing
       unused API end points, removing unused classes and rake tasks, and removing all last usage of deprecated
-      v1 APIs in order to clean those out of the code!
+      v1 APIs in order to clean those out of the code.
     - Lead the project to get One Medical's Ruby on Rails monolith through the Amazon security review process.
       At the time, it was the largest single security review that Amazon acquisitions security had ever done.
 - company: One Medical

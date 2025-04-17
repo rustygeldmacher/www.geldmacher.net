@@ -1,0 +1,46 @@
+# <%= m resume.full_name %>
+
+[<%= resume.email %>](mailto:<%= resume.email %>) -- <%= resume.phone %>
+
+## Skills
+<% resume.skills.current.each do |skill| %>
+* <%= skill -%>
+<% end %>
+
+## Career
+<% resume.career.each do |job| %>
+### <%= job.company %> - <%= job.location %>
+<%- Array(job.details).each do |detail| -%>
+**<%= detail.key %>**: <%= detail.value %>
+<%- end -%>
+
+<% if job.summary -%>
+_<%= m job.summary -%>_
+<% end -%>
+
+<% job.roles.each do |role| -%>
+#### <%= role.role %>, <%= role_range(role) %>
+<% role.highlights.each do |highlight| %>
+* <%= highlight -%>
+<% end %>
+
+<% end -%>
+<% end -%>
+## Education
+<% resume.education.each do |degree| %>
+### [<%= degree.school %>](<%= degree.url %>) -- <%= degree.location %>
+#### <%= degree.degree %>
+
+* Graduated <%= degree.graduated %>
+<% degree.highlights.each do |highlight| -%>
+* <%= highlight %>
+<% end -%>
+
+<% end %>
+## Links
+
+<% resume.online.each do |link| -%>
+* [<%= link.title %>](<%= link.url %>)
+<% end -%>
+
+<%= resume.name %> &mdash; <%= resume.email %> &mdash; <%= resume.phone %>

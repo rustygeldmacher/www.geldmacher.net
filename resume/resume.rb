@@ -9,10 +9,10 @@ require 'kramdown'
 class Resume
   attr_reader :yaml, :resume, :template
 
-  def initialize
+  def initialize(template_file)
     @yaml = YAML.safe_load(File.read(relative_path("resume.yml")))
     @resume = JSON.parse(yaml.to_json, object_class: OpenStruct)
-    @template = File.read(relative_path("resume.html.erb"))
+    @template = File.read(template_file)
   end
 
   def render

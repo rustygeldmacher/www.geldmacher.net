@@ -24,7 +24,11 @@ class WwwGeldmacherNetServer < Sinatra::Base
   end
 
   get '/resume/' do
-    Resume.new.render
+    Resume.new("resume/resume.html.erb").render
+  end
+
+  get '/resume/resume.md' do
+    Resume.new("resume/resume.md.erb").render
   end
 
   # Handle resume static files
