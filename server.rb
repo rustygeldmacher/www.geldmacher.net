@@ -46,7 +46,7 @@ class WwwGeldmacherNetServer < Sinatra::Base
   not_found do
     path = Pathname.new(request.path)
     static_path = File.join(settings.public_folder, path)
-    
+
     if File.directory?(static_path)
       static_path = File.join(static_path, 'index.html')
     end
@@ -64,4 +64,4 @@ end
 if __FILE__ == $0
   puts "Starting server at http://localhost:4567"
   WwwGeldmacherNetServer.run!
-end 
+end

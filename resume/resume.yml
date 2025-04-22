@@ -5,7 +5,7 @@ title: Engineer, Leader
 email: rusty@geldmacher.net
 phone: (508) 353-3962
 pdf: RustyGeldmacher.pdf
-show_role_highlights: 2
+show_role_highlights: 3
 show_jobs: 6
 links:
 - title: www.geldmacher.net/resume
@@ -59,6 +59,7 @@ skills:
   - Apache / Passenger
   - Ansible, Packer
   - Sensu, Fluentd, Grafana
+
 career:
 - company: Amazon
   location: Seattle, WA (remote)
@@ -126,21 +127,21 @@ career:
     value: AWS, Ansible, Docker, Packer, HAProxy, Sensu, Fluentd, Kibana, Grafana, InfluxDB
   - key: AWS
     value: ECS, RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
-  summary: >
-    Led engineering management team as Engineering Director; established career
-    development frameworks, standardized hiring processes, and implemented
-    feedback systems. As Platform Architect, provided cloud platform leadership
-    and guided modernization efforts. Started as Senior Staff Engineer
-    developing EHR features, created platform team, revamped cloud automation,
-    implemented monitoring systems, and organized agile development teams.
+  # summary: >
+  #   Led engineering management team as Engineering Director; established career
+  #   development frameworks, standardized hiring processes, and implemented
+  #   feedback systems. As Platform Architect, provided cloud platform leadership
+  #   and guided modernization efforts. Started as Senior Staff Engineer
+  #   developing EHR features, created platform team, revamped cloud automation,
+  #   implemented monitoring systems, and organized agile development teams.
   roles:
   - role: Director of Engineering
     start: 2018-06
     end: 2021-09
     highlights:
-    - Managed engineering management team with all managers reporting to this
-      role. Established processes for engineer development, hiring, onboarding,
-      performance evaluation, and consistent management practices.
+    - Led engineering management team with all engineering managers reporting to
+      this role. Established processes for engineer development, hiring,
+      onboarding, performance evaluation, and consistent management practices.
     - Designed and launched Iora Engineering's title ladder, role descriptions,
       and competency matrix to increase fairness and consistency in evaluations.
     - Overhauled engineering's interviewing process to increase objectivity,
@@ -156,8 +157,8 @@ career:
     highlights:
     - Served as the architect and owner of Iora's cloud platform technology and
       associated roadmap in addition to role as engineering director.
-    - Served as the platform team "product owner" by setting architectural
-      goals, prioritizing deliverables, and ensuring on-time project completion.
+    - Set architectural goals, prioritized deliverables, and ensured on-time
+      project completion.
     - Directed platform team through migration to third-party managed services,
       containerization of workloads, implementation of dedicated on-call rotation,
       and improved system performance visibility.
@@ -188,9 +189,10 @@ career:
   summary: >
     Migrated from physical data centers to AWS, implemented automation with
     Fog/Puppet for provisioning and Nagios/Monit for monitoring. Modernized
-    Rails applications from 2.3.x to 3.2.x, replaced JBoss-based ESB with
-    Resque, implemented asset pipeline. Led scrum team delivering features while
-    establishing standardized practices that enhanced velocity and
+    Rails applications from 2.3.x to 3.2.x, led migration from MySQL to
+    PostgreSQL, replaced JBoss-based ESB with Resque, implemented asset
+    pipeline. Led scrum team delivering features while establishing standardized
+    practices that enhanced velocity and
     predictability.
   roles:
   - role: Principal Engineer
@@ -200,8 +202,10 @@ career:
     - Led five-member scrum team responsible for Sermo's user-facing features.
       Organized backlog with product owner, facilitated grooming sessions, and
       ensured consistent sprint commitment delivery.
+    - Coordinated and directed the effort to migrate all of Sermo's web applications
+      from MySQL to PostgreSQL.
     - Drove organizational and process improvements such as improving team
-      velocity and predictability by adopting a better story writing and grooming
+      velocity and predictability by adopting a better story writing and refinement
       process. Also led the implementation and adoption of team-wide [style
       guides](http://github.com/sermo/guides).
     - Cleaned up code base, performed maintenance, and implemented general

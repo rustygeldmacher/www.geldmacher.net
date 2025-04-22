@@ -2,17 +2,20 @@
 
 [<%= resume.email %>](mailto:<%= resume.email %>) -- <%= resume.phone %>
 
+## Summary
+<%= resume.summary %>
+
 ## Skills
 <% resume.skills.current.each do |skill| %>
 * <%= skill -%>
 <% end %>
 
 ## Career
-<% resume.career.each do |job| %>
-### <%= job.company %> - <%= job.location %>
-<%- Array(job.details).each do |detail| -%>
+<% resume.career.each_with_index do |job, job_i| %>
+### [<%= job.company %>](<%= job.url %>) - <%= job.location %>
+<%- Array(job.details).each do |detail| %>
 **<%= detail.key %>**: <%= detail.value %>
-<%- end -%>
+<%- end %>
 
 <% if job.summary -%>
 _<%= m job.summary -%>_
@@ -20,8 +23,10 @@ _<%= m job.summary -%>_
 
 <% job.roles.each do |role| -%>
 #### <%= role.role %>, <%= role_range(role) %>
+<% if job_i < resume.show_role_highlights -%>
 <% role.highlights.each do |highlight| %>
 * <%= highlight -%>
+<% end %>
 <% end %>
 
 <% end -%>
@@ -29,6 +34,7 @@ _<%= m job.summary -%>_
 ## Education
 <% resume.education.each do |degree| %>
 ### [<%= degree.school %>](<%= degree.url %>) -- <%= degree.location %>
+
 #### <%= degree.degree %>
 
 * Graduated <%= degree.graduated %>
@@ -43,4 +49,6 @@ _<%= m job.summary -%>_
 * [<%= link.title %>](<%= link.url %>)
 <% end -%>
 
+<p class="footer">
 <%= resume.name %> &mdash; <%= resume.email %> &mdash; <%= resume.phone %>
+<p>

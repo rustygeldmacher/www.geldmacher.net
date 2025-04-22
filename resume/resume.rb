@@ -21,6 +21,12 @@ class Resume
 
   private
 
+  def resume_html
+    markdown_template = File.read("resume/resume.md.erb")
+    markdown = ERB.new(markdown_template, 0, "-<>").result(binding)
+    Kramdown::Document.new(markdown).to_html
+  end
+
   def relative_path(path)
     File.expand_path(File.join(File.dirname(__FILE__), path))
   end
@@ -61,7 +67,3 @@ class Resume
     range.join(" to ")
   end
 end
-
-
-
-
