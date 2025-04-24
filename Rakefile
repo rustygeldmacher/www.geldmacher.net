@@ -1,4 +1,5 @@
 DEPLOY_TARGET="geldmacher@www.geldmacher.net"
+CHROME_PATH="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 
 desc "Show the tags that the posts have"
 task :tags do
@@ -21,6 +22,11 @@ end
 
 desc "Build resume"
 task :build_resume do
+  unless File.exist?(CHROME_PATH)
+    puts "Cannot find Google Chrome installed at #{CHROME_PATH}"
+    exit 1
+  end
+
   resume_files = `git ls-files resume/`.split
   newest_file = resume_files.map { |f| File.mtime(f) }.sort.last
 
@@ -39,7 +45,8 @@ task :build_resume do
     FileUtils.rm_f('resume/index.html')
     FileUtils.rm_f('resume/RustyGeldmacher.pdf')
     system('curl --silent http://localhost:4567/resume/ > resume/index.html')
-    system('wkhtmltopdf http://localhost:4567/resume/?p=1 resume/RustyGeldmacher.pdf')
+    # system('wkhtmltopdf --print-media-type http://localhost:4567/resume/ resume/RustyGeldmacher.pdf')
+    system("'#{CHROME_PATH}' --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume/RustyGeldmacher.pdf http://localhost:4567/resume/")
   end
 end
 
