@@ -59,17 +59,17 @@ p {
   margin-bottom: 0.5em;
 }
 
-p.footer {
-  text-align: center;
-  padding: 1.5em 0;
-}
-
 #skills + ul {
   column-count: 3;
 }
 
 #skills + ul li {
   padding-bottom: 0.25rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5em 0;
 }
 
 @media print {
@@ -79,5 +79,9 @@ p.footer {
 
   #links + ul > li > a::after {
     content: " (" attr(href) ")";
+  }
+
+  p.download {
+    display: none;
   }
 }
