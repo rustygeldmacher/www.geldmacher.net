@@ -1,3 +1,4 @@
+.DS_Store
 _site*
 release.tar.gz
 resume/index.html
