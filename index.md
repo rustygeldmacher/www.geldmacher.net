@@ -19,6 +19,7 @@ body_class: home
 
 ## projects & experiments
 
+* [he built well](https://hebuiltwell.geldmacher.net) - Digitized version of my great-great-great-great-grandfather's autobiography and genealogy
 * [good eats](good-eats/) - Attempting to cook my way through Good Eats
 * [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
 * [jekyll-contentblocks](https://github.com/rustygeldmacher/jekyll-contentblocks) - Jekyll plugin giving you something similar to content_for in Rails
