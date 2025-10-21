@@ -5,8 +5,19 @@
   recipes:
   - name: Sparkling Gingered Face
     url: https://www.foodnetwork.com/recipes/alton-brown/sparkling-gingered-face-recipe-1911098
+    cooked_on: 2025-10-19
+    crowd: 1
+    ease: 4
+    notes:
+    - Used prosecco instead of champagne
+    - Bloomed in ginger ale, and then microwaved until it got to about 150, then added prosecco
   - name: Cinnamon Cherry Heart
     url: https://www.foodnetwork.com/recipes/alton-brown/cinnamon-cherry-heart-recipe-1911093
+    cooked_on: 2025-10-19
+    crowd: 1
+    ease: 4
+    notes:
+    - Only used 1 tsp of cinnamon extract. 2 tsp would have been overpowering.
   - name: Panna Cotta Brain with Cranberry Glaze
     url: https://www.foodnetwork.com/recipes/alton-brown/panna-cotta-brain-with-cranberry-glaze-recipe-1938818
     cooked_on: 2024-02-14
@@ -18,6 +29,7 @@
     - Could probably put some plastic wrap on top while it sets to help avoid "skin"
   - name: Spooky Edible Eyes
     url: https://www.foodnetwork.com/recipes/alton-brown/spooky-edible-eyes-recipe-2013612
+    is_bonus: True
 
 - title: Oat Cuisine
   season: 5
@@ -32,6 +44,12 @@
     - Used full fat buttermilk
   - name: Overnight Oatmeal
     url: https://www.foodnetwork.com/recipes/alton-brown/overnight-oatmeal-recipe-1939324
+    cooked_on: 2025-10-18
+    crowd: 3
+    ease: 4
+    notes:
+    - Used both dried cherries and dried apricots. Apricots overpowered it.
+    - Ultimately landed on no fruit additions being our favorite.
   - name: Granola
     url: https://www.foodnetwork.com/recipes/alton-brown/granola-recipe-1939521
     cooked_on: 2023-04-16
@@ -90,12 +108,16 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/bacon-vinaigrette-with-grilled-radicchio-recipe-1939636
   - name: Honey Mustard Cure
     url: https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-cure-recipe-1939353
+    is_bonus: True
   - name: Molasses Black Pepper Cure
     url: https://www.foodnetwork.com/recipes/alton-brown/molasses-black-pepper-cure-recipe-1939679
+    is_bonus: True
   - name: Red Pepper Brine
     url: https://www.foodnetwork.com/recipes/alton-brown/red-pepper-brine-recipe-1939596
+    is_bonus: True
   - name: Soy Honey Brine
     url: https://www.foodnetwork.com/recipes/alton-brown/soy-honey-brine-recipe-1939578
+    is_bonus: True
 
 - title: Deep Purple
   season: 5
@@ -171,6 +193,13 @@
   recipes:
   - name: Squash Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/squash-soup-recipe-1911350
+    cooked_on: 2024-03-02
+    crowd:
+    ease: 3
+    notes:
+    - Squash took an hour and 15m to cook (vs recipe saying ~35m)
+    - Probably would be way easier to peel the squash next time and roast it in chunks
+    - Used way less salt than the recipe said to, which I am happy I did
   - name: Butternut Dumplings with Brown Butter and Sage
     url: https://www.foodnetwork.com/recipes/alton-brown/butternut-dumplings-with-brown-butter-and-sage-recipe-2013561
   - name: Pumpkin Bread
