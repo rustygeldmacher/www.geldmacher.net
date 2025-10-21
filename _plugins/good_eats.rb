@@ -37,6 +37,8 @@ module Jekyll
           yaml = YAML.load(File.read(filename))
           yaml.each do |episode|
             season = episode['season']
+            # Filter out bonus recipes
+            episode['recipes'].reject! { |r| r['is_bonus'] }
             hash[season] ||= []
             hash[season] << episode
           end
