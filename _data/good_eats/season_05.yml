@@ -104,6 +104,15 @@
   recipes:
   - name: Scrap Iron Chef's Bacon
     url: https://www.foodnetwork.com/recipes/alton-brown/scrap-iron-chefs-bacon-recipe-1939446
+    cooked_on: 2025-10-31
+    crowd: 4
+    ease: 2
+    notes:
+    - Used a 2.5lb pork belly, and halved the amounts in the wet cure
+    - Next time time would flip the belly and put the bottom of the belly up to dry with the
+      fan and develop a pellicle
+    - Smoked it on a grill with a smoke tube, got about 2hrs of smoke per full tube. Smoked
+      for a total of about 6 hours, which I think was plenty.
   - name: Bacon Vinaigrette with Grilled Radicchio
     url: https://www.foodnetwork.com/recipes/alton-brown/bacon-vinaigrette-with-grilled-radicchio-recipe-1939636
   - name: Honey Mustard Cure
