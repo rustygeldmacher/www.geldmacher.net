@@ -115,6 +115,11 @@
       for a total of about 6 hours, which I think was plenty.
   - name: Bacon Vinaigrette with Grilled Radicchio
     url: https://www.foodnetwork.com/recipes/alton-brown/bacon-vinaigrette-with-grilled-radicchio-recipe-1939636
+    cooked_on: 2025-11-16
+    crowd: 3
+    ease: 3
+    notes:
+    - Perhaps grilled the radicchio a bit too long, it lost its color
   - name: Honey Mustard Cure
     url: https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-cure-recipe-1939353
     is_bonus: True
@@ -298,3 +303,8 @@
     - Used baby kosher dills instead of cornichons
   - name: Potato Roesti
     url: https://www.foodnetwork.com/recipes/alton-brown/potato-roesti-recipe-1940112
+    cooked_on: 2025-11-16
+    crowd: 5
+    ease: 3
+    notes:
+    - Next time would try cooking these on a griddle
