@@ -207,8 +207,8 @@
   recipes:
   - name: Squash Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/squash-soup-recipe-1911350
-    cooked_on: 2024-03-02
-    crowd:
+    cooked_on: 2025-10-21
+    crowd: 4
     ease: 3
     notes:
     - Squash took an hour and 15m to cook (vs recipe saying ~35m)
