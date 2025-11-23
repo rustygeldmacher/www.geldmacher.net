@@ -127,7 +127,7 @@ point.
 
 ### Hasn’t this been done before?
 
-Most definitely. One example is Allison Cooks Good Eats, where she’s
+Most definitely. One example is [Allison Cooks Good Eats](https://allisoncooksgoodeats.com/), where she’s
 going episode-by-episode through the show. I’ve been referencing her
 entries for tips and stuff on the recipes. For instance, I didn’t
 realize that sometimes the recipe in the show differs from the recipe

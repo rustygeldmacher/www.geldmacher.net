@@ -216,6 +216,13 @@
     - Used way less salt than the recipe said to, which I am happy I did
   - name: Butternut Dumplings with Brown Butter and Sage
     url: https://www.foodnetwork.com/recipes/alton-brown/butternut-dumplings-with-brown-butter-and-sage-recipe-2013561
+    cooked_on: 2025-11-22
+    crowd: 3
+    ease: 2
+    notes:
+    - Substituted Bob's Red Mill 1-to-1 Gluten Free flour, plus a quarter teaspoon of xanthan gum
+    - Added an extra quarter cup of flour
+    - Would benefit from a cream or butter sauce
   - name: Pumpkin Bread
     url: https://www.foodnetwork.com/recipes/alton-brown/pumpkin-bread-recipe-1911283
     cooked_on: 2024-03-02
