@@ -12,19 +12,19 @@ body_class: home
 	{% endfor %}
 </ul>
 
+## projects & experiments
+
+* [he built well](https://hebuiltwell.geldmacher.net) - Digitized version of my great-great-great-great-grandfather's autobiography and genealogy
+* [good eats](good-eats/) - Attempting to cook my way through Good Eats
+* [flickr_to_google_photos](https://github.com/rustygeldmacher/flickr_to_google_photos) - A command line tool to help you move your Flickr albums to Google Photos
+* [jekyll-contentblocks](https://github.com/rustygeldmacher/jekyll-contentblocks) - Jekyll plugin giving you something similar to content_for in Rails
+* [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
+
 ## hiking
 
 * [4000 footer list and summit info](/4000-footers/) - Chronicling the quest to summit all 4,000+ foot peaks in New Hampshire's White Mountains.
 * [All hike reports](/hikes.html) - 4000 footers and otherwise
 
-## projects & experiments
-
-* [he built well](https://hebuiltwell.geldmacher.net) - Digitized version of my great-great-great-great-grandfather's autobiography and genealogy
-* [good eats](good-eats/) - Attempting to cook my way through Good Eats
-* [marmalade](https://github.com/rustygeldmacher/marmalade) - Ruby framework and DSL for Google Code Jam puzzles
-* [jekyll-contentblocks](https://github.com/rustygeldmacher/jekyll-contentblocks) - Jekyll plugin giving you something similar to content_for in Rails
-* [canvas life](http://life.geldmacher.net) - Implementation of Conway's Game of Life in JavaScript and HTML canvas
-* [superlinks](https://github.com/rustygeldmacher/superlinks) - Small WordPress plugin to add links to the sidebar
 
 {% contentfor sidebar %}
 
