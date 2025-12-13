@@ -277,6 +277,11 @@
     - Would salt them a little more next time
   - name: Clams on the Half Shell with Fresh Mayonnaise
     url: https://www.foodnetwork.com/recipes/alton-brown/clams-on-the-half-shell-with-fresh-mayonnaise-recipe-1951771
+    cooked_on: 2025-12-12
+    crowd: 3
+    ease: 4
+    notes:
+    - Made fresh mayo with avocado oil and a stick blender
   - name: Clam Chowder
     url: https://www.foodnetwork.com/recipes/alton-brown/clam-chowder-recipe-1911555
     cooked_on: 2024-05-11
