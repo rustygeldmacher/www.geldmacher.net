@@ -176,6 +176,7 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/sour-cream-cheesecake-recipe-1939639
   - name: Savory Cheesecake
     url: https://www.foodnetwork.com/recipes/alton-brown/savory-cheesecake-recipe-1911362
+    is_bonus: True
 
 - title: Squid Pro Quo
   season: 5
