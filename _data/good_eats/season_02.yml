@@ -1,5 +1,5 @@
 ---
-- title: It's A Wonderful Cake
+- title: It's a Wonderful Cake
   season: 2
   number: 1
   recipes:
@@ -132,7 +132,8 @@
     notes:
     - What can I say? Chemex makes an awesome cup of coffee.
 
-- title: A Grind is a Terrible Thing to Waste
+- title: Daily Grind
+  alternate_title: A Grind is a Terrible Thing to Waste
   season: 2
   number: 8
   recipes:
@@ -209,7 +210,8 @@
     notes:
     - Used somewhere between a cup and 1.5 cups of cream
 
-- title: Pork Fiction
+- title: A Rib for All Seasons
+  alternate_title: Pork Fiction
   season: 2
   number: 13
   recipes:

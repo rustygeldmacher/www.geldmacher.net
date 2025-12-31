@@ -1,12 +1,12 @@
 ---
-- title: Crustacean Nation 4
+- title: 'Crustacean Nation IV: Crawfish'
   season: 13
   number: 1
   recipes:
   - name: Crawfish Boil
     url: https://www.foodnetwork.com/recipes/alton-brown/crawfish-boil-recipe-1947069
 
-- title: Tamale Never Die
+- title: Tamale Never Dies
   season: 13
   number: 2
   recipes:
@@ -15,7 +15,7 @@
   - name: Turkey Tamales
     url: https://www.foodnetwork.com/recipes/alton-brown/turkey-tamales-recipe-2011955
 
-- title: American Classics 4
+- title: 'American Classics IV: Spaghetti with Meat Sauce'
   season: 13
   number: 3
   recipes:
@@ -75,7 +75,7 @@
   - name: Lamb Shoulder Chops with Red Wine
     url: https://www.foodnetwork.com/recipes/alton-brown/lamb-shoulder-chops-with-red-wine-recipe-2095608
 
-- title: American Classics V
+- title: 'American Classics V: A Pound of Cake'
   season: 13
   number: 10
   recipes:
@@ -112,7 +112,7 @@
   - name: Tsuyu Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/tsuyu-sauce-recipe-1918199
 
-- title: The "Proof" is in the Pudding
+- title: The Proof is in the Pudding
   season: 13
   number: 13
   recipes:
@@ -134,7 +134,7 @@
   - name: Buff Smoothie
     url: https://www.foodnetwork.com/recipes/alton-brown/buff-smoothie-recipe-2014144
 
-- title: Raising the Bar Again
+- title: 'American Classics VI: Raising the Bar Again'
   season: 13
   number: 16
   recipes:
@@ -156,7 +156,7 @@
   - name: Praline Bacon
     url: https://www.foodnetwork.com/recipes/alton-brown/praline-bacon-recipe-1949714
 
-- title: American Classics 7
+- title: 'American Classics VII: Chicken and Dumplings'
   season: 13
   number: 18
   recipes:

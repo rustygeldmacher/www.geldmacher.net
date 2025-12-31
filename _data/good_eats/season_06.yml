@@ -1,5 +1,5 @@
 ---
-- title: The Other Red Meat
+- title: 'Tuna: The Other Red Meat'
   season: 6
   number: 1
   recipes:
@@ -19,7 +19,8 @@
   - name: Frozen Strawberries
     url: https://www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039
 
-- title: The Choke's On You
+- title: "Artichokes: The Choke is on You"
+  alternate_title: "The Choke's On You"
   season: 6
   number: 3
   recipes:
@@ -65,7 +66,7 @@
   - name: Tomato Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/tomato-sauce-recipe-1912571
 
-- title: Amber Waves
+- title: 'True Brew III: Amber Waves'
   season: 6
   number: 7
   recipes:
@@ -112,7 +113,7 @@
   - name: Garlic Shrimp Casserole
     url: https://www.foodnetwork.com/recipes/alton-brown/garlic-shrimp-casserole-recipe-1912929
 
-- title: Use Your Noodle III
+- title: 'Use Your Noodle III: Fresh Pasta'
   season: 6
   number: 12
   recipes:
@@ -134,7 +135,7 @@
   - name: Asian Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307
 
-- title: A Cake On Every Plate
+- title: A Cake on Every Plate
   season: 6
   number: 14
   recipes:
@@ -143,7 +144,7 @@
   - name: Cocoa Whipped Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-whipped-cream-recipe-1940855
 
-- title: The Icing Man Commeth
+- title: The Icing Man Cometh
   season: 6
   number: 15
   recipes:
@@ -165,7 +166,7 @@
   - name: Pickled Beets
     url: https://www.foodnetwork.com/recipes/alton-brown/pickled-beets-recipe-1913751
 
-- title: Fit To Be Tied
+- title: Fit to be Tied
   season: 6
   number: 17
   recipes:

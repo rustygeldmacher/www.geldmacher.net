@@ -20,6 +20,7 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/pulled-pork-recipe-1914045
 
 - title: 'The Egg-Files VI: French Flop'
+  alternate_title: Zen and the Art of Omelet Maintenance
   season: 7
   number: 3
   recipes:
@@ -48,7 +49,7 @@
   - name: Chicken Noodle Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/chicken-noodle-soup-recipe-1914030
 
-- title: A Beautiful Grind
+- title: 'Sausage: A Beautiful Grind'
   season: 7
   number: 6
   recipes:
@@ -57,7 +58,7 @@
   - name: Italian Sausage
     url: https://www.foodnetwork.com/recipes/alton-brown/italian-sausage-recipe-2131680
 
-- title: Raising The Steaks
+- title: Raising the Steaks
   season: 7
   number: 7
   recipes:
@@ -98,7 +99,8 @@
   - name: Cherry Couscous Pudding
     url: https://www.foodnetwork.com/recipes/alton-brown/cherry-couscous-pudding-recipe-1941940
 
-- title: The Tricks To Treats
+- title: Tricks for Treats
+  alternate_title: The Tricks To Treats
   season: 7
   number: 10
   recipes:
@@ -171,7 +173,7 @@
   - name: Peanut Butter Fudge
     url: https://www.foodnetwork.com/recipes/alton-brown/peanut-butter-fudge-recipe-1941711
 
-- title: Sometimes You Feel Like A ...
+- title: Sometimes You Feel Like A...
   season: 7
   number: 17
   recipes:
@@ -206,7 +208,8 @@
   - name: Welsh Rarebit
     url: https://www.foodnetwork.com/recipes/alton-brown/welsh-rarebit-recipe-1914850
 
-- title: Top Banana
+- title: Going Bananas
+  alternate_title: Top Banana
   season: 7
   number: 20
   recipes:

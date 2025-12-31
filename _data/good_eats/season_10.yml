@@ -39,7 +39,7 @@
   - name: Overnight Monkey Bread
     url: https://www.foodnetwork.com/recipes/alton-brown/overnight-monkey-bread-recipe-1946146
 
-- title: Cubing A Round
+- title: Cubing a Round
   season: 10
   number: 4
   recipes:
@@ -50,12 +50,12 @@
   - name: Swiss Steak
     url: https://www.foodnetwork.com/recipes/alton-brown/swiss-steak-recipe-1917184
 
-- title: Water Works 1
+- title: Water Works I
   season: 10
   number: 5
   recipes: []
 
-- title: Water Works 2
+- title: Water Works II
   season: 10
   number: 6
   recipes: []
@@ -95,7 +95,8 @@
   - name: Squid Stuffed Squid
     url: https://www.foodnetwork.com/recipes/alton-brown/squid-stuffed-squid-recipe-1946467
 
-- title: Pop Art
+- title: Pop Culture
+  alternate_title: Pop Art
   season: 10
   number: 10
   recipes:
@@ -119,7 +120,7 @@
   - name: Pepper Vodka
     url: https://www.foodnetwork.com/recipes/alton-brown/pepper-vodka-recipe-2103970
 
-- title: Fry Turkey Fry
+- title: Fry, Turkey, Fry!
   season: 10
   number: 12
   recipes:
@@ -164,7 +165,7 @@
   - name: Cornish Game Hen with Bacon and Onions
     url: https://www.foodnetwork.com/recipes/alton-brown/cornish-game-hen-with-bacon-and-onions-recipe-1947086
 
-- title: Fruit Ten From Outer Space
+- title: Fruit Ten from Outer Space
   season: 10
   number: 17
   recipes:
@@ -177,7 +178,8 @@
   - name: Tequila Sunrise
     url: https://www.foodnetwork.com/recipes/alton-brown/tequila-sunrise-recipe-1947658
 
-- title: Pickled Pink
+- title: Corn the Beef
+  alternate_title: Pickled Pink
   season: 10
   number: 18
   recipes:

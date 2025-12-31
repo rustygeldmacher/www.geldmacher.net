@@ -6,7 +6,8 @@
   - name: Dry Aged Chimney Porterhouse
     url: https://www.foodnetwork.com/recipes/alton-brown/dry-aged-chimney-porterhouse-recipe-2014714
 
-- title: Grillvs Domesticvs
+- title: Grillus Domesticus
+  alternate_title: Grillvs Domesticvs
   season: 14
   number: 2
   recipes:
@@ -31,7 +32,7 @@
   - name: Eggs Benedict
     url: https://www.foodnetwork.com/recipes/alton-brown/eggs-benedict-recipe-2118606
 
-- title: Flat is Beautiful V
+- title: 'Flat Is Beautiful V: Grilled Pizza'
   season: 14
   number: 5
   recipes:
@@ -64,7 +65,7 @@
   - name: Crema
     url: https://www.foodnetwork.com/recipes/alton-brown/crema-recipe-1921080
 
-- title: 'Fry Hard III: Fry, Tempura, Fry'
+- title: 'Fry Hard III: Fry, Tempura, Fry!'
   season: 14
   number: 8
   recipes: []
@@ -106,7 +107,7 @@
   - name: Overstuffed Pattypan Squash
     url: https://www.foodnetwork.com/recipes/alton-brown/overstuffed-pattypan-squash-recipe-1922326
 
-- title: American Classics 9
+- title: 'American Classics IX: Pumpkin Pie'
   season: 14
   number: 12
   recipes:
@@ -117,7 +118,7 @@
   - name: Whole Pumpkin Pie Soup
     url: https://www.foodnetwork.com/recipes/alton-brown/whole-pumpkin-pie-soup-recipe-1922442
 
-- title: Egg Files 7
+- title: 'Egg Files VII: Meringue'
   season: 14
   number: 13
   recipes:
@@ -167,7 +168,7 @@
   - name: Chicken Biscuit Pot Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/chicken-biscuit-pot-pie-recipe-1923802
 
-- title: Use Your Noodle 4
+- title: 'Use Your Noodle IV: Lasagna'
   season: 14
   number: 17
   recipes:
@@ -176,14 +177,14 @@
   - name: Lasagna Noodle Kugel
     url: https://www.foodnetwork.com/recipes/alton-brown/lasagna-noodle-kugel-recipe-1924124
 
-- title: Waiter, There Is A Fish In My Soup
+- title: Waiter, There's a Fish in My Soup
   season: 14
   number: 18
   recipes:
   - name: Positively, Absolutely, Not Real Bouillabaisse
     url: https://www.foodnetwork.com/recipes/alton-brown/positively-absolutely-not-real-bouillabaisse-recipe-2047688
 
-- title: The Proof Is In the Bread Pudding
+- title: The Proof Is in the Bread Pudding
   season: 14
   number: 19
   recipes:
@@ -212,7 +213,7 @@
   - name: Cauliflower Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/cauliflower-slaw-recipe-1924138
 
-- title: Use Your Noodle 5
+- title: 'Use Your Noodle V: Asian Noodles'
   season: 14
   number: 22
   recipes:

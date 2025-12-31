@@ -1,5 +1,5 @@
 ---
-- title: Hittin' The Sauce
+- title: Hittin' the Sauce
   season: 8
   number: 1
   recipes:
@@ -61,7 +61,7 @@
   - name: Pressure Cooker Chili
     url: https://www.foodnetwork.com/recipes/alton-brown/pressure-cooker-chili-recipe-1942714
 
-- title: SandwichCraft
+- title: Sandwich-craft
   season: 8
   number: 7
   recipes:
@@ -92,7 +92,7 @@
   - name: Parmesan Crisps
     url: https://www.foodnetwork.com/recipes/alton-brown/parmesan-crisps-recipe-1915856
 
-- title: Art of Darkness III
+- title: 'Art of Darkness III: Ganache'
   season: 8
   number: 11
   recipes:
@@ -123,7 +123,7 @@
   - name: Turkey with Stuffing
     url: https://www.foodnetwork.com/recipes/alton-brown/turkey-with-stuffing-2124357
 
-- title: Pudding Head Blues
+- title: Puddin' Head Blues
   season: 8
   number: 13
   recipes:
@@ -157,7 +157,7 @@
   - name: Coq au Vin
     url: https://www.foodnetwork.com/recipes/alton-brown/coq-au-vin-recipe-1952021
 
-- title: A Taproot Orange
+- title: 'Carrots: A Taproot Orange'
   season: 8
   number: 17
   recipes:
@@ -168,7 +168,7 @@
   - name: Carrot Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/carrot-cake-recipe-1953483
 
-- title: Sprung A Leek
+- title: Sprung a Leek
   season: 8
   number: 18
   recipes:

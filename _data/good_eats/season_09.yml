@@ -19,14 +19,14 @@
   - name: Vanilla Lime Pineapple Skewers
     url: https://www.foodnetwork.com/recipes/alton-brown/vanilla-lime-pineapple-skewers-recipe-2013764
 
-- title: Urban Preservation II
+- title: 'Urban Preservation II: The Jerky'
   season: 9
   number: 3
   recipes:
   - name: Beef Jerky
     url: https://www.foodnetwork.com/recipes/alton-brown/beef-jerky-recipe-2103581
 
-- title: Churn Baby Churn 2
+- title: Churn Baby Churn II
   season: 9
   number: 4
   recipes:
@@ -68,7 +68,7 @@
   - name: Individual Berry Crisps
     url: https://www.foodnetwork.com/recipes/alton-brown/individual-berry-crisps-recipe-1953558
 
-- title: Good Wine Gone Bad
+- title: 'Pantry Raid V: Good Wine Gone Bad'
   season: 9
   number: 8
   recipes:
@@ -77,7 +77,8 @@
   - name: Sauerbraten
     url: https://www.foodnetwork.com/recipes/alton-brown/sauerbraten-recipe-1944490
 
-- title: The Waffle Truth
+- title: Wondrous Waffles
+  alternate_title: The Waffle Truth
   season: 9
   number: 9
   recipes:
@@ -86,7 +87,7 @@
   - name: Chocolate Waffle
     url: https://www.foodnetwork.com/recipes/alton-brown/chocolate-waffle-recipe2-1918052
 
-- title: Great Balls of Meat
+- title: Great Balls O' Meat
   season: 9
   number: 10
   recipes:
@@ -95,7 +96,7 @@
   - name: Swedish Meatballs
     url: https://www.foodnetwork.com/recipes/alton-brown/swedish-meatballs-recipe-1916539
 
-- title: Curious Yet Tasty Avocado Experiment
+- title: Curious Yet Tasty Avocado Experiments
   season: 9
   number: 11
   recipes:
@@ -140,7 +141,7 @@
   - name: Steak au Poivre
     url: https://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe-1916730
 
-- title: Raising The Bar
+- title: Raising the Bar
   season: 9
   number: 16
   recipes:
@@ -164,7 +165,7 @@
   - name: Stuffed Tenderloin
     url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-tenderloin-recipe-1916871
 
-- title: Flat is Beautiful III - Flounder
+- title: 'Flat is Beautiful III: Flounder'
   season: 9
   number: 18
   recipes:
@@ -182,7 +183,7 @@
   - name: Pad Thai
     url: https://www.foodnetwork.com/recipes/alton-brown/pad-thai-2103803
 
-- title: Shell Game IV
+- title: 'Shell Game IV: Scallops'
   season: 9
   number: 20
   recipes:

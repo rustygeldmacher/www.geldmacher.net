@@ -41,7 +41,7 @@
   - name: Faux Peanut Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/faux-peanut-sauce-recipe-1947832
 
-- title: Fishn' Whole
+- title: Fishin' Whole
   season: 11
   number: 5
   recipes:
@@ -116,7 +116,7 @@
   - name: Blueberry Soda
     url: https://www.foodnetwork.com/recipes/alton-brown/blueberry-soda-recipe-1950476
 
-- title: Puff The Magic Mallow
+- title: Puff the Magic Mallow
   season: 11
   number: 12
   recipes:
@@ -141,14 +141,14 @@
   - name: Buffalo Wings
     url: https://www.foodnetwork.com/recipes/alton-brown/buffalo-wings-recipe-1937515
 
-- title: Apple of My Pie
+- title: 'American Classics II: Apple of My Pie'
   season: 11
   number: 15
   recipes:
   - name: Super Apple Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/super-apple-pie-recipe-1953451
 
-- title: If It Ain't Broccoli, Don't Fix It
+- title: If It Ain't Broccoli Don't Fix It
   season: 11
   number: 16
   recipes:
@@ -165,3 +165,23 @@
   recipes:
   - name: Crown Roast of Lamb
     url: https://www.foodnetwork.com/recipes/alton-brown/crown-roast-of-lamb-recipe-2082917
+
+- title: Honey I Shrunk the Cake
+  season: 11
+  number: 18
+  recipes:
+  - name: Chiffon Cupcakes
+    url: https://www.foodnetwork.com/recipes/chiffon-cupcakes-recipe-1938763
+  - name: Chocolate Chiffon Cupcake
+    url: https://www.foodnetwork.com/recipes/chocolate-chiffon-cupcake-recipe-1938916
+
+- title: Going Dutch
+  season: 11
+  number: 19
+  recipes:
+  - name: Knead Not Sourdough
+    url: https://www.foodnetwork.com/recipes/knead-not-sourdough-recipe-1939606
+  - name: Dutch Oven Cherry Clafouti
+    url: https://www.foodnetwork.com/recipes/dutch-oven-cherry-clafouti-recipe-2047259
+  - name: Dutch Oven Hoecakes
+    url: https://www.foodnetwork.com/recipes/dutch-oven-hoecakes-recipe-2047247

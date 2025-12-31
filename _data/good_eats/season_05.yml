@@ -100,14 +100,15 @@
     - Quiches took 25m to set rather than 15m the recipe says
     - Would not use equal portions of salt and pepper -- way less pepper next time
 
-- title: Celebrity Roast
+- title: Family Roast
+  alternate_title: Celebrity Roast
   season: 5
   number: 4
   recipes:
   - name: Dry Aged Standing Rib Roast with Sage Jus
     url: https://www.foodnetwork.com/recipes/alton-brown/dry-aged-standing-rib-roast-with-sage-jus-recipe-1939502
 
-- title: Scrap Iron Chef - Bacon Challenge
+- title: 'Scrap Iron Chef: Bacon Challenge'
   season: 5
   number: 5
   recipes:
@@ -142,7 +143,8 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/soy-honey-brine-recipe-1939578
     is_bonus: True
 
-- title: Deep Purple
+- title: Berry from Another Planet
+  alternate_title: Deep Purple
   season: 5
   number: 6
   recipes:
@@ -188,7 +190,7 @@
   - name: Squid Vicious
     url: https://www.foodnetwork.com/recipes/alton-brown/squid-vicious-recipe-1939338
 
-- title: Art of Darkness II
+- title: 'Art of Darkness II: Cocoa'
   season: 5
   number: 9
   recipes:
@@ -279,7 +281,7 @@
     - Fried the smaller pieces for about 2 minutes, and the larger pieces for about 2.5 minutes
     - Served up with some heated up marinara sauce
 
-- title: Send In The Clams
+- title: 'Shell Game II: Send in the Clams'
   season: 5
   number: 12
   recipes:
@@ -309,7 +311,7 @@
     - Ended up probably using 3 cups of milk instead of the two called for in the recipe.
       Otherwise, there wouldn't have been enough to cook the potatoes.
 
-- title: This Spud's For You Too
+- title: This Spud's for You Too
   season: 5
   number: 13
   recipes:

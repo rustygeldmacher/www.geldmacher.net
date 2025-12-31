@@ -1,35 +1,4 @@
 ---
-- title: Cran Opening
-  season: 12
-  number: 20
-  recipes:
-  - name: Fresh Cranberry Cosmo
-    url: https://www.foodnetwork.com/recipes/alton-brown/fresh-cranberry-cosmo-recipe-1943877
-  - name: Cranberry Granita
-    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-granita-recipe-1943855
-  - name: Cranberry Sauce
-    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-sauce-recipe2-1944111
-
-- title: Honey, I Shrunk The Cake
-  season: 11
-  number: 18
-  recipes:
-  - name: Chiffon Cupcakes
-    url: https://www.foodnetwork.com/recipes/chiffon-cupcakes-recipe-1938763
-  - name: Chocolate Chiffon Cupcake
-    url: https://www.foodnetwork.com/recipes/chocolate-chiffon-cupcake-recipe-1938916
-
-- title: Going Dutch
-  season: 11
-  number: 19
-  recipes:
-  - name: Knead Not Sourdough
-    url: https://www.foodnetwork.com/recipes/knead-not-sourdough-recipe-1939606
-  - name: Dutch Oven Cherry Clafouti
-    url: https://www.foodnetwork.com/recipes/dutch-oven-cherry-clafouti-recipe-2047259
-  - name: Dutch Oven Hoecakes
-    url: https://www.foodnetwork.com/recipes/dutch-oven-hoecakes-recipe-2047247
-
 - title: Popover Sometime
   season: 12
   number: 1
@@ -54,7 +23,7 @@
   - name: Celeriac Puree
     url: https://www.foodnetwork.com/recipes/alton-brown/celeriac-puree-recipe-1939419
 
-- title: Tuna, Surprise
+- title: Tuna, Surprise!
   season: 12
   number: 3
   recipes:
@@ -105,7 +74,7 @@
   - name: Edamame Dip
     url: https://www.foodnetwork.com/recipes/alton-brown/edamame-dip-recipe-1952123
 
-- title: Going Crackers
+- title: 'Flat Is Beautiful IV: Going Crackers'
   season: 12
   number: 8
   recipes:
@@ -132,7 +101,7 @@
   - name: Baklava
     url: https://www.foodnetwork.com/recipes/alton-brown/baklava-recipe-1943974
 
-- title: Rise of the Rhizome
+- title: 'Ginger: Rise of the Rhizome'
   season: 12
   number: 11
   recipes:
@@ -190,3 +159,14 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/bi-level-king-salmon-fillet-recipe-1946102
   - name: Broiled Sockeye Salmon with Citrus Glaze
     url: https://www.foodnetwork.com/recipes/alton-brown/broiled-sockeye-salmon-with-citrus-glaze-recipe-1945718
+
+- title: Cran Opening
+  season: 12
+  number: 20
+  recipes:
+  - name: Fresh Cranberry Cosmo
+    url: https://www.foodnetwork.com/recipes/alton-brown/fresh-cranberry-cosmo-recipe-1943877
+  - name: Cranberry Granita
+    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-granita-recipe-1943855
+  - name: Cranberry Sauce
+    url: https://www.foodnetwork.com/recipes/alton-brown/cranberry-sauce-recipe2-1944111
