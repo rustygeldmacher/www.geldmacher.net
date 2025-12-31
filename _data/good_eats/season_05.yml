@@ -90,6 +90,12 @@
     - Could probably get away with half the sugar for the sauce next time
   - name: Crepe Quiche Lorraine
     url: https://www.foodnetwork.com/recipes/alton-brown/crepe-quiche-lorraine-recipe-1911068
+    cooked_on: 2025-12-13
+    crowd: 2
+    ease: 2
+    notes:
+    - Quiches took 25m to set rather than 15m the recipe says
+    - Would not use equal portions of salt and pepper -- way less pepper next time
 
 - title: Celebrity Roast
   season: 5
