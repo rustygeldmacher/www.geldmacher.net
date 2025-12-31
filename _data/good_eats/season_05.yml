@@ -162,6 +162,11 @@
       burn on the bottom of the pan
   - name: Eggplant Pasta
     url: https://www.foodnetwork.com/recipes/alton-brown/eggplant-pasta-recipe-1911359
+    cooked_on: 2024-12-23
+    crowd: 3
+    ease: 3
+    notes:
+    - This sauce would be great with regular pasta, plus a protein like chicken or shrimp
 
 - title: The Trouble with Cheesecake
   season: 5
