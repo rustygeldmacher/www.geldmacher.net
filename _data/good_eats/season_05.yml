@@ -35,6 +35,9 @@
   season: 5
   number: 2
   recipes:
+  - name: Haggis
+    url: https://www.foodnetwork.com/recipes/alton-brown/haggis-recipe-1911083
+    is_bonus: True
   - name: Steel Cut Oatmeal
     url: https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448
     cooked_on: 2023-04-22
