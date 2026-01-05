@@ -110,16 +110,16 @@ module Jekyll
           total_recipes: 0,
           total_cooked: 0,
           seasons_cooked: 0,
-          total_seasons: GoodEats::Index.index.keys.max,
+          total_seasons: GoodEats::Index.seasons.max,
           current_season_recipes: 0,
           current_season_cooked: 0
         }
 
-        GoodEats::Index.index.each do |season, episodes|
+        GoodEats::Index.seasons.each do |season|
           season_total_recipes = 0
           season_cooked_recipes = 0
 
-          episodes.each do |episode|
+          GoodEats::Index.episodes(season).each do |episode|
             episode['recipes'].each do |recipe|
               season_total_recipes += 1
 

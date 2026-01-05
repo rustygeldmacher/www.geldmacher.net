@@ -17,11 +17,11 @@ Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp
 <% GoodEats::Index.seasons.each do |season| -%>
 ## Season <%= season %>
 
-<% GoodEats::Index.episodes(season).each do |episode| -%>
+<% GoodEats::Index.episodes(season, include_bonus: true).each do |episode| -%>
 ### <%= episode["title"] %>
 
 <% episode['recipes'].each do |recipe| -%>
-- [<%= recipe['name'] %>](<%= recipe['url'] %>)
+- [<%= recipe['name'] %>](<%= recipe['url'] %>)<%= recipe["is_bonus"] ? " (bonus)" : "" %>
 <% end %>
 <% end %>
 <% end %>

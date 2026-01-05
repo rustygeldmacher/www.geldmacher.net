@@ -300,9 +300,11 @@ Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp
 - [Sparkling Gingered Face](https://www.foodnetwork.com/recipes/alton-brown/sparkling-gingered-face-recipe-1911098)
 - [Cinnamon Cherry Heart](https://www.foodnetwork.com/recipes/alton-brown/cinnamon-cherry-heart-recipe-1911093)
 - [Panna Cotta Brain with Cranberry Glaze](https://www.foodnetwork.com/recipes/alton-brown/panna-cotta-brain-with-cranberry-glaze-recipe-1938818)
+- [Spooky Edible Eyes](https://www.foodnetwork.com/recipes/alton-brown/spooky-edible-eyes-recipe-2013612) (bonus)
 
 ### Oat Cuisine
 
+- [Haggis](https://www.foodnetwork.com/recipes/alton-brown/haggis-recipe-1911083) (bonus)
 - [Steel Cut Oatmeal](https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448)
 - [Overnight Oatmeal](https://www.foodnetwork.com/recipes/alton-brown/overnight-oatmeal-recipe-1939324)
 - [Granola](https://www.foodnetwork.com/recipes/alton-brown/granola-recipe-1939521)
@@ -322,6 +324,10 @@ Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp
 
 - [Scrap Iron Chef's Bacon](https://www.foodnetwork.com/recipes/alton-brown/scrap-iron-chefs-bacon-recipe-1939446)
 - [Bacon Vinaigrette with Grilled Radicchio](https://www.foodnetwork.com/recipes/alton-brown/bacon-vinaigrette-with-grilled-radicchio-recipe-1939636)
+- [Honey Mustard Cure](https://www.foodnetwork.com/recipes/alton-brown/honey-mustard-cure-recipe-1939353) (bonus)
+- [Molasses Black Pepper Cure](https://www.foodnetwork.com/recipes/alton-brown/molasses-black-pepper-cure-recipe-1939679) (bonus)
+- [Red Pepper Brine](https://www.foodnetwork.com/recipes/alton-brown/red-pepper-brine-recipe-1939596) (bonus)
+- [Soy Honey Brine](https://www.foodnetwork.com/recipes/alton-brown/soy-honey-brine-recipe-1939578) (bonus)
 
 ### Berry from Another Planet
 
@@ -332,6 +338,7 @@ Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp
 ### The Trouble with Cheesecake
 
 - [Sour Cream Cheesecake](https://www.foodnetwork.com/recipes/alton-brown/sour-cream-cheesecake-recipe-1939639)
+- [Savory Cheesecake](https://www.foodnetwork.com/recipes/alton-brown/savory-cheesecake-recipe-1911362) (bonus)
 
 ### Squid Pro Quo
 
