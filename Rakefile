@@ -50,6 +50,42 @@ task :build_resume do
   end
 end
 
+desc "Build Good Eats Recipe Index"
+task :build_recipe_index do
+  require 'erb'
+  require_relative "_plugins/good_eats_index"
+
+  template_content = File.read("good-eats/_recipes.md.erb")
+  erb_object = ERB.new(template_content, trim_mode: "-")
+  output = erb_object.result(binding)
+
+  File.open("good-eats/recipes.md", "w") do |f|
+    f.write(output)
+  end
+
+  # File.open("good-eats/_list.md", "w") do |f|
+  #   GoodEats::Index.seasons.each do |season|
+  #     f.puts("## Season #{season}")
+  #     f.puts
+  #     GoodEats::Index.episodes(season).each do |episode|
+  #       f.puts("### #{episode['title']}")
+  #       f.puts
+  #       episode['recipes'].each do |recipe|
+  #         f.puts "- [#{recipe['name']}](#{recipe['url']})"
+  #       end
+  #       f.puts
+  #     end
+  #   end
+  #   f.puts <<~SUMMARY
+  #   ### Totals
+
+  #   -   Seasons: 16
+  #   -   Episodes: 264
+  #   -   Recipes: 643
+  #   SUMMARY
+  # end
+end
+
 desc "Build the site"
 task :build do
   build = [

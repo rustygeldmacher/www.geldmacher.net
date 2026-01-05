@@ -1,0 +1,27 @@
+---
+body_class: recipe-list
+layout: good_eats
+---
+
+## Complete Good Eats Recipe Index
+
+What follows is perhaps the most complete list of episodes, in order by
+season, along with links to each featured recipe. At the outset of this
+project, I went searching for this list, only to be blocked at every
+turn. To read a little more about how (and why) I put this together,
+check out [this
+FAQ](faq.html#how-did-you-get-all-the-recipes-links-per-season-etc).
+
+Jump To Season: {% for s in (1..16) %}<a href="#season-{{ s }}">{{ s }}</a>&nbsp;{% endfor %}
+
+<% GoodEats::Index.seasons.each do |season| -%>
+## Season <%= season %>
+
+<% GoodEats::Index.episodes(season).each do |episode| -%>
+### <%= episode["title"] %>
+
+<% episode['recipes'].each do |recipe| -%>
+- [<%= recipe['name'] %>](<%= recipe['url'] %>)
+<% end %>
+<% end %>
+<% end %>
