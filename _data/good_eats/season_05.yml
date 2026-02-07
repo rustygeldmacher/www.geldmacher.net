@@ -189,6 +189,15 @@
   recipes:
   - name: Squid Vicious
     url: https://www.foodnetwork.com/recipes/alton-brown/squid-vicious-recipe-1939338
+    cooked_on: 2026-02-07
+    crowd: 5
+    ease: 3
+    notes:
+    - Scraped the inside of the squid bodies, like he did in the episode
+    - Didn't have a wok, so just did this in a regular frying pan over the hottest
+      heat my stove could go
+    - Five rating based mostly on the fact that it's a great general stir-fry, which
+      would be great with shrimp, chicken, etc.
 
 - title: 'Art of Darkness II: Cocoa'
   season: 5
