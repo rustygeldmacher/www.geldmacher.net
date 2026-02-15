@@ -107,6 +107,17 @@
   recipes:
   - name: Dry Aged Standing Rib Roast with Sage Jus
     url: https://www.foodnetwork.com/recipes/alton-brown/dry-aged-standing-rib-roast-with-sage-jus-recipe-1939502
+    cooked_on: 2025-12-14
+    crowd: 5
+    ease: 2
+    notes:
+    - Used a three-bone, 8.75 pound pre-aging weight prime rib roast
+    - Dry aged about 5 days in the fridge, wrapped in cheesecloth
+    - Did not use the terra cotta planter. Cooked in a roasting pan with a rack,
+      lightly covered in foil.
+    - Took 6.5 hours with the first four hours at 200, and the next two and
+      a half at 225.
+    - Added a few pats of butter to the au jus after taking it off the heat
 
 - title: 'Scrap Iron Chef: Bacon Challenge'
   season: 5
@@ -179,6 +190,13 @@
   recipes:
   - name: Sour Cream Cheesecake
     url: https://www.foodnetwork.com/recipes/alton-brown/sour-cream-cheesecake-recipe-1939639
+    cooked_on: 2026-02-13
+    crowd: 4
+    ease: 2
+    notes:
+    - Used two 7oz boxes of Pamela's Honey Grahams
+    - Next time I'd make the leftover crumbs for the cake sides way smaller
+    - Cook this for TWO hours, not one. Cooking only one hour results in pudding.
   - name: Savory Cheesecake
     url: https://www.foodnetwork.com/recipes/alton-brown/savory-cheesecake-recipe-1911362
     is_bonus: True

@@ -102,6 +102,10 @@ th.headerSortDown {
   margin-bottom: 50px;
 }
 
+.good-eats table.inline {
+  margin-bottom: 10px;
+}
+
 .good-eats table th, .good-eats table td {
   border: 1px solid #aaa;
   padding: 3px 2px 3px 12px;
