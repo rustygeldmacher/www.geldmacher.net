@@ -2,7 +2,7 @@
 layout: good_eats
 ---
 
-{% for post in site.tags.season_5 %}
+{% for post in site.tags.goodeats limit:10 %}
 
 <h3>{{ post.date | date: "%B %d, %Y" }}</h3>
 

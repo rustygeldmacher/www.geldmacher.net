@@ -37,6 +37,11 @@ module Jekyll
       end
 
       def render_recipe(recipe)
+        recipe_name = recipe['name']
+        if recipe['gluten_free']
+          recipe_name += " [GF]"
+        end
+
         crowd_rating = if recipe['crowd'].is_a?(String)
           recipe['crowd']
         else
@@ -44,7 +49,7 @@ module Jekyll
         end
 
         html = <<~HTML
-          <h3>#{recipe['name']}</h3>
+          <h3>#{recipe_name}</h3>
           <ul>
             <li><strong>Crowd</strong>: #{crowd_rating}</li>
             <li><strong>Ease</strong>: #{recipe['ease']}/5</li>
@@ -215,7 +220,11 @@ module Jekyll
       end
 
       def render_recipe_link(recipe)
-        "<a href=\"#{recipe['url']}\">#{recipe['name']}</a>"
+        recipe_name = recipe['name']
+        if recipe['gluten_free']
+          recipe_name += " [GF]"
+        end
+        "<a href=\"#{recipe['url']}\">#{recipe_name}</a>"
       end
 
       def render_stars(rating)

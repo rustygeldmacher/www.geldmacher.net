@@ -99,6 +99,13 @@
   recipes:
   - name: Sweet or Savory Pate a Choux
     url: https://www.foodnetwork.com/recipes/alton-brown/sweet-or-savory-pate-a-choux-recipe-1913361
+    cooked_on: 2026-02-21
+    gluten_free: true
+    crowd: 3
+    ease: 3
+    notes:
+    - Used 155g King Arthur Gluten Free 1:1 flour, and an extra Tbs butter
+    - Made Jello vanilla pudding using 1.5C milk instead of 2C as eclair filling
   - name: Funnel Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/funnel-cake-recipe-1912956
 
@@ -110,6 +117,15 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/broccoli-casserole-recipe-1940671
   - name: Curry Chicken Pot Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/curry-chicken-pot-pie-recipe-1912950
+    cooked_on: 2026-02-21
+    crowd: 4
+    ease: 3
+    notes:
+    - Used a whole can of chicken broth, then topped off to 3C total liquid with milk
+    - Adjusted based on the liquid content by adding another Tbs of flour and butter
+    - Used the white meat from a fresh supermarket rotisserie chicken
+    - Next time would halve the curry powder
+    - Next time would just put the whole sheet of puff pastry on top
   - name: Garlic Shrimp Casserole
     url: https://www.foodnetwork.com/recipes/alton-brown/garlic-shrimp-casserole-recipe-1912929
 
@@ -152,6 +168,11 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/buttercream-recipe-1913633
   - name: Ganache
     url: https://www.foodnetwork.com/recipes/alton-brown/ganache-recipe-1940765
+    cooked_on: 2026-02-21
+    crowd: 3
+    ease: 3
+    notes:
+    - Used 50% dark cacao dark chocolate, it was still very chocolatey
   - name: Writing Chocolate
     url: https://www.foodnetwork.com/recipes/alton-brown/writing-chocolate-recipe-1940985
 
