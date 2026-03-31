@@ -156,11 +156,16 @@ module Jekyll
 
       def initialize(tag_name, text, tokens)
         super
-        @season = text.to_i
+        @season_markup = text.strip
       end
 
       def render(context)
         @context = context
+        @season = if context[@season_markup]
+          context[@season_markup].to_i
+        else
+          @season_markup.to_i
+        end
 
         <<~HTML
           <table>

@@ -182,8 +182,20 @@
   recipes:
   - name: Beet Green Gratin
     url: https://www.foodnetwork.com/recipes/alton-brown/beet-green-gratin-recipe-1940928
+    cooked_on: 2026-03-28
+    crowd: 3
+    ease: 3
+    notes:
+    - Halved the recipe, used 6.5oz of greens after cutting the stems
   - name: Glazed Baby Beets
     url: https://www.foodnetwork.com/recipes/alton-brown/glazed-baby-beets-recipe-1940920
+    cooked_on: 2026-03-29
+    crowd: 4
+    ease: 3
+    notes:
+    - Used some beets that were small but not "baby"
+    - Needed to add another 10 minutes of cook time, then pulled the beets and cooked_on
+      down the glaze for another 5 minutes or so
   - name: Pickled Beets
     url: https://www.foodnetwork.com/recipes/alton-brown/pickled-beets-recipe-1913751
 

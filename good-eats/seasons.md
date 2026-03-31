@@ -5,21 +5,11 @@ body_class: good-eats
 
 ## Previously Completed Seasons
 
-### Season 4
+{% for season in (1..5) reversed %}
+### Season {{ season }}
 
-{% good_eats_season_table 4 %}
-
-### Season 3
-
-{% good_eats_season_table 3 %}
-
-### Season 2
-
-{% good_eats_season_table 2 %}
-
-### Season 1
-
-{% good_eats_season_table 1 %}
+{% good_eats_season_table season %}
+{% endfor %}
 
 <script type="text/javascript">
   $(function() {
