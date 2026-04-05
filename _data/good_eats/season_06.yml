@@ -85,6 +85,13 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/hot-spinach-and-artichoke-dip-recipe-1912620
   - name: Onion Dip from Scratch
     url: https://www.foodnetwork.com/recipes/alton-brown/onion-dip-from-scratch-recipe-1940409
+    cooked_on: 2026-04-04
+    crowd: 3
+    ease: 3
+    notes:
+    - Used 7.75oz of onion, next time would bump that up to 10-12oz.
+    - Added a quarter teaspoon of onion powder.
+    - Next time would swap a quarter cup of mayo with another quarter cup of sour cream.
 
 - title: Chops Ahoy
   season: 6
@@ -148,6 +155,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/beet-slaw-recipe-1940942
   - name: Marinated Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/marinated-slaw-recipe-1940867
+    cooked_on: 2026-03-31
+    crowd: 3
+    ease: 3
+    notes:
+    - Used half of a 4lb napa cabbage, one large green pepper and one large red pepper
+    - Did not salt the veggies, but added 1Tb salt to the brine
   - name: Asian Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307
 
