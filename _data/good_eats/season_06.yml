@@ -26,10 +26,28 @@
   recipes:
   - name: Broiled Chokes
     url: https://www.foodnetwork.com/recipes/alton-brown/broiled-chokes-recipe2-1939934
+    cooked_on: 2026-04-18
+    crowd: 3
+    ease: 2
+    notes:
+    - Used a paring knife rather than a peeler to trim the heart and choke
   - name: Herb Oil
     url: https://www.foodnetwork.com/recipes/alton-brown/herb-oil-recipe-1939767
+    cooked_on: 2026-04-18
+    crowd: 3
+    ease: 5
+    notes:
+    - Substituted lemon zest for the orange zest
   - name: Artichoke Pasta Salad
     url: https://www.foodnetwork.com/recipes/alton-brown/artichoke-pasta-salad-recipe-1912013
+    cooked_on: 2026-04-19
+    crowd: 4
+    ease: 4
+    notes:
+    - Used Kaizen lupini bean fusilli
+    - While I did marinate the artichoke stems, I left them out of the salad because they
+      were very chewy
+    - Left out the chicken, served as a side dish with grilled chicken
 
 - title: Good Milk Gone Bad
   season: 6
