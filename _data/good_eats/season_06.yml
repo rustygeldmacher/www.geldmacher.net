@@ -55,6 +55,13 @@
   recipes:
   - name: Fresh Yogurt
     url: https://www.foodnetwork.com/recipes/fresh-yogurt-recipe-1939865
+    cooked_on: 2026-04-24
+    crowd: 3
+    ease: 2
+    notes:
+    - Did first heat up to 180 degrees instead of the 120 in the recipe
+    - Used Fage Total 2% for the starter culture
+    - Couldn't get fermentation to 115, it hovered around 100 bur still came out fine
   - name: Lemon-Ginger Frozen Yogurt
     url: https://www.foodnetwork.com/recipes/lemon-ginger-frozen-yogurt-recipe-1939742
   - name: Tarragon Yogurt Sauce
@@ -63,6 +70,11 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/thousand-island-dressing-recipe-1939881
   - name: Herb Spread
     url: https://www.foodnetwork.com/recipes/alton-brown/herb-spread-recipe-1940049
+    cooked_on: 2026-04-25
+    crowd: 2
+    ease: 2
+    notes:
+    - Could have used twice the amount of garlic
   - name: Yogurt Cheese
     url: https://www.foodnetwork.com/recipes/alton-brown/yogurt-cheese-2103184
 
@@ -101,6 +113,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe-1940609
   - name: Hot Spinach and Artichoke Dip
     url: https://www.foodnetwork.com/recipes/alton-brown/hot-spinach-and-artichoke-dip-recipe-1912620
+    cooked_on: 2026-04-24
+    crowd: 4
+    ease: 3
+    notes:
+    - Used a jar and a half of Pastene baby artichokes in water (not marinated)
+    - Only used 2Tb mayo instead of the 4 that the recipe calls for
   - name: Onion Dip from Scratch
     url: https://www.foodnetwork.com/recipes/alton-brown/onion-dip-from-scratch-recipe-1940409
     cooked_on: 2026-04-04
@@ -203,7 +221,7 @@
     crowd: 3
     ease: 3
     notes:
-    - Used 50% dark cacao dark chocolate, it was still very chocolatey
+    - Used 50% cacao dark chocolate, it was still very chocolatey
   - name: Writing Chocolate
     url: https://www.foodnetwork.com/recipes/alton-brown/writing-chocolate-recipe-1940985
 
