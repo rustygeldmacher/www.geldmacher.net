@@ -1,16 +1,16 @@
 # <%= m resume.full_name %>
 
-[<%= resume.email %>](mailto:<%= resume.email %>) -- <%= resume.phone %>
+[<%= resume.email %>](mailto:<%= resume.email %>) -- <%= resume.phone %> -- Boston, MA -- [LinkedIn](<%= resume.links.linkedin %>) -- [GitHub](<%= resume.links.github %>)
 
 ## Summary
 <%= resume.summary %>
 
 ## Skills
-<% resume.skills.current.each do |skill| %>
-* <%= skill -%>
+<% resume.skills.current.each_pair do |category, items| %>
+* **<%= category -%>**: <%= items.join(', ') -%>
 <% end %>
 
-## Career
+## Experience
 <% resume.career.each_with_index do |job, job_i| %>
 ### [<%= job.company %>](<%= job.url %>) - <%= job.location %>
 <%- Array(job.details).each do |detail| %>
@@ -23,6 +23,7 @@ _<%= m job.summary -%>_
 
 <% job.roles.each do |role| -%>
 #### <%= role.role %>, <%= role_range(role) %>
+<% if role.note -%>*<%= role.note %>*<% end %>
 <% if job_i < resume.show_role_highlights -%>
 <% role.highlights.each do |highlight| %>
 * <%= highlight -%>
@@ -43,8 +44,3 @@ _<%= m job.summary -%>_
 <% end -%>
 
 <% end %>
-## Links
-
-<% resume.online.each do |link| -%>
-* [<%= link.title %>](<%= link.url %>)
-<% end -%>

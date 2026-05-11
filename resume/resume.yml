@@ -8,38 +8,50 @@ pdf: RustyGeldmacher.pdf
 show_role_highlights: 3
 show_jobs: 6
 links:
-- title: www.geldmacher.net/resume
-  url: http://www.geldmacher.net/resume
-- title: www.github.com/rustygeldmacher
-  url: http://www.github.com/rustygeldmacher
-- title: linkedin.com/in/rusty-geldmacher
-  url: https://www.linkedin.com/in/rusty-geldmacher/
+  github: http://www.github.com/rustygeldmacher
+  linkedin: https://www.linkedin.com/in/rusty-geldmacher
 summary: >
-  Senior technology leader combining hands-on engineering expertise with
-  management experience across multiple domains and technology stacks.
-  Demonstrated success in modernizing systems, automating infrastructure, and
-  establishing engineering practices that enable teams to deliver with
-  confidence and speed. Seeking an architect/principal engineer role where I
-  can apply my technical depth and leadership experience to drive transformative
-  initiatives that elevate engineering capabilities.
+  Staff+ engineering leader with 20+ years of experience modernizing complex systems, decomposing
+  monoliths, and building the platforms and practices that let engineering teams ship with
+  confidence. Track record of multi-million-dollar impact through infrastructure automation,
+  monolith decomposition, and legacy system decommissioning across Ruby on Rails and AWS
+  environments. Comfortable operating across the full stack — from hands-on implementation through
+  architectural strategy and organizational design — and experienced leading engineers through
+  ambiguous, cross-functional initiatives. Seeking a Staff, Principal, or Architect role where
+  deep technical ownership and broad influence drive transformative engineering work.
+summary-healthcare: >
+  Staff+ engineering leader with 20+ years of experience building and modernizing HIPAA-regulated
+  healthcare platforms, including electronic health records, patient communications, and cloud
+  infrastructure subject to HITRUST and CEHRT requirements. Track record of multi-million-dollar
+  impact through monolith decomposition, platform modernization, and legacy system decommissioning.
+  Equally comfortable architecting cutover strategies, leading engineers through ambiguous technical
+  problems, and partnering with stakeholders across clinical, product, and security organizations.
+  Seeking a Staff, Principal, or Architect role where deep technical ownership and cross-functional
+  influence drive the next generation of healthcare technology.
 skills:
   current:
-  - Ruby, Ruby on Rails
-  - DevOps & administration
-  - AWS & Cloud architecture
-  - Web architecture
-  - Automated testing
-  - Continuous integration
-  - Agile, Scrum, Kanban
-  - PostgreSQL, MySQL
-  - Terraform, Ansible, CDK
-  - Redis, ElasticSearch, RabbitMQ
-  - App servers, load balancing
-  - Docker, ECR
-  - HIPAA, HITRUST, CEHRT
-  - Git, GitHub admin, CircleCI
-  - SQL
-  - JavaScript, some TypeScript
+    'Languages & Frameworks':
+    - Ruby, Ruby on Rails
+    - JavaScript, TypeScript
+    - SQL
+    'AI Engineering':
+    - Agentic workflows, AI evaluation (LLM-as-judge, ground truth datasets)
+    - LangChain/LangGraph/LangSmith
+    - Claude, Cursor, Codex, Cline, Kiro
+    'Cloud & Infrastructure':
+    - AWS & Cloud architecture
+    - Terraform, CDK, Ansible
+    - Docker, ECS
+    'Data & Messaging':
+    - PostgreSQL, MySQL
+    - Redis, Elasticsearch, RabbitMQ
+    'Architecture & Practices':
+    - Web architecture
+    - DevOps & automation
+    - Git, GitHub admin, CircleCI
+    'Healthcare Standards & Compliance':
+    - HIPAA, HITRUST, CEHRT
+    - FHIR, HL7
   experience:
   - CSS, HTML
   - C#
@@ -48,7 +60,6 @@ skills:
   - Java
   - Tcl/Tk
   - MongoDB
-  - MySQL
   - Linux kernel
   - Embedded systems
   - JavaScript / jQuery
@@ -69,22 +80,30 @@ career:
   - role: SDE III (L6 Senior SDE)
     start: 2023-02
     highlights:
-    - Spearheaded effort to break down One Medical's Ruby on Rails monolith into
-      smaller domain services, focusing on functionality owned by a specific
-      sub-organization. Solved extraction issues including data consistency and
-      zero-downtime service migration.
-    - Created "Future of the Monolith" working group for One Medical's central
-      technology service. Successfully modularized the nearly 1M LOC Ruby service
-      using [Packwerk](https://github.com/Shopify/packwerk). Established
-      team-based ownership assignments for each module, achieving 100% code
-      ownership.
-    - Coordinated campaigns to help clean up and address technical debt in the
-      code base. These included removing unused API end points, removing unused
-      classes and rake tasks, and removing all last usage of deprecated v1 APIs in
-      order to clean those out of the code.
-    - Led the project to get One Medical's Ruby on Rails monolith through the
-      Amazon security review process. At the time, it was the largest single
-      security review that Amazon acquisitions security had ever done.
+    - As technical lead of up to 6 engineers, drove a multi-month decommissioning of a legacy
+      HIPAA-regulated healthcare platform — architecting the cutover strategy, re-implementing
+      critical missing capabilities (including a seamless SMS patient-communications subsystem),
+      and aligning dozens of stakeholder teams across the company — eliminating $1M+ in annual
+      operating costs and redeploying 4 engineering FTEs to new product development.
+    - Led One Medical through Amazon's largest-ever acquisition security review, spanning the full
+      scope of integrations, infrastructure surface area, and a ~1M LOC codebase. Personally drove
+      the effort end-to-end — coordinating engineering response and executing the majority of
+      remediation work — earning first-pass approval exactly on schedule and unlocking continued
+      business operations plus integration with Amazon systems (e.g., Login with Amazon).
+    - Led the "Future of the Monolith" working group through completion, modularizing One Medical's
+      ~1M LOC Ruby on Rails service using Packwerk; coordinated participation across ~30 teams and
+      200+ engineers, decomposed the codebase into ~100 modules, and established team ownership for
+      100% of the code — enabling automated production-error routing, owner-driven code review, and
+      a sharp reduction in defects from unfamiliar-code changes.
+    - Spearheaded extraction of the first domain service out of One Medical's Ruby on Rails monolith — a
+      ~20K LOC, 6-7 domain carve-out for a specific sub-organization — solving data-consistency and
+      zero-downtime cutover challenges, and intentionally building the patterns as a repeatable template
+      for other sub-orgs to extract their own services. Cut over during business hours with no downtime.
+    - Ran sustained technical-debt reduction campaigns across the monolith, coordinating with owning
+      teams to remove tens of thousands of lines of dead code — unused API endpoints, classes, and rake
+      tasks, plus all remaining usages of deprecated v1 APIs — reducing the codebase's security review
+      surface area, simplifying Packwerk modularization, fully retiring v1, and lowering ongoing
+      cognitive load.
 
 - company: One Medical
   location: San Francisco, CA (remote)
@@ -97,89 +116,97 @@ career:
     value: AWS, ECS, SNS/SQS, LaunchDarkly, Terraform, Docker, Prometheus, Grafana
   roles:
   - role: Senior Staff Engineer
-    start: 2022-10
+    start: 2022-06
     end: 2023-02
     highlights:
-    - Switched back to engineering, stayed on EE to help onboard the new manager.
-    - Moved to mostly supporting the teams within manager's (director)
-      organization when they needed extra help with architecture or navigating
-      tricky problems.
-    - Most role highlights in Amazon list.
+    - Initiated the "Future of the Monolith" effort — recognized the architectural risk of One Medical's
+      ~1M LOC Ruby on Rails monolith, built organizational consensus, formed the cross-functional working
+      group, and defined the Packwerk-based approach that I later led through completion at Amazon (see
+      above).
+    - Stepped in as tech lead for the team maintaining one of One Medical's core HIPAA-compliant
+      care-delivery platforms, establishing planning, prioritization, and engineering process, and
+      spearheading remediation of critical security findings.
+    - Designed and ran a domain-driven design workshop for the broader engineering organization,
+      building shared vocabulary and design practice that supported the modularization effort and
+      ongoing service-extraction work.
   - role: Senior Engineering Manager
     start: 2021-09
-    end: 2022-10
+    end: 2022-06
     highlights:
-    - Started the Engineering Efficiency team (later to become Engineering
-      Experience) whose goal is to build tooling and mechanisms to improve
-      development ergonomics, allowing developers to focus more time on solving
-      problems in their domain.
-    - Launched many successful efforts such as rolling out support for GitHub
-      Code Spaces, automating Rails upgrades, and CI/CD for the local development
-      environment setup scripts.
+    - Founded and led One Medical's Engineering Efficiency team (later Engineering Experience),
+      chartered to build the tooling and mechanisms that let engineers spend more time on domain
+      problems and less on undifferentiated developer-experience friction.
+    - Delivered initiatives including GitHub Codespaces rollout, automated Rails upgrades, and CI/CD
+      for local development environment setup — collectively reclaiming 2+ hours per week per engineer
+      previously lost to managing and fixing local environments.
 
 - company: Iora Health
   location: Boston, MA
   url: http://www.iorahealth.com
   details:
   - key: Stack
-    value: Ruby, Rails, EmberJS, Postgresql, Elasticsearch, Redis, RabbitMQ
+    value: Ruby, Rails, EmberJS, PostgreSQL, Elasticsearch, Redis, RabbitMQ
   - key: Operations
     value: AWS, Ansible, Docker, Packer, HAProxy, Sensu, Fluentd, Kibana, Grafana, InfluxDB
   - key: AWS
     value: ECS, RDS, ElastiCache, Route53, ELB, GuardDuty, DMS, S3, Lambda, CloudFront
-  # summary: >
-  #   Led engineering management team as Engineering Director; established career
-  #   development frameworks, standardized hiring processes, and implemented
-  #   feedback systems. As Platform Architect, provided cloud platform leadership
-  #   and guided modernization efforts. Started as Senior Staff Engineer
-  #   developing EHR features, created platform team, revamped cloud automation,
-  #   implemented monitoring systems, and organized agile development teams.
   roles:
   - role: Director of Engineering
     start: 2018-06
     end: 2021-09
+    note: Concurrently served as Platform Architect -- see below
     highlights:
-    - Led engineering management team with all engineering managers reporting to
-      this role. Established processes for engineer development, hiring,
-      onboarding, performance evaluation, and consistent management practices.
-    - Designed and launched Iora Engineering's title ladder, role descriptions,
-      and competency matrix to increase fairness and consistency in evaluations.
-    - Overhauled engineering's interviewing process to increase objectivity,
-      standardize focus areas, and reduce bias. Standardized onboarding process to
-      accelerate new hire productivity.
-    - Initiated a process of lightweight, quarterly feedback for all engineers
-      and managers. Created a formal goal-setting process between managers and
-      their reports. Formalized the management team and helped orient new
-      managers.
+    - Grew and led Iora's engineering management organization from 1 manager and 10 engineers to 4
+      managers and 24 engineers, establishing the hiring, onboarding, performance evaluation, and
+      coaching practices that scaled with the org.
+    - Designed and rolled out Iora Engineering's title ladder, role descriptions, and competency
+      matrix, producing more equitably calibrated promotions, measurable improvements in engineering
+      career satisfaction, and a framework that managers cited as their primary coaching and
+      calibration tool.
+    - Overhauled the engineering interview process to increase objectivity, standardize focus areas,
+      and reduce bias — resulting in a 50% increase in hires from underrepresented groups and zero
+      regretted hires across the remainder of my tenure. Standardized onboarding to accelerate new-hire
+      ramp.
+    - Instituted lightweight quarterly feedback and a formal manager-report goal-setting process;
+      engineering consistently ranked at the top of company-wide engagement scores, and the org
+      experienced zero voluntary engineering attrition under my leadership.
   - role: Platform Architect
     start: 2019-06
     end: 2021-09
+    note: Concurrently served as Director of Engineering -- see above
     highlights:
-    - Served as the architect and owner of Iora's cloud platform technology and
-      associated roadmap in addition to role as engineering director.
-    - Set architectural goals, prioritized deliverables, and ensured on-time
-      project completion.
-    - Directed platform team through migration to third-party managed services,
-      containerization of workloads, implementation of dedicated on-call rotation,
-      and improved system performance visibility.
+    - Founded and led Iora's Platform team (2-3 engineers) as architect and roadmap owner for the
+      cloud infrastructure supporting 12 Ruby on Rails services across three environments, used by
+      hundreds of internal clinical users and 40,000+ patients under HIPAA compliance.
+    - Drove migration of self-managed databases, RabbitMQ, and Elasticsearch from dedicated hosts
+      onto AWS managed services, sharply reducing operational burden and enabling a 2-3 engineer
+      team to fully own the platform as it scaled.
+    - Containerized the platform's Rails service fleet onto AWS ECS, simplifying deployment, scaling,
+      and environment parity across services.
+    - Established Iora's first dedicated platform on-call rotation, leveraging Sensu monitoring and
+      InfluxDB/Grafana metrics — reducing MTTR and improving system reliability.
   - role: Senior Staff Engineer
     start: 2015-06
     end: 2018-06
     highlights:
-    - Built features for Iora's Electronic Health Records system (Chirp) using
-      Ruby on Rails SOA backend and Backbone frontend. Migrated frontend from
-      Backbone to EmberJS. Implemented user-facing features, Rails APIs, and
-      backend business processes.
-    - Contributed to platform team creation, responsible for all aspects of
-      cloud operations, monitoring, reliability, scalability, and compliance.
-    - Revamped platform automation suite (Ansible, Packer) for consistency and
-      reproducibility across environments. Introduced immutable machine images and
-      zero-downtime system rebuilds during work hours.
-    - Introduced comprehensive monitoring, alerting, and metrics collection
-      throughout all environments by implementing Sensu, InfluxDB, and Grafana.
-    - Transformed development group into cohesive teams with agile processes to
-      reduce WIP, increase visibility, and implement regular retrospectives,
-      evolving company-wide work methodologies.
+    - Founding member of Iora's Platform team, helping define the team's charter and operating model.
+      Inherited and reshaped a tangle of legacy tooling — revamping the Ansible/Packer automation
+      suite for consistency and reproducibility across environments, and introducing immutable machine
+      images that enabled zero-downtime system rebuilds during work hours for the first time in Iora's
+      history.
+    - Architected and initiated the migration of Iora's Electronic Health Records platform from a
+      Backbone frontend to EmberJS. Designed an incremental migration strategy that ran in parallel with
+      ongoing feature development over the year-long effort, eliminating the need for a "stop the world"
+      rewrite and resulting in faster development cycles, reduced defects, easier developer onboarding,
+      and a more sustainable frontend stack.
+    - Introduced Iora's first comprehensive monitoring, alerting, and metrics infrastructure across all
+      environments using Sensu, InfluxDB, and Grafana — establishing the observability foundation that
+      later scaled across the platform during my Platform Architect tenure (see above).
+    - Co-drove Iora's transition from a single undifferentiated engineering group of 8-10 engineers into
+      structured teams running agile practices — partnering with another senior engineer under VP
+      Engineering sponsorship to introduce WIP limits, retrospectives, and team-based work allocation.
+      Took this on outside formal role responsibilities; the practices later spread beyond engineering
+      into non-technical teams and were doubled down on by company leadership.
 - company: Sermo WorldOne
   location: Boston, MA
   url: http://www.sermo.com
@@ -286,32 +313,32 @@ career:
       [Motorola A780](http://en.wikipedia.org/wiki/Motorola_A780), one
       of the first Linux-based smart-phones to ever hit the market.
 
-- company: Worcester Polytechnic Institute
-  url: http://www.wpi.edu
-  location: Worcester, MA
-  roles:
-  - role: Teaching Assistant
-    start: 2001-08
-    end: 2002-05
-    highlights:
-    - Assisted instruction in Introduction to Embedded Systems, Introduction to
-      Digital Circuitry, and VHDL.
-    - Ran lab sessions, ran help sessions, corrected homework and tests,
-      occasionally delivered lectures.
+# - company: Worcester Polytechnic Institute
+#   url: http://www.wpi.edu
+#   location: Worcester, MA
+#   roles:
+#   - role: Teaching Assistant
+#     start: 2001-08
+#     end: 2002-05
+#     highlights:
+#     - Assisted instruction in Introduction to Embedded Systems, Introduction to
+#       Digital Circuitry, and VHDL.
+#     - Ran lab sessions, ran help sessions, corrected homework and tests,
+#       occasionally delivered lectures.
 
-- company: Intel Corporation
-  url: http://www.intel.com
-  location: Hudson, MA
-  roles:
-  - role: Summer Intern
-    when: Summers 2000 & 2001
-    highlights:
-    - Worked in the Network Processor Operation on the IXP2800 network
-      processor.
-    - Designed and implemented a test bench environment for processor
-      peripherals on an APB bus.
-    - Designed and modeled a general purpose I/O peripheral device and tested it
-      with the APB test bench mentioned above.
+# - company: Intel Corporation
+#   url: http://www.intel.com
+#   location: Hudson, MA
+#   roles:
+#   - role: Summer Intern
+#     when: Summers 2000 & 2001
+#     highlights:
+#     - Worked in the Network Processor Operation on the IXP2800 network
+#       processor.
+#     - Designed and implemented a test bench environment for processor
+#       peripherals on an APB bus.
+#     - Designed and modeled a general purpose I/O peripheral device and tested it
+#       with the APB test bench mentioned above.
 
 education:
 - school: Worcester Polytechnic Institute
@@ -329,11 +356,3 @@ education:
   highlights:
   - Tau Beta Pi National Engineering Honor Society
   - Eta Kappa Nu National Electrical Engineering Honor Society
-
-online:
-- title: GitHub
-  url: http://www.github.com/rustygeldmacher
-- title: LinkedIn
-  url: https://www.linkedin.com/in/rusty-geldmacher
-- title: Stack Overflow
-  url: http://stackoverflow.com/users/214112/rusty

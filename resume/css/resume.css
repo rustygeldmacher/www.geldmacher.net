@@ -50,17 +50,13 @@ h4 {
 /* List styling */
 ul {
   list-style-type: disc;
-  padding-left: 2em;
+  padding-left: 1em;
 }
 
 /* General content spacing */
 p {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-}
-
-#skills + ul {
-  column-count: 3;
 }
 
 #skills + ul li {
@@ -75,10 +71,6 @@ footer {
 @media print {
   html {
     font-size: 16px;
-  }
-
-  #links + ul > li > a::after {
-    content: " (" attr(href) ")";
   }
 
   p.download {
