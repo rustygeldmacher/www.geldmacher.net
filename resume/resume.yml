@@ -32,7 +32,7 @@ skills:
   current:
     'Languages & Frameworks':
     - Ruby, Ruby on Rails
-    - JavaScript, TypeScript
+    - React, JavaScript, TypeScript
     - SQL
     'AI Engineering':
     - Agentic workflows, AI evaluation (LLM-as-judge, ground truth datasets)
