@@ -66,6 +66,11 @@
     url: https://www.foodnetwork.com/recipes/lemon-ginger-frozen-yogurt-recipe-1939742
   - name: Tarragon Yogurt Sauce
     url: https://www.foodnetwork.com/recipes/tarragon-yogurt-sauce-recipe-1940150
+    cooked_on: 2026-05-18
+    crowd: 4
+    ease: 3
+    notes:
+    - Used Fage 2% plain greek yogurt, but I think any yogurt would work here
   - name: Thousand Island Dressing
     url: https://www.foodnetwork.com/recipes/alton-brown/thousand-island-dressing-recipe-1939881
   - name: Herb Spread
