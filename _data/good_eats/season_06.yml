@@ -107,6 +107,12 @@
   recipes:
   - name: Good Brew
     url: https://www.foodnetwork.com/recipes/alton-brown/good-brew-2095730
+    cooked_on: 2026-04-10
+    crowd: 5
+    ease: 1
+    notes:
+    - This makes a wonderful English style bitter (pub ale)
+    - Used Alton's recipe, but also used my homebrew equipment and techniques
 
 - title: Dip Madness
   season: 6
