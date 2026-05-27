@@ -64,6 +64,16 @@
     - Couldn't get fermentation to 115, it hovered around 100 bur still came out fine
   - name: Lemon-Ginger Frozen Yogurt
     url: https://www.foodnetwork.com/recipes/lemon-ginger-frozen-yogurt-recipe-1939742
+    cooked_on: 2026-05-25
+    crowd: 5
+    ease: 2
+    notes:
+    - Grated the ginger (rather than minced which is what the recipe says)
+    - Did not mix the crystallized ginger into the yogurt, instead used it as a topping. But next time
+      I would add it in, because it adds a great little kick which is tempered by the coolness of the
+      yogurt.
+    - Used three light quarter cups of sugar, next time would use the full measure, or would try
+      substituting monk fruit sweetener or Swerve to try and cut down on sugar content.
   - name: Tarragon Yogurt Sauce
     url: https://www.foodnetwork.com/recipes/tarragon-yogurt-sauce-recipe-1940150
     cooked_on: 2026-05-18
@@ -82,6 +92,12 @@
     - Could have used twice the amount of garlic
   - name: Yogurt Cheese
     url: https://www.foodnetwork.com/recipes/alton-brown/yogurt-cheese-2103184
+    cooked_on: 2026-05-24
+    crowd: 3
+    ease: 3
+    notes:
+    - Used two containers of store bought 1.5% low fat plain yogurt
+    - A little more than 3 cups of liquid drained out
 
 - title: 'Egg Files V: Quantum Foam'
   season: 6
