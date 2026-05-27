@@ -99,7 +99,7 @@ desc "Upload the built site to the server"
 task :stage => [:build_resume, :build] do
   stage = [
     'cd _site',
-    'tar pczf ../release.tar.gz .',
+    'tar --no-xattrs --no-mac-metadata -pczf ../release.tar.gz .',
     "scp ../release.tar.gz #{DEPLOY_TARGET}:"
   ]
   system stage.join(' && ')
