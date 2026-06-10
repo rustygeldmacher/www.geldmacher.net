@@ -178,6 +178,8 @@
     - Made Jello vanilla pudding using 1.5C milk instead of 2C as eclair filling
   - name: Funnel Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/funnel-cake-recipe-1912956
+    notes:
+    - https://theglutenfreeaustrian.com/gluten-free-strauben-austrian-funnel-cake/
 
 - title: Casserole Over
   season: 6
@@ -198,6 +200,8 @@
     - Next time would just put the whole sheet of puff pastry on top
   - name: Garlic Shrimp Casserole
     url: https://www.foodnetwork.com/recipes/alton-brown/garlic-shrimp-casserole-recipe-1912929
+    notes:
+    - https://altonbrown.com/recipes/garlic-shrimp-casserole/
 
 - title: 'Use Your Noodle III: Fresh Pasta'
   season: 6
@@ -214,6 +218,12 @@
   recipes:
   - name: Coleslaw
     url: https://www.foodnetwork.com/recipes/alton-brown/coleslaw-recipe-1913464
+    cooked_on: 2026-06-08
+    crowd: 4
+    ease: 3
+    notes:
+    - Used half of a ~2.5lb red and green cabbage (weighed before cutting off stem and core)
+    - Used two medium carrots shredded on the box grater
   - name: Beet Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/beet-slaw-recipe-1940942
   - name: Marinated Slaw
@@ -233,6 +243,8 @@
   recipes:
   - name: Gold Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/gold-cake-recipe-1913120
+    notes:
+    - https://altonbrown.com/recipes/reloaded-gold-cake/
   - name: Cocoa Whipped Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-whipped-cream-recipe-1940855
 
@@ -242,6 +254,8 @@
   recipes:
   - name: Buttercream
     url: https://www.foodnetwork.com/recipes/alton-brown/buttercream-recipe-1913633
+    notes:
+    - https://altonbrown.com/recipes/five-ingredient-buttercream-reloaded/
   - name: Ganache
     url: https://www.foodnetwork.com/recipes/alton-brown/ganache-recipe-1940765
     cooked_on: 2026-02-21
