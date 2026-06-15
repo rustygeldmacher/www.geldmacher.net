@@ -138,6 +138,12 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/chicken-liver-mousse-recipe-1940241
   - name: Guacamole
     url: https://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe-1940609
+    cooked_on: 2026-06-13
+    crowd: 4
+    ease: 3
+    notes:
+    - Left out the jalapeño and cayenne to make a more crowd-friendly "mild" version
+    - Only used one Roma tomato
   - name: Hot Spinach and Artichoke Dip
     url: https://www.foodnetwork.com/recipes/alton-brown/hot-spinach-and-artichoke-dip-recipe-1912620
     cooked_on: 2026-04-24
