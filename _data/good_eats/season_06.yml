@@ -232,6 +232,12 @@
     - Used two medium carrots shredded on the box grater
   - name: Beet Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/beet-slaw-recipe-1940942
+    cooked_on: 2026-06-28
+    crowd: 2
+    ease: 3
+    notes:
+    - Halved the recipe -- the full recipe makes _a lot_ of slaw!
+    - Half recipe used ~2.5 medium sized beets to make 2 cups of spirals
   - name: Marinated Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/marinated-slaw-recipe-1940867
     cooked_on: 2026-03-31
@@ -290,10 +296,18 @@
     ease: 3
     notes:
     - Used some beets that were small but not "baby"
-    - Needed to add another 10 minutes of cook time, then pulled the beets and cooked_on
+    - Needed to add another 10 minutes of cook time, then pulled the beets and cooked
       down the glaze for another 5 minutes or so
   - name: Pickled Beets
     url: https://www.foodnetwork.com/recipes/alton-brown/pickled-beets-recipe-1913751
+    cooked_on: 2026-06-26
+    crowd: 2
+    ease: 3
+    notes:
+    - Halved the recipe. Used three medium beets. Almost but not quite was able to get all the
+      beets into the jar.
+    - Half of the liquid wasn't enough, needed to boil another half cup of water + vinegar to
+      top off the jar.
 
 - title: Fit to be Tied
   season: 6
