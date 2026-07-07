@@ -112,6 +112,12 @@
   recipes:
   - name: Stuffed Tomatoes
     url: https://www.foodnetwork.com/recipes/alton-brown/stuffed-tomatoes-recipe-1912619
+    cooked_on: 2026-07-06
+    crowd: 3
+    ease: 3
+    notes:
+    - Soaked the mushrooms for about an hour
+    - Used fresh mozzarella rather than goat cheese
   - name: TBL Panzanella
     url: https://www.foodnetwork.com/recipes/alton-brown/tbl-panzanella-recipe-2013422
   - name: Tomato Sauce
