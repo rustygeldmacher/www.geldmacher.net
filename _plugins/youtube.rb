@@ -6,7 +6,7 @@ require "cgi"
 #   {% youtube VIDEO_ID An optional accessible title %}
 #
 # Emits a static, privacy-friendly (youtube-nocookie.com) iframe sized by the
-# `.embed-container` rule in styles/custom.css. Unlike the old `{% oembed %}`
+# `.embed-container` rule in styles/styles.css. Unlike the old `{% oembed %}`
 # tag, it makes no network request at build time.
 module Jekyll
   class YouTubeTag < Liquid::Tag
