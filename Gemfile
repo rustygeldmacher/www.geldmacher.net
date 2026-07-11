@@ -1,13 +1,21 @@
 source 'http://rubygems.org'
 
 gem 'rake'
-gem 'jekyll', '~> 3.8.1'
-gem 'jekyll-contentblocks', '1.2.0'
-gem 'jekyll_oembed', :require => 'jekyll_oembed'
+gem 'jekyll', '~> 4.4.1'
+gem 'jekyll-contentblocks', '2.0.0'
+gem 'ruby-oembed', :require => 'oembed'  # oembed tag vendored into _plugins/oembed.rb
 gem 'pygments.rb'
 gem 'kramdown'
-gem 'pry-byebug'
 gem 'wkhtmltopdf-binary'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'foreman'
+
+# Loaded by rack/rake but being removed from Ruby's default gems in 4.0
+gem 'ostruct'
+
+# Jekyll needs these but they are no longer in Ruby stdlib
+# gem 'base64'
+# gem 'bigdecimal'
+# gem 'csv'
+# gem 'rexml'

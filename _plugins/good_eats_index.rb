@@ -46,7 +46,7 @@ module GoodEats
     def self.load_index
       data_files = File.expand_path('../../_data/good_eats/*.yml', __FILE__)
       Dir[data_files].each_with_object({}) do |filename, hash|
-        yaml = YAML.load(File.read(filename))
+        yaml = YAML.load(File.read(filename), permitted_classes: [Date, Time])
         yaml.each do |episode|
           season = episode['season']
           hash[season] ||= []
