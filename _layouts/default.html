@@ -13,8 +13,6 @@
     <title>rusty's home on the web</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="/styles/custom.css" rel="stylesheet">
 
     <script src="/js/jquery-1.12.4.min.js"></script>
@@ -30,21 +28,19 @@
     <div class="container">
 
       {% if layout.navbar or page.navbar %}
-      <div class="navbar navbar-fixed-top">
-        <div class="navbar-inner">
-          <a class="brand" href="/">&#8604; geldmacher.net</a>
-        </div>
-      </div>
+      <nav class="site-nav">
+        <a class="site-nav-brand" href="/">&#8604; geldmacher.net</a>
+      </nav>
       {% endif %}
 
-      <div class="row">
-        <div class="span4 sidebar">
+      <div class="layout">
+        <div class="sidebar">
           {% unless page.layout == 'good_eats_post' %}
           <h1>{{ page.title }}</h1>
           {% endunless %}
           {% contentblock sidebar %}
         </div>
-        <div class="span8 offset4 main">
+        <div class="main">
           {{ content }}
         </div>
       </div>

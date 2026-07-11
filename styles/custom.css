@@ -1,4 +1,91 @@
 @import url('//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic');
+
+/* ==========================================================================
+   Base element styles — formerly inherited from Bootstrap 2's reset +
+   typography. Placed after the @import but before the site's own rules so
+   those still override here (e.g. code color, h1 size) exactly as before.
+   ========================================================================== */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  color: #333;
+}
+
+a { color: #0088cc; text-decoration: none; }
+a:hover { color: #005580; text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 20px;
+  color: inherit;
+  text-rendering: optimizelegibility;
+}
+h1, h2, h3 { line-height: 40px; }
+h1 { font-size: 38.5px; }
+h2 { font-size: 31.5px; }
+h3 { font-size: 24.5px; }
+h4 { font-size: 17.5px; }
+h5 { font-size: 14px; }
+h6 { font-size: 11.9px; }
+
+p { margin: 0 0 10px; }
+
+ul, ol { padding: 0; margin: 0 0 10px 25px; }
+ul ul, ul ol, ol ol, ol ul { margin-bottom: 0; }
+
+dl { margin-bottom: 20px; }
+dt { font-weight: bold; }
+dd { margin-left: 10px; }
+
+code, pre {
+  padding: 0 3px 2px;
+  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-size: 12px;
+  color: #333;
+  border-radius: 3px;
+}
+code {
+  padding: 2px 4px;
+  color: #d14;
+  white-space: nowrap;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 20px;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border: 0;
+}
+
+img { max-width: 100%; vertical-align: middle; border: 0; }
+
+hr { margin: 20px 0; border: 0; border-top: 1px solid #eee; border-bottom: 1px solid #fff; }
+
+blockquote { padding: 0 0 0 15px; margin: 0 0 20px; border-left: 5px solid #eee; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+/* ========================================================================== */
+
 body {
   padding-top: 60px;
   font-family: "Lora", Georgia, "Times New Roman", Times, serif;
@@ -13,11 +100,43 @@ h1 {
 h1, h2, h3 {
   line-height: 52px;
 }
-.navbar {
+/* Fixed top navigation bar (was Bootstrap .navbar.navbar-fixed-top) */
+.site-nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  min-height: 40px;
   line-height: 20px;
+  background-color: #fafafa;
+  background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
+  background-repeat: repeat-x;
+  border-bottom: 1px solid #d4d4d4;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
 }
-.navbar .brand {
-  margin-left: 0;
+.site-nav-brand {
+  display: block;
+  float: left;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #777777;
+  text-shadow: 0 1px 0 #ffffff;
+}
+.site-nav-brand:hover {
+  color: #777777;
+  text-decoration: none;
+}
+/* Below the fixed-navbar width the bar scrolls with the page (matches Bootstrap) */
+@media (max-width: 979px) {
+  body {
+    padding-top: 0;
+  }
+  .site-nav {
+    position: static;
+    margin-bottom: 20px;
+  }
 }
 .sidebar img {
  padding-bottom: 16px;
@@ -96,6 +215,30 @@ th.headerSortDown {
   background-color: rgb(192, 192, 192);
 }
 
+/** Tables (was Bootstrap .table / .table-striped) **/
+.table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.table th,
+.table td {
+  padding: 8px;
+  line-height: 20px;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #dddddd;
+}
+.table th {
+  font-weight: bold;
+}
+.table thead th {
+  vertical-align: bottom;
+}
+.table-striped tbody > tr:nth-child(odd) > td,
+.table-striped tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9;
+}
+
 /** Progress table **/
 .good-eats table {
   width: 100%;
@@ -135,6 +278,40 @@ body.recipe-list .main h2:first-child {
   border: 0;
 }
 
+/* ==========================================================================
+   Layout — centered container with a fixed sidebar + offset main column
+   (replaces the Bootstrap grid: .container / .row / .spanN / .offsetN).
+   Column widths mirror Bootstrap 2's grid at each breakpoint.
+   ========================================================================== */
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+.sidebar {
+  width: 300px;
+}
+.main {
+  margin-left: 320px;
+}
+
+@media (min-width: 1200px) {
+  .container { width: 1170px; }
+  .sidebar  { width: 370px; }
+  .main     { margin-left: 400px; }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  .container { width: 724px; }
+  .sidebar  { width: 228px; }
+  .main     { margin-left: 248px; }
+}
+
+@media (max-width: 767px) {
+  .container { width: auto; padding: 0 20px; }
+  .sidebar  { width: auto; }
+  .main     { margin-left: 0; }
+}
+
 /* Non-mobile specific styles */
 @media (min-width: 768px) {
   body.home {
@@ -152,5 +329,9 @@ body.recipe-list .main h2:first-child {
   }
   ul.service-links {
     margin: 10px auto 10px auto;
+  }
+  /* was Bootstrap's .hidden-phone responsive utility */
+  .hidden-phone {
+    display: none !important;
   }
 }
