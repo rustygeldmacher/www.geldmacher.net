@@ -8,6 +8,8 @@ gem 'kramdown'
 gem 'wkhtmltopdf-binary'
 gem 'sinatra'
 gem 'sinatra-contrib'
+gem 'rackup'    # Rack 3 split the server handler out of rack; Sinatra 4 needs it
+gem 'webrick'   # Rack handler used to run the local Sinatra server
 gem 'foreman'
 
 # Loaded by rack/rake but being removed from Ruby's default gems in 4.0
