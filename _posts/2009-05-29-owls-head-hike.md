@@ -48,7 +48,7 @@ The whole time we had our GPS running so we got tracks of the entire thing. I've
 
 ### Video
 
-{% oembed http://www.youtube.com/watch?v=K-v4oD6PXZU %}
+{% youtube K-v4oD6PXZU River Crossing %}
 
 ### Pictures
 

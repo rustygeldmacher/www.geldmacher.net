@@ -3,7 +3,6 @@ source 'http://rubygems.org'
 gem 'rake'
 gem 'jekyll', '~> 4.4.1'
 gem 'jekyll-contentblocks', '2.0.0'
-gem 'ruby-oembed', :require => 'oembed'  # oembed tag vendored into _plugins/oembed.rb
 gem 'pygments.rb'
 gem 'kramdown'
 gem 'wkhtmltopdf-binary'

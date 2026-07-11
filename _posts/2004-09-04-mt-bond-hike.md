@@ -31,7 +31,7 @@ tags: hike
 
 ### Video
 
-{% oembed http://www.youtube.com/watch?v=PJoVXul1PNY %}
+{% youtube PJoVXul1PNY Sea of Clouds %}
 
 ### Pictures
 

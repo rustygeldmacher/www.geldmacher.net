@@ -26,7 +26,7 @@ Hiking Washington is bittersweet -- due to the [auto road](http://www.mountwashi
 
 ### Video
 
-{% oembed http://www.youtube.com/watch?v=Kt3Ui_ognmo %}
+{% youtube Kt3Ui_ognmo Mount Washington Fog %}
 
 ### Pictures
 

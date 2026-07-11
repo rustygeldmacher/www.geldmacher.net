@@ -29,11 +29,11 @@ participants: Chris Barnes, Mike Carlin, Rusty Geldmacher, Dan Jacques
 
 ### Video
 
-{% oembed http://www.youtube.com/watch?v=T7Ja0r09xUc %}
+{% youtube T7Ja0r09xUc Rusty makes river crossing %}
 
-{% oembed http://www.youtube.com/watch?v=8gSRmCHv10k %}
+{% youtube 8gSRmCHv10k Dan takes a header %}
 
-{% oembed http://www.youtube.com/watch?v=JjREooFI4e4 %}
+{% youtube JjREooFI4e4 Dan gets out of river %}
 
 ### Pictures
 
