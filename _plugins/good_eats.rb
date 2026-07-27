@@ -255,6 +255,12 @@ module Jekyll
   end
 end
 
+# Drop the cached season YAML at the start of every (re)build so edits to
+# _data/good_eats/*.yml show up under `jekyll build --watch` without a restart.
+Jekyll::Hooks.register :site, :after_reset do |site|
+  GoodEats::Index.reset!
+end
+
 Liquid::Template.register_tag('good_eats_progress', Jekyll::GoodEats::Progress)
 Liquid::Template.register_tag('good_eats_season_table', Jekyll::GoodEats::SeasonTable)
 Liquid::Template.register_tag('good_eats_recipe_notes', Jekyll::GoodEats::RecipeNotes)

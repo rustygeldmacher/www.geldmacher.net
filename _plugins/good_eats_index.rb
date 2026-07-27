@@ -37,6 +37,14 @@ module GoodEats
       recipe['url']
     end
 
+    # Clear the memoized YAML so the next build re-reads _data. Jekyll's
+    # --watch reuses one long-lived process, so without this the cache
+    # would go stale after the first build.
+    def self.reset!
+      @index = nil
+      @recipes = nil
+    end
+
     private
 
     def self.index
