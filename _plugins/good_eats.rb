@@ -21,6 +21,8 @@ module Jekyll
 
     class RecipeNotes < Liquid::Tag
       def render(context)
+        @converter = context.registers[:site].find_converter_instance(Jekyll::Converters::Markdown)
+
         recipe_notes = []
         recipes = find_recipes(context)
 
@@ -60,7 +62,14 @@ module Jekyll
 
       def render_notes(recipe)
         notes = Array(recipe['notes'])
-        notes.map { |n| "<li>#{n}</li>" }.join("\n")
+        notes.map { |n| "<li>#{render_markdown(n)}</li>" }.join("\n")
+      end
+
+      # Render a note as an inline Markdown snippet, stripping the single
+      # wrapping <p> that Kramdown adds around a one-paragraph string.
+      def render_markdown(text)
+        html = @converter.convert(text.to_s).strip
+        html.sub(/\A<p>/, '').sub(/<\/p>\z/, '')
       end
 
       def find_recipes(context)
