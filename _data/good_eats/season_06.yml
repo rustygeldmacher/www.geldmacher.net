@@ -196,9 +196,12 @@
     - Made Jello vanilla pudding using 1.5C milk instead of 2C as eclair filling
   - name: Funnel Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/funnel-cake-recipe-1912956
+    cooked_on: 2026-07-25
+    gluten_free: true
+    crowd: 4
+    ease: 2
     notes:
-    - https://theglutenfreeaustrian.com/gluten-free-strauben-austrian-funnel-cake/
-
+    - Used a gluten free recipe from [here](https://theglutenfreeaustrian.com/gluten-free-strauben-austrian-funnel-cake/)
 - title: Casserole Over
   season: 6
   number: 11
