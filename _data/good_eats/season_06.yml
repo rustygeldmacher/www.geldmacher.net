@@ -128,6 +128,15 @@
     - Left out the mint, used double the basil
   - name: Tomato Sauce
     url: https://www.foodnetwork.com/recipes/alton-brown/tomato-sauce-recipe-1912571
+    cooked_on: 2026-07-29
+    crowd: 4
+    ease: 2
+    notes:
+    - Cooked for 1.5hr at 300, then 30m at 325, then 30m at 400
+    - Only made about a cup and a quarter of sauce
+    - Added the herbs while cooking with the wine
+    - Added only 1/4 cup of wine
+    - Added a teaspoon of sugar to combat bitterness
 
 - title: 'True Brew III: Amber Waves'
   season: 6
