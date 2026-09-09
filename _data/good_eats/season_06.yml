@@ -12,10 +12,23 @@
   recipes:
   - name: Macerated Strawberries
     url: https://www.foodnetwork.com/recipes/alton-brown/macerated-strawberries-recipe2-1939989
+    cooked_on: 2026-08-17
+    crowd: 4
+    ease: 3
+    notes:
+    - Used Ruby Port instead of regular red wine
   - name: Strawberry Pudding
     url: https://www.foodnetwork.com/recipes/alton-brown/strawberry-pudding-recipe-1939789
+    cooked_on: 2026-08-18
+    crowd: 3
+    ease: 3
+    notes:
+    - Used Promise Gluten Free brioche bread instead of potato bread. Did not leave it out for
+      two hours to dry.
   - name: Clotted Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/clotted-cream-2103048
+    notes:
+    - Used Alton's [updated clotted cream recipe](https://altonbrown.com/recipes/slow-cooker-clotted-cream/)
   - name: Frozen Strawberries
     url: https://www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039
 
@@ -217,6 +230,13 @@
   recipes:
   - name: Broccoli Casserole
     url: https://www.foodnetwork.com/recipes/alton-brown/broccoli-casserole-recipe-1940671
+    cooked_on: 2026-09-06
+    crowd: 3
+    ease: 3
+    notes:
+    - Used one pound of broccoli florets
+    - Substituted ranch for blue cheese
+    - Used gluten free ramen -- next time need to cook the noodles first
   - name: Curry Chicken Pot Pie
     url: https://www.foodnetwork.com/recipes/alton-brown/curry-chicken-pot-pie-recipe-1912950
     cooked_on: 2026-02-21
