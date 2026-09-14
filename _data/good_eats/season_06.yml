@@ -299,19 +299,36 @@
   recipes:
   - name: Gold Cake
     url: https://www.foodnetwork.com/recipes/alton-brown/gold-cake-recipe-1913120
+    cooked_on: 2026-09-12
+    gluten_free: True
+    crowd: 5
+    ease: 3
     notes:
-    - https://altonbrown.com/recipes/reloaded-gold-cake/
+    - Used the [reloaded recipe](https://altonbrown.com/recipes/reloaded-gold-cake/) instead of
+      the original episode's recipe
+    - Substituted Better Batter GF flour for all the flour in the recipe
+    - Rested the batter for 25min after mixing
+    - Baked 12 cupcakes, which took 18min total baking time
   - name: Cocoa Whipped Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/cocoa-whipped-cream-recipe-1940855
-
+    cooked_on: 2026-09-12
+    crowd: 3
+    ease: 3
+    notes:
+    - Put the mixer bowl in the freezer for about 2 hours before mixing
 - title: The Icing Man Cometh
   season: 6
   number: 15
   recipes:
   - name: Buttercream
     url: https://www.foodnetwork.com/recipes/alton-brown/buttercream-recipe-1913633
+    cooked_on: 2026-09-12
+    crowd: 5
+    ease: 2
     notes:
-    - https://altonbrown.com/recipes/five-ingredient-buttercream-reloaded/
+    - Used the [reloaded recipe](https://altonbrown.com/recipes/five-ingredient-buttercream-reloaded/) instead of
+      the original episode's recipe
+    - Added half a teaspoon of vanilla. Would be interesting to try and make this wth chocolate.
   - name: Ganache
     url: https://www.foodnetwork.com/recipes/alton-brown/ganache-recipe-1940765
     cooked_on: 2026-02-21
@@ -321,6 +338,12 @@
     - Used 50% cacao dark chocolate, it was still very chocolatey
   - name: Writing Chocolate
     url: https://www.foodnetwork.com/recipes/alton-brown/writing-chocolate-recipe-1940985
+    cooked_on: 2026-02-21
+    crowd: 5
+    ease: 5
+    notes:
+    - Used standard semi-sweet chips
+    - It does not come out of the microwave looking like a sauce -- you need to stir after heating it
 
 - title: Beet It
   season: 6
