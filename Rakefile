@@ -1,5 +1,6 @@
 DEPLOY_TARGET="geldmacher@www.geldmacher.net"
 CHROME_PATH="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
+BUILD_RESUME_PORT=4568
 
 desc "Show the tags that the posts have"
 task :tags do
@@ -37,16 +38,15 @@ task :build_resume do
     require_relative 'server'
 
     Thread.new do
-      WwwGeldmacherNetServer.run!
+      WwwGeldmacherNetServer.run!(port: BUILD_RESUME_PORT)
     end
 
     sleep 5
 
     FileUtils.rm_f('resume/index.html')
     FileUtils.rm_f('resume/RustyGeldmacher.pdf')
-    system('curl --silent http://localhost:4567/resume/ > resume/index.html')
-    # system('wkhtmltopdf --print-media-type http://localhost:4567/resume/ resume/RustyGeldmacher.pdf')
-    system("'#{CHROME_PATH}' --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume/RustyGeldmacher.pdf http://localhost:4567/resume/")
+    system("curl --silent http://localhost:#{BUILD_RESUME_PORT}/resume/ > resume/index.html")
+    system("'#{CHROME_PATH}' --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume/RustyGeldmacher.pdf http://localhost:#{BUILD_RESUME_PORT}/resume/")
   end
 end
 
