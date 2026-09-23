@@ -17,6 +17,19 @@
 
     <script src="/js/jquery-1.12.4.min.js"></script>
     <script src="/js/jquery.tablesorter.min.js"></script>
+    <script>
+      // Keep the legacy 2.0.x header class names so styles.css still applies.
+      // In every sort direction, non-numeric text (e.g. "N/A") sinks to the
+      // bottom of a numeric column, and blank cells sink below even that.
+      $.extend($.tablesorter.defaults, {
+        theme: '',
+        cssHeader: 'header',
+        cssAsc: 'headerSortUp',
+        cssDesc: 'headerSortDown',
+        emptyTo: 'bottom',
+        stringTo: 'bottom'
+      });
+    </script>
   </head>
 
 {% if page.body_class %}

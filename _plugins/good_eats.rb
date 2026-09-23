@@ -182,8 +182,8 @@ module Jekyll
               <tr>
                 <th>Date</th>
                 <th>Recipe</th>
-                <th>Crowd</th>
-                <th>Ease</th>
+                <th data-sorter="digit">Crowd</th>
+                <th data-sorter="digit">Ease</th>
               </tr>
             </thead>
             <tbody>
@@ -200,8 +200,8 @@ module Jekyll
               <tr>
                 <td>#{render_cooked_date(recipe)}</td>
                 <td>#{render_recipe_link(recipe)}</td>
-                <td>#{render_stars(recipe['crowd'])}</td>
-                <td>#{render_stars(recipe['ease'])}</td>
+                #{render_rating_cell(recipe['crowd'])}
+                #{render_rating_cell(recipe['ease'])}
               </tr>
             HTML
           end
@@ -239,6 +239,19 @@ module Jekyll
           recipe_name += " [GF]"
         end
         "<a href=\"#{recipe['url']}\">#{recipe_name}</a>"
+      end
+
+      # Render a rating as a table cell. The star glyphs don't sort sensibly on
+      # their own, so numeric ratings carry a `data-text` sort value that
+      # tablesorter uses instead of the cell text. Ratings recorded as free text
+      # (e.g. "N/A") deliberately get no sort value: tablesorter's `stringTo`
+      # then sinks them to the bottom of the column, and `emptyTo` sinks empty
+      # cells below those, in both sort directions.
+      def render_rating_cell(rating)
+        return "<td></td>" if rating.nil?
+        return "<td data-text=\"#{rating}\">#{rating}</td>" if rating.is_a?(String)
+
+        "<td data-text=\"#{rating}\">#{render_stars(rating)}</td>"
       end
 
       def render_stars(rating)
