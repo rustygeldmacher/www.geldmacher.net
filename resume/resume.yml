@@ -36,8 +36,8 @@ skills:
     - SQL
     'AI Engineering':
     - Agentic workflows, AI evaluation (LLM-as-judge, ground truth datasets)
-    - LangChain/LangGraph/LangSmith
-    - Claude, Cursor, Codex, Cline, Kiro
+    - LangChain/LangGraph/Langfuse
+    - Claude, Codex, Cline, Kiro
     'Cloud & Infrastructure':
     - AWS & Cloud architecture
     - Terraform, CDK, Ansible
