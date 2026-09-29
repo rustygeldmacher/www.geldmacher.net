@@ -27,8 +27,13 @@
       two hours to dry.
   - name: Clotted Cream
     url: https://www.foodnetwork.com/recipes/alton-brown/clotted-cream-2103048
+    cooked_on: 2026-09-27
+    crowd: 4
+    ease: 4
     notes:
-    - Used Alton's [updated clotted cream recipe](https://altonbrown.com/recipes/slow-cooker-clotted-cream/)
+    - Tried Alton's [updated clotted cream recipe](https://altonbrown.com/recipes/slow-cooker-clotted-cream/) at
+      first, which didn't work so well
+    - This is not traditional clotted cream -- it's more like butter, which is still good though
   - name: Frozen Strawberries
     url: https://www.foodnetwork.com/recipes/alton-brown/frozen-strawberries-recipe2-1912039
     cooked_on: 2026-08-18
@@ -102,6 +107,11 @@
     - Used Fage 2% plain greek yogurt, but I think any yogurt would work here
   - name: Thousand Island Dressing
     url: https://www.foodnetwork.com/recipes/alton-brown/thousand-island-dressing-recipe-1939881
+    cooked_on: 2026-09-28
+    crowd: 3
+    ease: 3
+    notes:
+    - Used half as much mustard powder
   - name: Herb Spread
     url: https://www.foodnetwork.com/recipes/alton-brown/herb-spread-recipe-1940049
     cooked_on: 2026-04-25
@@ -124,6 +134,13 @@
   recipes:
   - name: Cheese Souffle
     url: https://www.foodnetwork.com/recipes/alton-brown/cheese-souffle-recipe-1912330
+    cooked_on: 2026-09-27
+    crowd: 4
+    ease: 3
+    notes:
+    - Used a yellow, mild cheddar. Maybe next time would try a white cheddar.
+    - Might use half the dry mustard next time.
+    - Added a tablespoon of water to the egg whites, like on the show (not mentioned in the online recipe)
 
 - title: Tomato Envy
   season: 6
@@ -390,3 +407,11 @@
     url: https://www.foodnetwork.com/recipes/alton-brown/fish-roll-with-compound-butter-recipe-1941125
   - name: Braciole
     url: https://www.foodnetwork.com/recipes/alton-brown/braciole-recipe-1913494
+    cooked_on: 2026-09-28
+    crowd: 5
+    ease: 3
+    notes:
+    - Would try butterflying the meat next time to speed up the thinning process
+    - Cooked at 350 for one hour, then 325 for 30m
+    - Used a 24oz jar of store bought marinara sauce
+    - Next time would love to try cooking at 300 for 3 hours
