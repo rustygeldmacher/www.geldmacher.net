@@ -14,7 +14,7 @@ module Jekyll
       <<~HTML
         <h3>#{text.strip}: #{progress} of #{total}</h3>
 
-        <div class="progressbar-container">
+        <div class="progressbar-container" title="#{percentage.round}%">
           <div class="#{css_class}" style="#{width}"> </div>
         </div>
       HTML
