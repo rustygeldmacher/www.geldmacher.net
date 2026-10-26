@@ -5,6 +5,12 @@
   recipes:
   - name: Chimney Tuna Loin
     url: https://www.foodnetwork.com/recipes/alton-brown/chimney-tuna-loin-recipe-1911894
+    cooked_on: 2026-10-24
+    crowd: 5
+    ease: 3
+    notes:
+    - Left out the wasabi and added a couple of teaspoons of ginger instead
+    - Could probably have gone more than 30s per side, but it still came out spectacularly
 
 - title: Strawberry Sky
   season: 6
@@ -273,8 +279,13 @@
     - Next time would just put the whole sheet of puff pastry on top
   - name: Garlic Shrimp Casserole
     url: https://www.foodnetwork.com/recipes/alton-brown/garlic-shrimp-casserole-recipe-1912929
+    cooked_on: 2026-10-25
+    crowd: 3
+    ease: 3
     notes:
-    - https://altonbrown.com/recipes/garlic-shrimp-casserole/
+    - Followed Alton's [revised recipe](https://altonbrown.com/recipes/garlic-shrimp-casserole/)
+    - Used a 14.4oz package of frozen stir-fry veggies. Next time would use two.
+    - Next time would use a little less of the broth/cream binder.
 
 - title: 'Use Your Noodle III: Fresh Pasta'
   season: 6
@@ -315,6 +326,11 @@
     - Did not salt the veggies, but added 1Tb salt to the brine
   - name: Asian Slaw
     url: https://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307
+    cooked_on: 2026-10-24
+    crowd: 3
+    ease: 3
+    notes:
+    - Substituted a pablano pepper for the 2 serrano chiles
 
 - title: A Cake on Every Plate
   season: 6
