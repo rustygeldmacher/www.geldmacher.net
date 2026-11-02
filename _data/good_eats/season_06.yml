@@ -293,8 +293,22 @@
   recipes:
   - name: Ravioli
     url: https://www.foodnetwork.com/recipes/alton-brown/ravioli-recipe-1940188
+    cooked_on: 2026-10-30
+    gluten_free: True
+    crowd: 4
+    ease: 2
+    notes:
+    - Used [Wendy Wark flour blend](https://www.glutenfreepalace.com/products/authentic-foods-multi-blend-gluten-free-flour?variant=34813253025927)
+    - Used 3 eggs instead of two
   - name: Tortellini
     url: https://www.foodnetwork.com/recipes/alton-brown/tortellini-recipe-2011857
+    cooked_on: 2026-11-01
+    gluten_free: True
+    crowd: 4
+    ease: 2
+    notes:
+    - Used [Wendy Wark flour blend](https://www.glutenfreepalace.com/products/authentic-foods-multi-blend-gluten-free-flour?variant=34813253025927)
+    - Used 3 eggs instead of two
 
 - title: 'Salad Daze II: The Long Arm of the Slaw'
   season: 6
